@@ -1,0 +1,65 @@
+[
+  {
+    "industry": "1CDevelopment",
+    "keywords": [
+      "1c программист",
+      "1c developer",
+      "1c programmer",
+      "разработчик 1с"
+    ]
+  },
+  {
+    "industry": "AI",
+    "keywords": [
+      "data science",
+      "ml engineer",
+      "machine learning engineer",
+      "искусственный интеллект"
+    ]
+  },
+  {
+    "industry": "AnalyticsBI",
+    "keywords": [
+      "bi developer",
+      "business intelligence",
+      "data analytics",
+      "product analytics"
+    ]
+  },
+  {
+    "industry": "ChatBots",
+    "keywords": [
+      "чат-бот",
+      "chatbot",
+      "bot developer",
+      "разработчик чат-ботов",
+      "telegram bot",
+      "телеграм бот",
+      "nlp engineer"
+    ]
+  },
+  {
+    "industry": "EdTech",
+    "keywords": [
+      "edtech",
+      "онлайн-образование",
+      "онлайн школа",
+      "методист онлайн-курсов"
+    ]
+  },
+  {
+    "industry": "GameDev",
+    "keywords": [
+      "gamedev",
+      "game developer",
+      "unity developer",
+      "unreal engine",
+      "игровой разработчик",
+      "unity программист",
+      "unreal разработчик",
+      "game designer",
+      "игровой дизайнер",
+      "level designer"
+    ]
+  }
+]
