@@ -64,11 +64,12 @@ class LlamaClient:
         outputs = self.pipe(
             prompt,
             max_new_tokens=max_new_tokens,
-            do_sample=False,
-            batch_size=1,
+            do_sample=True,
+            top_p=0.9,
+            temperature=0.4,  # низкая температура → стабильный ответ
+            return_full_text=False,
         )
-        result = outputs[0]
-        text = result["generated_text"]
+        text = outputs[0]["generated_text"]
         return text.strip()
 
     # батч запросов

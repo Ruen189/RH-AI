@@ -62,6 +62,15 @@ def analyze_vacancies(vacancies_path: str, out_path: str):
 
             comps = parse_competencies(raw)
 
+            # если модель ничего не выдала → ставим "-"
+            if not comps:
+                comps = ["-"]
+            else:
+                # на всякий случай чистим None / пустые строки
+                comps = [c if (isinstance(c, str) and c.strip()) else "-" for c in comps]
+                # убираем дубли и лишние дефисы
+                comps = list(dict.fromkeys(c.strip() for c in comps if c and c != "-")) or ["-"]
+
             results.append({
                 "vacancy_id": meta["vacancy_id"],
                 "industry": meta["industry"],

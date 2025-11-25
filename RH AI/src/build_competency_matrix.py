@@ -1,109 +1,176 @@
 # src/build_competency_matrix.py
-import json
-from collections import defaultdict
-from tqdm import tqdm
-from llm_client import get_llama
-from llm_prompts import MATRIX_SIMILARITY_PROMPT
 
-def load_json(path):
+import json
+from collections import defaultdict, Counter
+from typing import Dict, List
+
+
+def load_json(path: str):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def group_by_industry(competencies_list, id_field: str):
-    """
-    competencies_list: список объектов вида
-      { id_field, industry, competencies: [строки или старые dict'ы] }
-    """
-    res = defaultdict(lambda: defaultdict(list))
-    for item in competencies_list:
-        ind = item.get("industry") or "Unknown"
-        item_id = item[id_field]
 
-        names = []
-        for c in item.get("competencies", []):
-            if isinstance(c, dict):
-                name = c.get("name")
-            else:
-                name = str(c)
-            if name:
-                names.append(name.strip())
+def normalize_competencies(raw) -> List[str]:
+    """
+    Приводим поле competencies к списку строк.
+    Игнорируем '-', None и пустые строка.
+    """
+    if raw is None:
+        return []
+    if isinstance(raw, str):
+        if raw.strip() in ("", "-"):
+            return []
+        # на всякий случай — если вдруг компетенции пришли через запятую
+        parts = [p.strip() for p in raw.split(",")]
+        return [p for p in parts if p]
+    if isinstance(raw, list):
+        result = []
+        for c in raw:
+            if not isinstance(c, str):
+                continue
+            c = c.strip()
+            if not c or c == "-":
+                continue
+            result.append(c)
+        return result
+    return []
 
-        res[ind][item_id] = names
-    return res
+
+def build_demand_by_industry(industry_file: str) -> Dict[str, Counter]:
+    """
+    Спрос: по вакансиям.
+    industry_competencies_llm_clean_updated.json
+    [
+      { "vacancy_id": "...", "industry": "...", "title": "...", "competencies": [...] },
+      ...
+    ]
+    """
+    data = load_json(industry_file)
+    demand: Dict[str, Counter] = defaultdict(Counter)
+
+    for item in data:
+        industry = item.get("industry") or "Unknown"
+        comps = normalize_competencies(item.get("competencies"))
+        for comp in comps:
+            demand[industry][comp] += 1
+
+    return demand
+
+
+def build_supply_by_industry(project_file: str) -> Dict[str, Counter]:
+    """
+    Предложение: по проектам.
+    project_competencies_llm_clean_updated.json
+    [
+      { "project_id": ..., "industry": "AI/EdTech", "title": "...", "competencies": [...] },
+      ...
+    ]
+
+    В проекте может быть несколько индустрий через "/":
+      "AI/EdTech/GameDev" -> ["AI", "EdTech", "GameDev"]
+    Каждой такой индустрии начисляем компетенции этого проекта.
+    """
+    data = load_json(project_file)
+    supply: Dict[str, Counter] = defaultdict(Counter)
+
+    for item in data:
+        raw_industry = item.get("industry") or "Unknown"
+        # делим по "/", т.к. часто бывают комбинированные индустрии
+        industries = [part.strip() for part in str(raw_industry).split("/") if part.strip()]
+        if not industries:
+            industries = ["Unknown"]
+
+        comps = normalize_competencies(item.get("competencies"))
+        for industry in industries:
+            for comp in comps:
+                supply[industry][comp] += 1
+
+    return supply
+
 
 def build_matrices(
-    industry_comp_path: str,
-    project_comp_path: str,
-    matrix_out_path: str,
-    gaps_out_path: str
+    industry_input: str,
+    project_input: str,
+    matrix_output: str,
+    gaps_output: str,
 ):
-    llama = get_llama()
+    # 1) агрегируем спрос и предложение
+    demand = build_demand_by_industry(industry_input)
+    supply = build_supply_by_industry(project_input)
 
-    ind_comp = load_json(industry_comp_path)
-    proj_comp = load_json(project_comp_path)
+    # множество всех индустрий
+    all_industries = sorted(set(demand.keys()) | set(supply.keys()))
 
-    ind_by_industry = group_by_industry(ind_comp, id_field="vacancy_id")
-    proj_by_industry = group_by_industry(proj_comp, id_field="project_id")
+    matrix_rows = []          # для competency_matrix.json
+    industry_summaries = []   # для competency_gaps_and_redundancy.json
 
-    matrices = {}
-    gaps_and_redundancy = {}
+    for industry in all_industries:
+        demand_counter = demand.get(industry, Counter())
+        supply_counter = supply.get(industry, Counter())
 
-    for industry, vac_dict in ind_by_industry.items():
-        project_dict = proj_by_industry.get(industry, {})
+        all_comps = sorted(set(demand_counter.keys()) | set(supply_counter.keys()))
 
-        industry_competencies = list({c for comps in vac_dict.values() for c in comps})
-        project_competencies = list({c for comps in project_dict.values() for c in comps})
+        gaps = []
+        redundancies = []
+        matches = []
 
-        if not industry_competencies or not project_competencies:
-            continue
+        for comp in all_comps:
+            d = demand_counter.get(comp, 0)
+            s = supply_counter.get(comp, 0)
 
-        # LLM: матрица соответствия
-        prompt = MATRIX_SIMILARITY_PROMPT.format(
-            industry_competencies=industry_competencies[:50],  # ограничим
-            project_competencies=project_competencies[:50]
+            if d > 0 and s > 0:
+                status = "match"
+                matches.append({"competency": comp, "demand": d, "supply": s})
+            elif d > 0 and s == 0:
+                status = "gap"
+                gaps.append({"competency": comp, "demand": d})
+            elif d == 0 and s > 0:
+                status = "redundant"
+                redundancies.append({"competency": comp, "supply": s})
+            else:
+                # d == 0 and s == 0 — сюда вообще не должны попасть, т.к. all_comps — объединение ключей
+                continue
+
+            matrix_rows.append(
+                {
+                    "industry": industry,
+                    "competency": comp,
+                    "demand": d,
+                    "supply": s,
+                    "status": status,
+                }
+            )
+
+        industry_summaries.append(
+            {
+                "industry": industry,
+                "total_demand_competencies": len(
+                    [c for c in all_comps if demand_counter.get(c, 0) > 0]
+                ),
+                "total_supply_competencies": len(
+                    [c for c in all_comps if supply_counter.get(c, 0) > 0]
+                ),
+                "gaps": gaps,
+                "redundancies": redundancies,
+                "matches": matches,
+            }
         )
-        raw = llama.ask_one(prompt)
-        try:
-            matrix = json.loads(raw)
-        except Exception:
-            import re
-            match = re.search(r'(\{.*\})', raw, re.S)
-            matrix = json.loads(match.group(1)) if match else {"matches": []}
 
-        matrices[industry] = matrix
+    # 2) сохраняем результаты
+    with open(matrix_output, "w", encoding="utf-8") as f:
+        json.dump(matrix_rows, f, ensure_ascii=False, indent=2)
 
-        # Аналитика пробелов/избыточности на основе матрицы
-        covered = set()
-        for m in matrix.get("matches", []):
-            for pc in m.get("project_competencies", []):
-                if pc.get("similarity", 0) >= 0.6:
-                    covered.add(m["industry_competency"])
+    with open(gaps_output, "w", encoding="utf-8") as f:
+        json.dump(industry_summaries, f, ensure_ascii=False, indent=2)
 
-        industry_set = set(industry_competencies)
-        gaps = sorted(list(industry_set - covered))
+    print(f"[INFO] Competency matrix saved to: {matrix_output}")
+    print(f"[INFO] Gaps/redundancy saved to: {gaps_output}")
 
-        # примитивная логика избыточности:
-        # competence проекта, которая почти не встречается в индустрии
-        proj_set = set(project_competencies)
-        redundant = []  # можно наполнить позже через статистику
-
-        gaps_and_redundancy[industry] = {
-            "industry_competencies": industry_competencies,
-            "project_competencies": project_competencies,
-            "gaps": gaps,
-            "redundant_candidates": list(redundant),
-        }
-
-    with open(matrix_out_path, "w", encoding="utf-8") as f:
-        json.dump(matrices, f, ensure_ascii=False, indent=2)
-
-    with open(gaps_out_path, "w", encoding="utf-8") as f:
-        json.dump(gaps_and_redundancy, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     build_matrices(
-        "data/derived/industry_competencies_llm.json",
-        "data/derived/project_competencies_llm.json",
+        "data/derived/industry_competencies_llm_clean_updated.json",
+        "data/derived/project_competencies_llm_clean_updated.json",
         "data/derived/competency_matrix.json",
-        "data/derived/competency_gaps_and_redundancy.json"
+        "data/derived/competency_gaps_and_redundancy.json",
     )

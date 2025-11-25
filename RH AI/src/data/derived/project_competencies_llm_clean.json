@@ -1,0 +1,2323 @@
+[
+  {
+    "project_id": 2119,
+    "industry": "EdTech",
+    "title": "Разработка мобильного приложения для образовательной платформы «Открытые школы»",
+    "competencies": []
+  },
+  {
+    "project_id": 2120,
+    "industry": "Logistics",
+    "title": "Реализация модуля для агрегатора ставок контейнерных перевозок",
+    "competencies": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "Apache Airflow",
+      "React Vit",
+      "TypeScript",
+      "CSS modules",
+      "Redux toolkit + rtk query",
+      "FSD",
+      "Yarn Berry",
+      "Apache Superset",
+      "Mock Service Worker",
+      "Git",
+      "GitHub",
+      "GitHub builds",
+      "Git hooks",
+      "Docker Compose",
+      "Timlid",
+      "Analyst",
+      "Backend-разработчик",
+      "Frontend-разработчик",
+      "Тестировщик"
+    ]
+  },
+  {
+    "project_id": 2121,
+    "industry": "GameDev",
+    "title": "Создание векторного арта для игрового проекта (2D / Vector / Figma)",
+    "competencies": []
+  },
+  {
+    "project_id": 2122,
+    "industry": "GameDev",
+    "title": "Разработка 2D roguelike-platformer",
+    "competencies": []
+  },
+  {
+    "project_id": 2123,
+    "industry": "Embedded/UI Tools",
+    "title": "Разработка редактора интерфейсов электронных устройств на микроконтроллерах Lopaka.app",
+    "competencies": []
+  },
+  {
+    "project_id": 2124,
+    "industry": "MarTech",
+    "title": "Разработка маркетинговых продуктов для ERP",
+    "competencies": []
+  },
+  {
+    "project_id": 2125,
+    "industry": "HealthTech/ERP",
+    "title": "Разработка ERP-системы для оптимизации работы менеджеров по закупкам на базе Odoo",
+    "competencies": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Git",
+      "SQL",
+      "ORM"
+    ]
+  },
+  {
+    "project_id": 2126,
+    "industry": "AgriTech",
+    "title": "Разработка веб-приложения системы управления посадкой микрозелени на вертикальной ферме",
+    "competencies": []
+  },
+  {
+    "project_id": 2127,
+    "industry": "Logistics",
+    "title": "Разработка личного кабинета экспедиторов Track Insight",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "SQL",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2128,
+    "industry": "GameDev",
+    "title": "Разработка игр на основе Clicker-механик (2D / Яндекс.Игры / VK Play)",
+    "competencies": [
+      "Unity",
+      "C#",
+      "UI",
+      "UX",
+      "Game Design",
+      "Figma",
+      "2D-графика",
+      "Clicker-механики"
+    ]
+  },
+  {
+    "project_id": 2129,
+    "industry": "EdTech",
+    "title": "Разработка ассистента учащегося для системы анализа структурированных текстовых отчетов",
+    "competencies": [
+      "Python",
+      "SQL",
+      "NLP",
+      "ML",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2130,
+    "industry": "HRTech/Psychology",
+    "title": "Разработка личного сайта организационного психолога (продолжение проекта)",
+    "competencies": [
+      "Python",
+      "Django",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2378,
+    "industry": "Project Management",
+    "title": "Создание виджета - “Календарь” для YouTrack",
+    "competencies": [
+      "JavaScript",
+      "React",
+      "Vue",
+      "Node.js",
+      "Python",
+      "Java",
+      "C++",
+      "C#"
+    ]
+  },
+  {
+    "project_id": 2379,
+    "industry": "Automation/ChatBot",
+    "title": "Разработка telegram-бота автоответчика",
+    "competencies": []
+  },
+  {
+    "project_id": 2380,
+    "industry": "VR/3D Modeling",
+    "title": "Разработка приложения - 3D VR конструктора",
+    "competencies": [
+      "C#",
+      "Unity",
+      "MetaXR Core"
+    ]
+  },
+  {
+    "project_id": 2381,
+    "industry": "EdTech",
+    "title": "Разработка мобильного приложения-игры «Расписание для детей»",
+    "competencies": [
+      "C#",
+      "Avalonia",
+      "Kotlin",
+      "Flutter",
+      "Unity",
+      "A",
+      "B-тестирование",
+      "Геймдизайн"
+    ]
+  },
+  {
+    "project_id": 2382,
+    "industry": "Digital Signage",
+    "title": "Создание системы управления рекламными экранами",
+    "competencies": []
+  },
+  {
+    "project_id": 2383,
+    "industry": "Developer Tools",
+    "title": "Создание визуального конструктора регулярных выражений (Regex Weaver)",
+    "competencies": []
+  },
+  {
+    "project_id": 2384,
+    "industry": "E-Commerce/Decision Support",
+    "title": "Создание системы принятия решений на основе взвешенных критериев",
+    "competencies": []
+  },
+  {
+    "project_id": 2385,
+    "industry": "GameTech/AI",
+    "title": "Создание интеллектуального помощника в сфере настольных игр",
+    "competencies": [
+      "C#",
+      ".NET",
+      "Blazor",
+      "Entity Framework Core",
+      "OpenAI API",
+      "ASP.NET Core Identity",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "project_id": 2386,
+    "industry": "EdTech/CRM",
+    "title": "Разработка веб-приложения для автоматизации учета работы с ВУЗами в рамках проектной деятельности",
+    "competencies": []
+  },
+  {
+    "project_id": 2387,
+    "industry": "Enterprise/ITSM",
+    "title": "Создание портала автоматизации обращений \"ServiceDesk Альфа-Комфорт\"",
+    "competencies": [
+      "Python",
+      "Django",
+      "SQL",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2388,
+    "industry": "LegalTech",
+    "title": "Разработка системы для автоматизированного парсинга базы решений ФАС и генерация юридических выжимок на базе искусственного интеллекта",
+    "competencies": [
+      "Python",
+      "SQL",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2389,
+    "industry": "ResearchTech",
+    "title": "Разработка ассистента для генерации гипотез на основе массива научных статей с помощью искусственного интеллекта",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Power BI"
+    ]
+  },
+  {
+    "project_id": 2390,
+    "industry": "EdTech/VR",
+    "title": "Разработка VR-тренажера «Отработка практических навыков публичных выступлений\"",
+    "competencies": [
+      "Unity",
+      "XR Interaction Toolkit",
+      "LLM",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "Разработка чат-ботов"
+    ]
+  },
+  {
+    "project_id": 2391,
+    "industry": "AgriTech/CV",
+    "title": "Разработка метода распознавания семян и определение плотности посева на вертикальной ферме",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "OpenCV",
+      "Pandas",
+      "Numpy"
+    ]
+  },
+  {
+    "project_id": 2392,
+    "industry": "TravelTech/AI",
+    "title": "Разработка веб-сайта для агрегации туров с элементами искусственного интеллекта",
+    "competencies": []
+  },
+  {
+    "project_id": 2393,
+    "industry": "Enterprise/Innovation",
+    "title": "Разработка сервиса рационализаторских предложений",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "Django REST Framework",
+      "Figma"
+    ]
+  },
+  {
+    "project_id": 2394,
+    "industry": "EdTech/Game-based",
+    "title": "Разработка модуля игры “Подготовка брифа”",
+    "competencies": [
+      "C#",
+      "Unity"
+    ]
+  },
+  {
+    "project_id": 2395,
+    "industry": "EdTech/Game-based",
+    "title": "Разработка модуля игры “Планирование проектных работ”",
+    "competencies": [
+      "C#",
+      "Unity"
+    ]
+  },
+  {
+    "project_id": 2396,
+    "industry": "EdTech/Game-based",
+    "title": "Разработка модуля игры “Сбор дополнительной информации”",
+    "competencies": [
+      "C#",
+      "Unity"
+    ]
+  },
+  {
+    "project_id": 2397,
+    "industry": "1CDevelopment/AnalyticsBI/EnterpriseSoftware/SportTech",
+    "title": "Разработка конфигурации 1С:УНФ для учёта в федерации айкидо",
+    "competencies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM",
+      "1С:Предприятие 8.3"
+    ]
+  },
+  {
+    "project_id": 2398,
+    "industry": "AI",
+    "title": "Разработка интерактивного веб-приложения - лингафонный кабинет с AI-ассистентом",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "TensorFlow",
+      "PyTorch",
+      "OpenAI",
+      "Whisper"
+    ]
+  },
+  {
+    "project_id": 2399,
+    "industry": "EdTech/HRTech",
+    "title": "Разработка модуля “Оценка ПВК” в веб-сервисе “Точка сбора”",
+    "competencies": []
+  },
+  {
+    "project_id": 2400,
+    "industry": "1CDevelopment/EnterpriseSoftware",
+    "title": "Разработка автоматизированного рабочего места (АРМ) в 1С:ERP",
+    "competencies": []
+  },
+  {
+    "project_id": 2401,
+    "industry": "GameDev",
+    "title": "Разработка концепции игры по управлению проектами",
+    "competencies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2402,
+    "industry": "ChatBots/EdTech/ProjectManagement/SportTech",
+    "title": "Доработка модулей обработки заявок и управления проектными задачами в веб-сервисе “Точка сбора”",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "TypeScript",
+      "Redux",
+      "SCSS",
+      "Vite"
+    ]
+  },
+  {
+    "project_id": 2403,
+    "industry": "ChatBots",
+    "title": "Разработка единого контейнера-агрегатора событий мессенджеров для ботов компании с оптимизацией использования ресурсов",
+    "competencies": [
+      "Python",
+      "Redis",
+      "Celery",
+      "Telegram",
+      "Max",
+      "TamTam",
+      "Email"
+    ]
+  },
+  {
+    "project_id": 2404,
+    "industry": "ChatBots/EdTech",
+    "title": "Разработка Telegram Mini App и бота для интерактивов на мастер-классах (продолжение проекта)",
+    "competencies": [
+      "Python",
+      "Telegram",
+      "Telegram Bot",
+      "Telegram Mini App",
+      "ChatBots",
+      "EdTech",
+      "A",
+      "B-тестирование"
+    ]
+  },
+  {
+    "project_id": 2405,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Разработка веб-сервиса - агрегатор стажировок (продолжение)",
+    "competencies": []
+  },
+  {
+    "project_id": 2406,
+    "industry": "EcoTech",
+    "title": "Разработка IT-решения для социально значимых проектов",
+    "competencies": []
+  },
+  {
+    "project_id": 2407,
+    "industry": "ECommerce/FinTech/SaaS/TravelTech/Web3",
+    "title": "Создание облачного SaaS-продукта с Web3-элементами",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "React",
+      "TypeScript",
+      "AWS",
+      "Docker"
+    ]
+  },
+  {
+    "project_id": 2408,
+    "industry": "EdTech",
+    "title": "Создание EdTech-платформы с адаптивным обучением",
+    "competencies": []
+  },
+  {
+    "project_id": 2409,
+    "industry": "EdTech/Logistics/TravelTech",
+    "title": "Создание geolocation-сервиса с умной навигацией",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Django",
+      "Flask",
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2410,
+    "industry": "ChatBots/EdTech/HRTech/HealthTech/LegalTech",
+    "title": "Разработка умной диалоговой системы с использованием интеллектуальных функций",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Power BI"
+    ]
+  },
+  {
+    "project_id": 2411,
+    "industry": "GameDev/HealthTech",
+    "title": "Разработка видеоигры Struggle For Salvation (программно-динамические анимации персонажей)",
+    "competencies": [
+      "C#",
+      "Unity",
+      "C++",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2412,
+    "industry": "AI/EdTech/GameDev/HRTech",
+    "title": "Составление логических задач в игровой форме по заданной тематике (продолжающийся проект)",
+    "competencies": []
+  },
+  {
+    "project_id": 2413,
+    "industry": "Cybersecurity",
+    "title": "Создание агрегатора новостей по заданной тематике (продолжающийся проект)",
+    "competencies": []
+  },
+  {
+    "project_id": 2414,
+    "industry": "SoftwareDevelopment",
+    "title": "Создание сервиса для бронирования рабочих мест в офисе",
+    "competencies": []
+  },
+  {
+    "project_id": 2415,
+    "industry": "GameDev/TravelTech",
+    "title": "Разработка мобильной игры про рыбалку - Idle Fishing Game",
+    "competencies": []
+  },
+  {
+    "project_id": 2416,
+    "industry": "AnalyticsBI/EnterpriseSoftware/Logistics",
+    "title": "Создание AI-powered инструмента для бизнес-аналитики и автоматизации",
+    "competencies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2417,
+    "industry": "AnalyticsBI/ECommerce",
+    "title": "Разработка data-driven платформы для бизнес-аналитики",
+    "competencies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2418,
+    "industry": "FinTech/TravelTech",
+    "title": "Создание fintech-решения с Open Banking API",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Flask",
+      "REST API",
+      "Open Banking API"
+    ]
+  },
+  {
+    "project_id": 2419,
+    "industry": "Cybersecurity/EnterpriseSoftware",
+    "title": "Разработка cybersecurity-решения для защиты данных",
+    "competencies": []
+  },
+  {
+    "project_id": 2420,
+    "industry": "PropTech",
+    "title": "Разработка специализированного ПО для управления процессами плазменной обработки материалов",
+    "competencies": []
+  },
+  {
+    "project_id": 2421,
+    "industry": "EdTech/GameDev/Logistics/TravelTech",
+    "title": "Разработка мобильного приложения-игры \"StarFunc\" для изучения математики",
+    "competencies": []
+  },
+  {
+    "project_id": 2422,
+    "industry": "EcoTech/Logistics/TravelTech",
+    "title": "Создание AI модели методики изучения и оценки рекреационных нагрузок и рекреационной емкости экологических маршрутов на заданной территории",
+    "competencies": []
+  },
+  {
+    "project_id": 2423,
+    "industry": "EcoTech/Logistics/TravelTech",
+    "title": "Создание AI модели проектирования экологических маршрутов на заданной территории на основе функционального зонирования",
+    "competencies": []
+  },
+  {
+    "project_id": 2424,
+    "industry": "EcoTech/TravelTech",
+    "title": "Создание AI модели привлечения и регулировании туристского потока на особо охраняемые природные территории на основе геополитических факторов",
+    "competencies": []
+  },
+  {
+    "project_id": 2425,
+    "industry": "EcoTech/Logistics/TravelTech",
+    "title": "Создание AI модели обустройства (в том числе информационного) экологических маршрутов, смотровых площадок, мест наблюдения за дикими животными, с учетом предельно допустимых нагрузок и минимизации негативного воздействия на природные экологические системы",
+    "competencies": []
+  },
+  {
+    "project_id": 2426,
+    "industry": "EcoTech/TravelTech",
+    "title": "Создание AI модели обустройства историко-культурных объектов и культурных ландшафтов как объектов экологического туризма при минимизации негативного воздействия на природные и историко-культурные системы",
+    "competencies": []
+  },
+  {
+    "project_id": 2427,
+    "industry": "Robotics",
+    "title": "Создание 3D-модели взаимодействия ФПиВи-дрона с одиночным бойцом (в пользу бойца)",
+    "competencies": []
+  },
+  {
+    "project_id": 2428,
+    "industry": "SportTech",
+    "title": "Тактический трехмерный бой. Основы, тактики, тренировки.",
+    "competencies": []
+  },
+  {
+    "project_id": 2429,
+    "industry": "ECommerce",
+    "title": "Разработка рекомендательной системы по подбору товаров в каталоге",
+    "competencies": []
+  },
+  {
+    "project_id": 2430,
+    "industry": "AnalyticsBI/EdTech/HRTech",
+    "title": "Динамическая модель компетенций",
+    "competencies": [
+      "Python",
+      "Django",
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "project_id": 2431,
+    "industry": "EdTech",
+    "title": "Разработка платформы для презентации и структуризации информации по фэнтези-вселенным \"Погружатор\"",
+    "competencies": [
+      "Python",
+      "Django",
+      "SQL",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Разработка чат-ботов",
+      "Разработка онлайн-курсов",
+      "NLP",
+      "LLM",
+      "Построение ML-моделей"
+    ]
+  },
+  {
+    "project_id": 2432,
+    "industry": "EdTech",
+    "title": "Разработка сервиса для изучения правил настольных игр - \"DiceBook\"",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "LLM",
+      "NLP",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "Геймдизайн",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2433,
+    "industry": "1CDevelopment/EnterpriseSoftware",
+    "title": "Создание системы управления пользователями комплексных ИС на базе 1С",
+    "competencies": [
+      "1С",
+      "Json",
+      "Rest api"
+    ]
+  },
+  {
+    "project_id": 2434,
+    "industry": "Logistics/PropTech",
+    "title": "Трассировка инженерных сетей, которые создаются на основе модуля расчета нагрузок сетей: тепла, воды, электроэнергии",
+    "competencies": []
+  },
+  {
+    "project_id": 2435,
+    "industry": "EdTech/PropTech",
+    "title": "Генерация застройки с применением ИИ на основе созданных библиотек",
+    "competencies": [
+      "TypeScript",
+      "Docker",
+      "C#",
+      "React",
+      "PostgreSQL",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2436,
+    "industry": "ChatBots/PropTech",
+    "title": "Разработка чат-бота для ответов по части BIM",
+    "competencies": [
+      "TypeScript",
+      "Docker",
+      "C#",
+      "React",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "project_id": 2437,
+    "industry": "EdTech/PropTech",
+    "title": "Адаптация Единой цифровой платформы экспертизы",
+    "competencies": [
+      "TypeScript",
+      "Docker",
+      "C#",
+      "React",
+      "PostgreSQL",
+      "Web",
+      "Python"
+    ]
+  },
+  {
+    "project_id": 2438,
+    "industry": "WebDevelopment",
+    "title": "Разработка модуля расчета нагрузок теплоснабжения на веб-платформе",
+    "competencies": []
+  },
+  {
+    "project_id": 2439,
+    "industry": "WebDevelopment",
+    "title": "Доработка расчета нагрузок электроснабжения на веб-платформе",
+    "competencies": []
+  },
+  {
+    "project_id": 2440,
+    "industry": "PropTech/SportTech",
+    "title": "Разработка строительного журнала входного учета и контроля качества объекта",
+    "competencies": []
+  },
+  {
+    "project_id": 2441,
+    "industry": "PropTech",
+    "title": "Разработка сайта для создания застройки территории с подгрузкой открытых картографических библиотек/баз данных",
+    "competencies": [
+      "TypeScript",
+      "Docker",
+      "C#",
+      "React",
+      "PostgreSQL",
+      "3D",
+      "Инженерные сети"
+    ]
+  },
+  {
+    "project_id": 2442,
+    "industry": "AnalyticsBI",
+    "title": "Создание личного кабинета, который показывает аналитику по использованию приложений компании",
+    "competencies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2443,
+    "industry": "PropTech",
+    "title": "Расчет нагрузок на сайте по созданию концептуального проекта и квартирографии",
+    "competencies": []
+  },
+  {
+    "project_id": 2444,
+    "industry": "ECommerce/EdTech/FinTech",
+    "title": "Разработка сайта интернет-магазина продуктов питания",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQL",
+      "React",
+      "Vue",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2445,
+    "industry": "1CDevelopment/AnalyticsBI/EdTech/EnterpriseSoftware",
+    "title": "Разработка подсистемы на 1С для управления инцидентами и запросами (Service Desk)",
+    "competencies": [
+      "1C",
+      "Python",
+      "Java",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2446,
+    "industry": "AnalyticsBI/ChatBots/EdTech/FinTech",
+    "title": "Разработка платформы для создания Telegram-ботов",
+    "competencies": [
+      "Python",
+      "Django",
+      "Telegram API",
+      "SQLAlchemy",
+      "Flask",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "project_id": 2447,
+    "industry": "AI/AnalyticsBI/EdTech",
+    "title": "Разработка системы мониторинга экранной активности сотрудников на базе ИИ",
+    "competencies": []
+  },
+  {
+    "project_id": 2448,
+    "industry": "1CDevelopment/AI/EdTech/EnterpriseSoftware",
+    "title": "Разработка системы распознавания и классификации входящих документов",
+    "competencies": []
+  },
+  {
+    "project_id": 2449,
+    "industry": "AI/EdTech",
+    "title": "Разработка системы распознавания бухгалтерских документов",
+    "competencies": []
+  },
+  {
+    "project_id": 2450,
+    "industry": "AI/EdTech",
+    "title": "Разработка системы анализа связей между документами и построения дерева ссылок",
+    "competencies": []
+  },
+  {
+    "project_id": 2451,
+    "industry": "AI/AnalyticsBI/EdTech/EnterpriseSoftware",
+    "title": "Разработка системы проверки договоров на соответствие правилам",
+    "competencies": []
+  },
+  {
+    "project_id": 2452,
+    "industry": "AI",
+    "title": "Разработка подхода по оцениванию решений проверочных работ с использованием больших языковых моделей",
+    "competencies": []
+  },
+  {
+    "project_id": 2453,
+    "industry": "AnalyticsBI/ProjectManagement",
+    "title": "Разработка сервиса для умного управления мероприятиями (продолжение проекта)",
+    "competencies": [
+      "Python",
+      "Django",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2454,
+    "industry": "SportTech",
+    "title": "Участие в CTF-турнирах (продолжение)",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Keras"
+    ]
+  },
+  {
+    "project_id": 2455,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Разработка приложения - рабочего места члена жюри фотоконкурса",
+    "competencies": []
+  },
+  {
+    "project_id": 2456,
+    "industry": "GameDev/TravelTech",
+    "title": "Создание мобильной игры про рыбалку - Idle Fishing Game",
+    "competencies": []
+  },
+  {
+    "project_id": 2457,
+    "industry": "AI/AnalyticsBI/HRTech/PropTech",
+    "title": "Разработка приложения-помощника по уходу за цветами",
+    "competencies": [
+      "Java",
+      "React",
+      "Node.js",
+      "Go",
+      "Kotlin",
+      "Swift",
+      "ML"
+    ]
+  },
+  {
+    "project_id": 2458,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Разработка платформы для молодежного культурно-образовательного центра \"5 этаж\"",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "React",
+      "Redux"
+    ]
+  },
+  {
+    "project_id": 2459,
+    "industry": "SoftwareDevelopment",
+    "title": "Создание сервиса выделения интересующей области для детекции объектов в видеопотоке",
+    "competencies": []
+  },
+  {
+    "project_id": 2460,
+    "industry": "ChatBots",
+    "title": "Создание сервиса управляемой онлайн-очереди",
+    "competencies": []
+  },
+  {
+    "project_id": 2461,
+    "industry": "ChatBots/EdTech/FinTech",
+    "title": "Создание сервиса распознавания содержимого платежных счетов",
+    "competencies": []
+  },
+  {
+    "project_id": 2462,
+    "industry": "EdTech/GameDev/SportTech",
+    "title": "Создание сервиса для создания онлайн квизов различных форматов с возможностью встраивать в онлайн трансляции",
+    "competencies": []
+  },
+  {
+    "project_id": 2463,
+    "industry": "AI/EdTech",
+    "title": "Исследование экспрессии генов с использованием биоинформационных технологий",
+    "competencies": []
+  },
+  {
+    "project_id": 2464,
+    "industry": "AI/EdTech/HealthTech",
+    "title": "Разработка сервиса сегментации КТ-снимков печени",
+    "competencies": []
+  },
+  {
+    "project_id": 2465,
+    "industry": "AI/ChatBots/EdTech",
+    "title": "Разработка базового Data Science проекта",
+    "competencies": []
+  },
+  {
+    "project_id": 2466,
+    "industry": "EdTech/GameDev",
+    "title": "Создание игрового ПО для ПК в свободном жанре (на выбор студента)",
+    "competencies": []
+  },
+  {
+    "project_id": 2467,
+    "industry": "GameDev",
+    "title": "Создание игрового ПО для ПК в жанре RTS",
+    "competencies": [
+      "Python",
+      "C++",
+      "Unity",
+      "C#",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2468,
+    "industry": "GameDev",
+    "title": "Создание игрового ПО для ПК в жанре аркада",
+    "competencies": [
+      "C++",
+      "Unity",
+      "C#",
+      "Python",
+      "Java",
+      "C"
+    ]
+  },
+  {
+    "project_id": 2469,
+    "industry": "GameDev",
+    "title": "Создание игрового ПО для ПК в жанре квест",
+    "competencies": [
+      "C#",
+      "Unity",
+      "C++",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2470,
+    "industry": "SoftwareDevelopment",
+    "title": "Создание 3d анимации для музыкального коллектива",
+    "competencies": []
+  },
+  {
+    "project_id": 2471,
+    "industry": "SoftwareDevelopment",
+    "title": "Создание автоматического штатива для создания фото 360",
+    "competencies": [
+      "C++",
+      "Arduino",
+      "Arduino IDE"
+    ]
+  },
+  {
+    "project_id": 2472,
+    "industry": "SportTech",
+    "title": "Создание моделей для 3d печати по готовым эскизам",
+    "competencies": []
+  },
+  {
+    "project_id": 2473,
+    "industry": "AI/AnalyticsBI",
+    "title": "Организация согласования с голосованием и кворумом для Directum RX",
+    "competencies": []
+  },
+  {
+    "project_id": 2474,
+    "industry": "AnalyticsBI",
+    "title": "Разработка тренажера аттестации по охране труда",
+    "competencies": [
+      "Python",
+      "Django",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2475,
+    "industry": "1CDevelopment/ChatBots/EnterpriseSoftware",
+    "title": "Разработка системы контроля отказов на платформе 1С:Предприятие",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQL",
+      "PostgreSQL",
+      "Telegram",
+      "1С:Предприятие"
+    ]
+  },
+  {
+    "project_id": 2476,
+    "industry": "GameDev",
+    "title": "Создание виртуальной лабораторной работы по физике «Опытная проверка распределения Максвелла»",
+    "competencies": [
+      "C#",
+      "Unity",
+      "3d-моделирование",
+      "Программирование",
+      "Unity 3d",
+      "Прототипирование",
+      "Разработка проекта в Unity",
+      "Unity-программист",
+      "Тимлид",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2477,
+    "industry": "GameDev",
+    "title": "Создание виртуальной лабораторной работы по физике \"Определение плотности тел правильной геометрической формы\"",
+    "competencies": [
+      "C#",
+      "Unity",
+      "3d-моделирование",
+      "Программирование",
+      "Unity 3d",
+      "WebGL",
+      "Оптимизация"
+    ]
+  },
+  {
+    "project_id": 2478,
+    "industry": "ECommerce/FinTech",
+    "title": "Разработка платформы по созданию интернет магазинов",
+    "competencies": []
+  },
+  {
+    "project_id": 2479,
+    "industry": "ChatBots/EdTech",
+    "title": "Создание сайта и интерактивной карты международных исторических проектов «Та САМАЯ Россия»",
+    "competencies": [
+      "Python",
+      "Django",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "project_id": 2480,
+    "industry": "AI",
+    "title": "Разработка автоматизированной системы генерации тестовых заданий по математическим дисциплинам",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Numpy",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "project_id": 2481,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Разработка умной книжной полки",
+    "competencies": []
+  },
+  {
+    "project_id": 2482,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Разработка решений на основе ИИ-агентов для образовательной среды",
+    "competencies": []
+  },
+  {
+    "project_id": 2483,
+    "industry": "AnalyticsBI/HRTech",
+    "title": "Разработка и тестирование пайплайна для разведочного анализа данных временных рядов",
+    "competencies": [
+      "Python",
+      "EDA",
+      "Data Science"
+    ]
+  },
+  {
+    "project_id": 2484,
+    "industry": "AnalyticsBI/ECommerce/EdTech",
+    "title": "Создание маркетплейса приложений для образовательной платформы «Открытые школы»",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "SQL",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "NLP"
+    ]
+  },
+  {
+    "project_id": 2485,
+    "industry": "AnalyticsBI/EdTech/FinTech/PropTech",
+    "title": "Разработка трёхкомпонентной системы - умный бюджет",
+    "competencies": []
+  },
+  {
+    "project_id": 2486,
+    "industry": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+    "title": "Разработка конструктора презентаций",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2487,
+    "industry": "Logistics/SportTech/TravelTech",
+    "title": "Создание страницы интерактивной карты маршрутов на сайте Майской прогулки",
+    "competencies": []
+  },
+  {
+    "project_id": 2488,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка ПО проектов группы Sliva",
+    "competencies": []
+  },
+  {
+    "project_id": 2489,
+    "industry": "EdTech",
+    "title": "Разработка веб-приложения Радиум",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "project_id": 2490,
+    "industry": "WebDevelopment",
+    "title": "Разработка веб-приложения автоматизированного нормоконтроля выпускных квалификационных работ",
+    "competencies": [
+      "Python",
+      "Django",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "project_id": 2491,
+    "industry": "EdTech",
+    "title": "Разработка витрины проектов",
+    "competencies": []
+  },
+  {
+    "project_id": 2492,
+    "industry": "AnalyticsBI",
+    "title": "Создание тикетной почтовой системы для компании-дистрибьютора автозапчастей",
+    "competencies": []
+  },
+  {
+    "project_id": 2493,
+    "industry": "AI/AnalyticsBI/EdTech",
+    "title": "Создание системы антифрода для распознавания поддельных фото с экрана чужого телефона",
+    "competencies": [
+      "Python",
+      "FastAPI",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Power BI"
+    ]
+  },
+  {
+    "project_id": 2494,
+    "industry": "ChatBots/EdTech/GameDev/HRTech",
+    "title": "Разработка конструктора образовательных игр (механика drag-n-drop)",
+    "competencies": [
+      "Unity",
+      "C#",
+      "Figma",
+      "Team Lead",
+      "Unity-программист",
+      "Технический дизайнер (верстка в Unity)",
+      "Team Lead (менеджер проекта)"
+    ]
+  },
+  {
+    "project_id": 2495,
+    "industry": "AnalyticsBI/EnterpriseSoftware",
+    "title": "Создание корпоративного сайта на Webflow (продолжающийся проект)",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "project_id": 2496,
+    "industry": "AnalyticsBI/HRTech/HealthTech",
+    "title": "Создание веб-сервиса для поддержки ментального здоровья сотрудников",
+    "competencies": []
+  },
+  {
+    "project_id": 2497,
+    "industry": "AnalyticsBI/EnterpriseSoftware/Logistics/SportTech",
+    "title": "Разработка модуля ERP системы на базе Odoo для горнодобывающей компании",
+    "competencies": [
+      "Python",
+      "Odoo",
+      "SQL",
+      "Low-code",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "Logistics"
+    ]
+  },
+  {
+    "project_id": 2498,
+    "industry": "AI/EdTech/HRTech",
+    "title": "Создание браузерной игры для изучения школьной математики",
+    "competencies": [
+      "HTML",
+      "JavaScript",
+      "PHP",
+      "CSS",
+      "React",
+      "Node.js",
+      "Python"
+    ]
+  },
+  {
+    "project_id": 2499,
+    "industry": "AnalyticsBI/EdTech/HRTech/SaaS",
+    "title": "Разработка open source SaaS продукта",
+    "competencies": [
+      "React",
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  {
+    "project_id": 2500,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка виртуальной лабораторной работы по радиотехнике",
+    "competencies": []
+  },
+  {
+    "project_id": 2501,
+    "industry": "EdTech/HRTech",
+    "title": "Разработка MVP-версии конструктора онлайн-выставок для музейных институций и специалистов",
+    "competencies": []
+  },
+  {
+    "project_id": 2502,
+    "industry": "EdTech",
+    "title": "Разработка конструктора тестовых заданий для стажёров",
+    "competencies": [
+      "Python",
+      "Django",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "project_id": 2503,
+    "industry": "AnalyticsBI/ChatBots/EdTech/FinTech",
+    "title": "Создание модулей для платформы совместного обучения",
+    "competencies": [
+      "Python",
+      "Node.js",
+      "Django",
+      "React",
+      "Vue",
+      "Postman",
+      "Docker"
+    ]
+  },
+  {
+    "project_id": 2504,
+    "industry": "AI/Logistics/SportTech",
+    "title": "Разработка приложения для разработки маршрутов «Майской прогулки»",
+    "competencies": []
+  },
+  {
+    "project_id": 2505,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка системы когнитивной логики для графа опыта ИИ-агента",
+    "competencies": []
+  },
+  {
+    "project_id": 2506,
+    "industry": "AI/ChatBots/EdTech/PropTech",
+    "title": "Создание ИИ-ассистента для студентов на основе RAG-архитектуры и методологии проектной деятельности",
+    "competencies": []
+  },
+  {
+    "project_id": 2507,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Разработка архитектуры для сбора и анализа данных о поведении пользователя при взаимодействии с ИИ-агентом",
+    "competencies": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2508,
+    "industry": "AI/EdTech",
+    "title": "Разработка системы динамического дообучения и горячей замены QLoRA-адаптеров для персонализации ИИ-агента",
+    "competencies": []
+  },
+  {
+    "project_id": 2509,
+    "industry": "Logistics",
+    "title": "Создание системы регистрации участников традиционной «Майской прогулки»",
+    "competencies": []
+  },
+  {
+    "project_id": 2510,
+    "industry": "AnalyticsBI/EdTech/Robotics",
+    "title": "Разработка образовательной платформы для курсов по робототехнике",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "Геймдизайн"
+    ]
+  },
+  {
+    "project_id": 2511,
+    "industry": "SoftwareDevelopment",
+    "title": "Реализация технологии sensor fusion на базе микроконтроллеров NRF",
+    "competencies": []
+  },
+  {
+    "project_id": 2512,
+    "industry": "AI/PropTech",
+    "title": "Создание справочной системы по технической проектной документации",
+    "competencies": [
+      "Python",
+      "LLM",
+      "RAG",
+      "NLP",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2513,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка модуля интеграции helpdesk систем (продолжение проекта)",
+    "competencies": [
+      "PHP",
+      "PostgreSQL",
+      "Atlassian Jira",
+      "Соло",
+      "API",
+      "GUI",
+      "Разработка модуля",
+      "Взаимодействие систем",
+      "Автоматизация работы с задачами"
+    ]
+  },
+  {
+    "project_id": 2514,
+    "industry": "EdTech",
+    "title": "Разработка социальной сети предприятия (продолжение проекта)",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "React",
+      "Redux"
+    ]
+  },
+  {
+    "project_id": 2515,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка информационной системы управления ключевыми параметрами производственной линии",
+    "competencies": [
+      "C++",
+      "Python",
+      "SQL",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "LLM",
+      "NLP"
+    ]
+  },
+  {
+    "project_id": 2516,
+    "industry": "AI/PropTech",
+    "title": "Разработка модулей генеративной интеллектуальной системы проектирования застройки города",
+    "competencies": [
+      "C#",
+      "LLM",
+      "Генеративные нейросети",
+      "Генерация",
+      "Генерация планировок",
+      "Генерация зонирования",
+      "Генерация трассировки улично-дорожной сети"
+    ]
+  },
+  {
+    "project_id": 2517,
+    "industry": "AI/PropTech",
+    "title": "Разработка приложения для проектирования протяженных инфраструктурных объектов с помощью ИИ или специализированных нейросетей",
+    "competencies": []
+  },
+  {
+    "project_id": 2518,
+    "industry": "SoftwareDevelopment",
+    "title": "Создание поисковика научной информации",
+    "competencies": []
+  },
+  {
+    "project_id": 2519,
+    "industry": "WebDevelopment",
+    "title": "Разработка программы для анализа цитированных источников в научных статьях",
+    "competencies": []
+  },
+  {
+    "project_id": 2520,
+    "industry": "EdTech",
+    "title": "Реализация модуля \"Мой диплом\"",
+    "competencies": [
+      "C#",
+      ".NET",
+      "Postgres",
+      "React"
+    ]
+  },
+  {
+    "project_id": 2521,
+    "industry": "MobileDevelopment",
+    "title": "Создание сервиса бронирования для теннисных кортов \"Book&Play\"",
+    "competencies": [
+      "C#",
+      ".NET",
+      "React",
+      "React Native",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Radix UI",
+      "React Native Elements",
+      "NativeBase",
+      "Styled Components",
+      "React Native Vector Icons",
+      "React Navigation 6",
+      "Redux Toolkit",
+      "RTK Query",
+      "Яндекс.Облако"
+    ]
+  },
+  {
+    "project_id": 2522,
+    "industry": "AnalyticsBI/EdTech",
+    "title": "Создание многофункциональной образовательной онлайн-платформы для поддержки учебного процесса и повышения качества усвоения материала учащимися",
+    "competencies": []
+  },
+  {
+    "project_id": 2523,
+    "industry": "GameDev",
+    "title": "Разработка игрового ПО (продолжение проекта)",
+    "competencies": [
+      "Python",
+      "C++",
+      "C#",
+      "Unity",
+      "Unreal Engine"
+    ]
+  },
+  {
+    "project_id": 2524,
+    "industry": "AI/ChatBots/HealthTech",
+    "title": "Разработка помощника врача по ведению медицинской документации",
+    "competencies": []
+  },
+  {
+    "project_id": 2525,
+    "industry": "AI/HealthTech",
+    "title": "Разработка справочной системы по эксплуатации Медицинской информационной системы (МИС)",
+    "competencies": []
+  },
+  {
+    "project_id": 2526,
+    "industry": "GameDev",
+    "title": "Разработка сложных элементов визуала игровых проектов группы Sliva",
+    "competencies": []
+  },
+  {
+    "project_id": 2527,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка визуала игры Ironbark Colonist",
+    "competencies": [
+      "Unity",
+      "C#",
+      "C++",
+      "Python",
+      "Java",
+      "C"
+    ]
+  },
+  {
+    "project_id": 2528,
+    "industry": "GameDev",
+    "title": "Разработка базовых элементов визуала игровых проектов группы Sliva",
+    "competencies": []
+  },
+  {
+    "project_id": 2529,
+    "industry": "GameDev",
+    "title": "Разработка игры Heart of Vinterium",
+    "competencies": [
+      "C#",
+      "Unity",
+      "C++",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2530,
+    "industry": "EdTech/GameDev/HRTech",
+    "title": "Доработка мобильной игры на Unity. Business woman: casual shop simulator.",
+    "competencies": []
+  },
+  {
+    "project_id": 2531,
+    "industry": "GameDev",
+    "title": "Разработка компьютерная игры Iron Veil",
+    "competencies": [
+      "C#",
+      "Unity",
+      "C++",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2532,
+    "industry": "GameDev",
+    "title": "Разработка компьютерной игры Against the Sky",
+    "competencies": [
+      "Python",
+      "C++",
+      "Unity",
+      "C#",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование"
+    ]
+  },
+  {
+    "project_id": 2533,
+    "industry": "GameDev",
+    "title": "Разработка компьютерной игры Pawprint Odyssey",
+    "competencies": []
+  },
+  {
+    "project_id": 2534,
+    "industry": "GameDev",
+    "title": "Разработка компьютерной игры Boost Overdrive",
+    "competencies": []
+  },
+  {
+    "project_id": 2535,
+    "industry": "GameDev",
+    "title": "Разработка компьютерной игры Colo",
+    "competencies": [
+      "Python",
+      "C++",
+      "Unity",
+      "C#",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2536,
+    "industry": "GameDev",
+    "title": "Разработка компьютерной игры Gearmind",
+    "competencies": [
+      "Python",
+      "Java",
+      "C++",
+      "C#",
+      "Unity",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "project_id": 2537,
+    "industry": "GameDev",
+    "title": "Разработка компьютерной игры Фантом.std",
+    "competencies": [
+      "Python",
+      "C++",
+      "Unity",
+      "C#",
+      "Java"
+    ]
+  },
+  {
+    "project_id": 2545,
+    "industry": "EdTech",
+    "title": "Разработка сервиса для изучения правил настольных игр - \"DiceBook\"",
+    "competencies": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Flask",
+      "Django",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "GCP",
+      "AWS",
+      "Azure",
+      "ChatGPT",
+      "GPT-3",
+      "LLM",
+      "NLP",
+      "ML",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "Геймдизайн",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2546,
+    "industry": "AnalyticsBI/EdTech/TravelTech",
+    "title": "Разработка веб-сайта для агрегации туров с элементами искусственного интеллекта",
+    "competencies": []
+  },
+  {
+    "project_id": 2547,
+    "industry": "AI/AnalyticsBI/HRTech/PropTech",
+    "title": "Разработка приложения-помощника по уходу за цветами",
+    "competencies": []
+  },
+  {
+    "project_id": 2548,
+    "industry": "AnalyticsBI/EdTech/FinTech/PropTech",
+    "title": "Разработка трёхкомпонентной системы - умный бюджет",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "Android",
+      "IOS",
+      "SQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "project_id": 2549,
+    "industry": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+    "title": "Разработка конструктора презентаций",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2550,
+    "industry": "Logistics",
+    "title": "Разработка личного кабинета экспедиторов Track Insight",
+    "competencies": [
+      "Python",
+      "Django",
+      "React",
+      "SQL",
+      "A",
+      "B-тестирование",
+      "Power BI",
+      "LLM"
+    ]
+  },
+  {
+    "project_id": 2551,
+    "industry": "AI/EdTech/GameDev/HRTech",
+    "title": "Составление логических задач в игровой форме по заданной тематике (продолжающийся проект)",
+    "competencies": []
+  },
+  {
+    "project_id": 2552,
+    "industry": "Cybersecurity",
+    "title": "Создание агрегатора новостей по заданной тематике (продолжающийся проект)",
+    "competencies": [
+      "C#",
+      "C++",
+      "Python",
+      "Java",
+      "React",
+      "Vue",
+      "Node.js",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "SQL",
+      "NoSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2553,
+    "industry": "ChatBots/EdTech",
+    "title": "Создание персонального цифрового навигатора возможностей для студентов",
+    "competencies": []
+  },
+  {
+    "project_id": 2554,
+    "industry": "HRTech/SaaS/TravelTech",
+    "title": "Разработка веб-платформы, позволяющей управлять личными жизненными планами",
+    "competencies": []
+  },
+  {
+    "project_id": 2555,
+    "industry": "SportTech",
+    "title": "Создание онлайн-платформы для бронирования теннисных кортов и поиска тренеров",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "A",
+      "B-тестирование"
+    ]
+  },
+  {
+    "project_id": 2556,
+    "industry": "GameDev",
+    "title": "Разработка мобильного приложения для реабилитации детей после инсульта",
+    "competencies": [
+      "Python",
+      "Java",
+      "C++",
+      "C#",
+      "React",
+      "Node.js",
+      "Django",
+      "Flask",
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2557,
+    "industry": "SoftwareDevelopment",
+    "title": "Платформы для совместной работы с реал-тайм синхронизацией",
+    "competencies": []
+  },
+  {
+    "project_id": 2558,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка карточного декбилдера с элементами dice-баттлера",
+    "competencies": []
+  },
+  {
+    "project_id": 2559,
+    "industry": "GameDev",
+    "title": "Создание одиночной адвенчурно–детективной сюжетно-ориентированной игры Forgotten Archive: Echo",
+    "competencies": [
+      "Unity",
+      "C#",
+      "C++",
+      "Python",
+      "Java",
+      "C"
+    ]
+  },
+  {
+    "project_id": 2560,
+    "industry": "GameDev/TravelTech",
+    "title": "Разработка демо-версии игры на Unity в стиле 3D в жанре survival horror с публикацией на площадке Itch.io",
+    "competencies": [
+      "Unity",
+      "C#",
+      "3D",
+      "GameDev",
+      "Survival horror",
+      "A",
+      "B-тестирование",
+      "Power BI"
+    ]
+  },
+  {
+    "project_id": 2561,
+    "industry": "GameDev/HealthTech/RetailHoReCa",
+    "title": "Разработка казуальной игры в смешанном жанре (вертикальный скролл-шутер + ККИ) для PC.",
+    "competencies": []
+  },
+  {
+    "project_id": 2562,
+    "industry": "SaaS",
+    "title": "Создание сервиса для учета крупно-рогатого скота",
+    "competencies": []
+  },
+  {
+    "project_id": 2563,
+    "industry": "GameDev",
+    "title": "Разработка кооперативной 3D игры \"COS-MOS\"",
+    "competencies": [
+      "Unity",
+      "C#",
+      "C++",
+      "Python",
+      "Java",
+      "C"
+    ]
+  },
+  {
+    "project_id": 2564,
+    "industry": "GameDev",
+    "title": "Разработка игры \"Dwarf Factory\"",
+    "competencies": []
+  },
+  {
+    "project_id": 2565,
+    "industry": "GameDev",
+    "title": "Разработка 3D игры Village Keeper с механиками защиты деревни и детектива",
+    "competencies": [
+      "Python",
+      "C++",
+      "Unity",
+      "C#",
+      "Java",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "project_id": 2566,
+    "industry": "GameDev/TravelTech",
+    "title": "Разработка игры в жанре roguelite-экшен",
+    "competencies": [
+      "Python",
+      "C++",
+      "C#"
+    ]
+  },
+  {
+    "project_id": 2567,
+    "industry": "GameDev",
+    "title": "Разработка игры Around - соревновательное изучение местности",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Django REST Framework",
+      "Docker"
+    ]
+  },
+  {
+    "project_id": 2568,
+    "industry": "ChatBots/GameDev/SaaS/SportTech",
+    "title": "Разработка приложения для поиска друзей и единомышленников на основе общих хобби и интересов",
+    "competencies": [
+      "Python",
+      "Django",
+      "Flask",
+      "React",
+      "Vue",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "ML",
+      "NLP",
+      "LLM",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Power BI",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2569,
+    "industry": "EdTech/HRTech",
+    "title": "Разработка веб-приложения - цифрового трекера привычек",
+    "competencies": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Flask",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "project_id": 2570,
+    "industry": "SportTech",
+    "title": "Проектирование и разработка подсистемы удаленной конфигурации (настройки) лифта",
+    "competencies": [
+      "Node.js",
+      "TypeScript",
+      "ORM",
+      "Golang",
+      "React SPA",
+      "K6s",
+      "Jest"
+    ]
+  },
+  {
+    "project_id": 2571,
+    "industry": "EdTech/PropTech",
+    "title": "Создание сервиса сбора фотографий для электронных пропусков УрФУ",
+    "competencies": [
+      "Python",
+      "Cascade Haar",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "project_id": 2572,
+    "industry": "GameDev/VR",
+    "title": "Создание VR-приложения для профориентации лиц с РАС",
+    "competencies": [
+      "Unity",
+      "Unreal Engine",
+      "3-D-дизайн",
+      "Гейм-дизайн"
+    ]
+  },
+  {
+    "project_id": 2573,
+    "industry": "AI/AnalyticsBI",
+    "title": "Разработка VK-бота для групп ИОТ",
+    "competencies": [
+      "PHP",
+      "Java",
+      "JavaScript",
+      "API",
+      "LLM",
+      "Python",
+      "SQL",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Разработка чат-ботов",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2574,
+    "industry": "GameDev/VR",
+    "title": "Разработка VR-приложения с симуляцией зданий старого Екатеринбурга",
+    "competencies": [
+      "Unity",
+      "Unreal Engine",
+      "3-D-дизайнер",
+      "3-D моделирование",
+      "VR-приложение",
+      "Steam-VR",
+      "Интерактивная форма виртуальной реальности"
+    ]
+  },
+  {
+    "project_id": 2575,
+    "industry": "SoftwareDevelopment",
+    "title": "Создание фонда хранения стандартов для организаций",
+    "competencies": []
+  },
+  {
+    "project_id": 2576,
+    "industry": "AI/ChatBots/EdTech",
+    "title": "Разработка веб-сайта с ИИ-ассистентом для формирования формулы изобретения/полезной модели",
+    "competencies": []
+  },
+  {
+    "project_id": 2577,
+    "industry": "AnalyticsBI/PropTech",
+    "title": "Разработка приложения анализа результатов лазерного сканирования",
+    "competencies": [
+      "Python",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "NLP",
+      "LLM",
+      "Разработка чат-ботов",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2578,
+    "industry": "GameDev/VR",
+    "title": "VR-практикум по физике",
+    "competencies": [
+      "Unity",
+      "Unreal Engine",
+      "3-D-дизайнер",
+      "Гейм-дизайнер",
+      "Игровые механик",
+      "Геймификация",
+      "Физические законы"
+    ]
+  },
+  {
+    "project_id": 2579,
+    "industry": "1CDevelopment/EdTech/EnterpriseSoftware/HRTech",
+    "title": "Разработка онлайн-сервиса для проведения производственного анализа",
+    "competencies": []
+  },
+  {
+    "project_id": 2580,
+    "industry": "SoftwareDevelopment",
+    "title": "Разработка сервиса расписания для сети кофеен Simple Coffee",
+    "competencies": []
+  },
+  {
+    "project_id": 2581,
+    "industry": "AnalyticsBI",
+    "title": "Разработка алгоритмов проверки PDF-документов",
+    "competencies": [
+      "Python",
+      "PyMuPDF",
+      "Pdfplumber",
+      "Power BI",
+      "A",
+      "B-тестирование",
+      "Геймдизайн",
+      "Разработка онлайн-курсов"
+    ]
+  },
+  {
+    "project_id": 2582,
+    "industry": "EdTech",
+    "title": "Разработка веб-приложения для администрирования реферальной системы международной школы программирования \"Алгоритмика\"",
+    "competencies": []
+  },
+  {
+    "project_id": 2583,
+    "industry": "AI/BrowserExtensions/ProjectManagement",
+    "title": "LLM Browser Helper — браузерное расширение для взаимодействия с языковыми моделями (LLM) через API, оптимизированное для Atlassian Stact (Confluence + Outlook + Jira + Bitbucket)",
+    "competencies": []
+  },
+  {
+    "project_id": 2584,
+    "industry": "SportTech",
+    "title": "Создание портала для федерации Прикладного айкидо",
+    "competencies": []
+  },
+  {
+    "project_id": 2585,
+    "industry": "1CDevelopment/EnterpriseSoftware/SportTech",
+    "title": "Разработка конфигурации для учёта в федерации айкидона на платформе “1С:Предприятие 8.3”",
+    "competencies": []
+  },
+  {
+    "project_id": 2721,
+    "industry": "GameDev/Robotics/SportTech",
+    "title": "Создание роботов-футболистов по международным регламентам Robocup",
+    "competencies": [
+      "Python",
+      "C++",
+      "Opencv",
+      "Raspberry pi",
+      "Robotics",
+      "Game development",
+      "Electronic design"
+    ]
+  }
+]

@@ -1,0 +1,1647 @@
+[
+  {
+    "industry": "1CDevelopment",
+    "competency": "1C",
+    "demand": 33,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "1С:Предприятие",
+    "demand": 4,
+    "supply": 4,
+    "status": "match"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "CSS",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "Excel",
+    "demand": 2,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "Git",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "HTML",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "JavaScript",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "Linux",
+    "demand": 2,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "MySQL",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "PHP",
+    "demand": 2,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "PostgreSQL",
+    "demand": 3,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "SQL",
+    "demand": 7,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "3D Modeling",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "3D Modeling",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "C++",
+    "demand": 2,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AI",
+    "competency": "Docker",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AI",
+    "competency": "Excel",
+    "demand": 2,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AI",
+    "competency": "FastAPI",
+    "demand": 1,
+    "supply": 2,
+    "status": "match"
+  },
+  {
+    "industry": "AI",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "HTML",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "Linux",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AI",
+    "competency": "ML",
+    "demand": 5,
+    "supply": 11,
+    "status": "match"
+  },
+  {
+    "industry": "AI",
+    "competency": "NLP",
+    "demand": 1,
+    "supply": 4,
+    "status": "match"
+  },
+  {
+    "industry": "AI",
+    "competency": "PHP",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "PostgreSQL",
+    "demand": 1,
+    "supply": 2,
+    "status": "match"
+  },
+  {
+    "industry": "AI",
+    "competency": "PyTorch",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "Python",
+    "demand": 8,
+    "supply": 4,
+    "status": "match"
+  },
+  {
+    "industry": "AI",
+    "competency": "React",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "SQL",
+    "demand": 5,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AI",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AgriTech",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "1C",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "1С:Предприятие",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "FastAPI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "JavaScript",
+    "demand": 2,
+    "supply": 1,
+    "status": "match"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "PHP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Power BI",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 8,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "React",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "SQL",
+    "demand": 3,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Vue",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "1С:Предприятие",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "MySQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "PostgreSQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "React",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Redis",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "Vue",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Cybersecurity",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Cybersecurity",
+    "competency": "Git",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Decision Support",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Digital Signage",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Digital Signage",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Digital Signage",
+    "competency": "PostgreSQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "E-Commerce",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ECommerce",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ECommerce",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ERP",
+    "competency": "CSS",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ERP",
+    "competency": "Git",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ERP",
+    "competency": "HTML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ERP",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ERP",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ERP",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "1C",
+    "demand": 4,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "1С:Предприятие",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 8,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Excel",
+    "demand": 21,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "FastAPI",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "HTML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 7,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "MySQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "PHP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "PostgreSQL",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "PyTorch",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "React",
+    "demand": 0,
+    "supply": 8,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Redis",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "SQL",
+    "demand": 1,
+    "supply": 0,
+    "status": "gap"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 8,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "Vue",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Embedded",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Embedded",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Enterprise",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Enterprise",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Enterprise",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "1С:Предприятие",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "FinTech",
+    "competency": "Vue",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Game-based",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "Game-based",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "C++",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 18,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "Unreal Engine",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameTech",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameTech",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameTech",
+    "competency": "HTML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameTech",
+    "competency": "PostgreSQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "HTML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "PHP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "React",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "CSS",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "Git",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "HTML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HealthTech",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Innovation",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Innovation",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Innovation",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "LegalTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "CSS",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "FastAPI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "Git",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "React",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "MarTech",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "MobileDevelopment",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "MobileDevelopment",
+    "competency": "CSS",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "MobileDevelopment",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "MobileDevelopment",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Project Management",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ProjectManagement",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ProjectManagement",
+    "competency": "MySQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ProjectManagement",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ProjectManagement",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ProjectManagement",
+    "competency": "Redis",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ProjectManagement",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 6,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "PostgreSQL",
+    "demand": 0,
+    "supply": 6,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "React",
+    "demand": 0,
+    "supply": 7,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Vue",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ResearchTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "RetailHoReCa",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Robotics",
+    "competency": "C++",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Robotics",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SaaS",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SaaS",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SaaS",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "competency": "C++",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "competency": "PHP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "1С:Предприятие",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "C++",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "Django",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "Docker",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "Kubernetes",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "MySQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "PostgreSQL",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "React",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "Redis",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "SportTech",
+    "competency": "Vue",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "TravelTech",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "UI Tools",
+    "competency": "Figma",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "UI Tools",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "VR",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "VR",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "VR",
+    "competency": "Unreal Engine",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  }
+]

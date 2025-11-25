@@ -1,0 +1,29 @@
+[
+  "Python", "Java", "C#", "C++", "C", "JavaScript", "TypeScript",
+  "Kotlin", "Swift", "Go", "PHP", "Rust",
+
+  "HTML", "CSS",
+  "React", "Vue", "Angular",
+  "Node.js", "Express",
+  ".NET", "ASP.NET", "Spring", "Django", "Flask", "FastAPI",
+
+  "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "ClickHouse",
+  "Power BI", "Tableau", "Qlik", "Excel",
+
+  "Machine Learning", "Deep Learning", "ML", "NLP",
+  "PyTorch", "TensorFlow", "scikit-learn",
+
+  "Linux", "Docker", "Kubernetes", "Git", "CI/CD", "Nginx",
+
+  "Unity", "Unreal Engine", "Game Design", "Level Design",
+
+  "Chatbot Development", "Telegram Bot API",
+
+  "Instructional Design", "LMS",
+
+  "1C", "1C:УПП", "1C:Документооборот", "1С:Предприятие",
+
+  "Figma", "UI/UX Design",
+
+  "Manual Testing", "Automated Testing", "QA", "Test Automation"
+]

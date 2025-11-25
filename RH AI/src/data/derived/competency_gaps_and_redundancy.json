@@ -1,0 +1,7775 @@
+[
+  {
+    "industry": "1CDevelopment",
+    "total_demand_competencies": 132,
+    "total_supply_competencies": 29,
+    "gaps": [
+      {
+        "competency": "1 С 8.0.",
+        "demand": 1
+      },
+      {
+        "competency": "1C",
+        "demand": 33
+      },
+      {
+        "competency": "1C: Предприятие 8.0.",
+        "demand": 1
+      },
+      {
+        "competency": "1С Предприятие",
+        "demand": 3
+      },
+      {
+        "competency": "1С- 8.3. Гарант",
+        "demand": 1
+      },
+      {
+        "competency": "1С: ERP",
+        "demand": 2
+      },
+      {
+        "competency": "1С: Предприятие 8.3",
+        "demand": 2
+      },
+      {
+        "competency": "1С: УПП",
+        "demand": 1
+      },
+      {
+        "competency": "1С:ERP",
+        "demand": 3
+      },
+      {
+        "competency": "1С:ERP УХ",
+        "demand": 1
+      },
+      {
+        "competency": "1С:Бухгалтерия предприятия",
+        "demand": 1
+      },
+      {
+        "competency": "1С:Документооборот",
+        "demand": 1
+      },
+      {
+        "competency": "1С:ЗУП",
+        "demand": 5
+      },
+      {
+        "competency": "1С:Предприятие 8",
+        "demand": 3
+      },
+      {
+        "competency": "1С:УАТ",
+        "demand": 1
+      },
+      {
+        "competency": "1С:УПП",
+        "demand": 2
+      },
+      {
+        "competency": "1С:УТ",
+        "demand": 1
+      },
+      {
+        "competency": "1С:УХ",
+        "demand": 2
+      },
+      {
+        "competency": "1с-битрикс",
+        "demand": 1
+      },
+      {
+        "competency": "8.3",
+        "demand": 12
+      },
+      {
+        "competency": "Bitrix",
+        "demand": 3
+      },
+      {
+        "competency": "CSS",
+        "demand": 1
+      },
+      {
+        "competency": "Dr. Web",
+        "demand": 1
+      },
+      {
+        "competency": "Excel",
+        "demand": 2
+      },
+      {
+        "competency": "Git",
+        "demand": 1
+      },
+      {
+        "competency": "HTML",
+        "demand": 1
+      },
+      {
+        "competency": "HTTP",
+        "demand": 2
+      },
+      {
+        "competency": "HTTPS",
+        "demand": 1
+      },
+      {
+        "competency": "JSON",
+        "demand": 4
+      },
+      {
+        "competency": "JavaScript",
+        "demand": 1
+      },
+      {
+        "competency": "Kaspersky",
+        "demand": 1
+      },
+      {
+        "competency": "Linux",
+        "demand": 2
+      },
+      {
+        "competency": "MS SQL",
+        "demand": 2
+      },
+      {
+        "competency": "Microsoft SQL Server",
+        "demand": 1
+      },
+      {
+        "competency": "MySQL",
+        "demand": 1
+      },
+      {
+        "competency": "PHP",
+        "demand": 2
+      },
+      {
+        "competency": "PostgreSQL",
+        "demand": 3
+      },
+      {
+        "competency": "Postman",
+        "demand": 2
+      },
+      {
+        "competency": "REST",
+        "demand": 3
+      },
+      {
+        "competency": "RLS",
+        "demand": 1
+      },
+      {
+        "competency": "SAP",
+        "demand": 1
+      },
+      {
+        "competency": "SOAP",
+        "demand": 3
+      },
+      {
+        "competency": "SQL",
+        "demand": 7
+      },
+      {
+        "competency": "SQL Server",
+        "demand": 1
+      },
+      {
+        "competency": "Word",
+        "demand": 1
+      },
+      {
+        "competency": "Wordpress",
+        "demand": 1
+      },
+      {
+        "competency": "XML",
+        "demand": 3
+      },
+      {
+        "competency": "Xml",
+        "demand": 3
+      },
+      {
+        "competency": "it-специалист",
+        "demand": 1
+      },
+      {
+        "competency": "web-программист",
+        "demand": 1
+      },
+      {
+        "competency": "Администрирование",
+        "demand": 8
+      },
+      {
+        "competency": "БИТ-Финанс",
+        "demand": 1
+      },
+      {
+        "competency": "БПБ",
+        "demand": 1
+      },
+      {
+        "competency": "БСП",
+        "demand": 1
+      },
+      {
+        "competency": "Банк Клиент",
+        "demand": 1
+      },
+      {
+        "competency": "Битрикс24",
+        "demand": 3
+      },
+      {
+        "competency": "Бонусы",
+        "demand": 3
+      },
+      {
+        "competency": "Бухгалтерия",
+        "demand": 11
+      },
+      {
+        "competency": "Бухгалтерский учет",
+        "demand": 1
+      },
+      {
+        "competency": "Документооборот",
+        "demand": 4
+      },
+      {
+        "competency": "Доработка типовых конфигураций 1С",
+        "demand": 1
+      },
+      {
+        "competency": "ЗУП",
+        "demand": 15
+      },
+      {
+        "competency": "Зарплата и кадры",
+        "demand": 1
+      },
+      {
+        "competency": "Зарплата и управление персоналом",
+        "demand": 2
+      },
+      {
+        "competency": "ЗиУП",
+        "demand": 1
+      },
+      {
+        "competency": "Интеграция",
+        "demand": 5
+      },
+      {
+        "competency": "Кадровый учет",
+        "demand": 2
+      },
+      {
+        "competency": "Коммуникация",
+        "demand": 1
+      },
+      {
+        "competency": "Конвертация данных",
+        "demand": 2
+      },
+      {
+        "competency": "Консультант+",
+        "demand": 1
+      },
+      {
+        "competency": "Консультация",
+        "demand": 2
+      },
+      {
+        "competency": "Конфигурации",
+        "demand": 9
+      },
+      {
+        "competency": "Налоговый учет",
+        "demand": 2
+      },
+      {
+        "competency": "Обмен",
+        "demand": 2
+      },
+      {
+        "competency": "Пищевое производство",
+        "demand": 1
+      },
+      {
+        "competency": "Поддержка",
+        "demand": 18
+      },
+      {
+        "competency": "Премии",
+        "demand": 6
+      },
+      {
+        "competency": "С++",
+        "demand": 1
+      },
+      {
+        "competency": "СБИС",
+        "demand": 2
+      },
+      {
+        "competency": "СКД",
+        "demand": 5
+      },
+      {
+        "competency": "УПП",
+        "demand": 6
+      },
+      {
+        "competency": "Управление торговлей",
+        "demand": 4
+      },
+      {
+        "competency": "Язык",
+        "demand": 1
+      },
+      {
+        "competency": "администратор",
+        "demand": 1
+      },
+      {
+        "competency": "аналитик",
+        "demand": 5
+      },
+      {
+        "competency": "архитектор",
+        "demand": 1
+      },
+      {
+        "competency": "базы",
+        "demand": 1
+      },
+      {
+        "competency": "бизнес-аналитик",
+        "demand": 2
+      },
+      {
+        "competency": "бухгалтер",
+        "demand": 1
+      },
+      {
+        "competency": "бюджетирование",
+        "demand": 1
+      },
+      {
+        "competency": "ведущий",
+        "demand": 9
+      },
+      {
+        "competency": "г.",
+        "demand": 1
+      },
+      {
+        "competency": "главный",
+        "demand": 1
+      },
+      {
+        "competency": "данных",
+        "demand": 1
+      },
+      {
+        "competency": "зуп",
+        "demand": 3
+      },
+      {
+        "competency": "инженер",
+        "demand": 1
+      },
+      {
+        "competency": "инженер-программист",
+        "demand": 3
+      },
+      {
+        "competency": "информационных",
+        "demand": 1
+      },
+      {
+        "competency": "клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "консультант",
+        "demand": 1
+      },
+      {
+        "competency": "линии",
+        "demand": 1
+      },
+      {
+        "competency": "мастер",
+        "demand": 1
+      },
+      {
+        "competency": "менеджер",
+        "demand": 1
+      },
+      {
+        "competency": "октябрьский",
+        "demand": 1
+      },
+      {
+        "competency": "отдела",
+        "demand": 1
+      },
+      {
+        "competency": "офисе",
+        "demand": 1
+      },
+      {
+        "competency": "по",
+        "demand": 2
+      },
+      {
+        "competency": "поддержки",
+        "demand": 1
+      },
+      {
+        "competency": "подразделения",
+        "demand": 1
+      },
+      {
+        "competency": "программист",
+        "demand": 17
+      },
+      {
+        "competency": "производства",
+        "demand": 1
+      },
+      {
+        "competency": "работа",
+        "demand": 1
+      },
+      {
+        "competency": "развитию",
+        "demand": 1
+      },
+      {
+        "competency": "разработчик",
+        "demand": 4
+      },
+      {
+        "competency": "расчетам",
+        "demand": 1
+      },
+      {
+        "competency": "руководитель",
+        "demand": 1
+      },
+      {
+        "competency": "специалист",
+        "demand": 2
+      },
+      {
+        "competency": "специалист-эксперт",
+        "demand": 1
+      },
+      {
+        "competency": "технической",
+        "demand": 1
+      },
+      {
+        "competency": "технологий",
+        "demand": 1
+      },
+      {
+        "competency": "тула",
+        "demand": 1
+      },
+      {
+        "competency": "уат",
+        "demand": 1
+      },
+      {
+        "competency": "университет",
+        "demand": 1
+      },
+      {
+        "competency": "ух",
+        "demand": 2
+      },
+      {
+        "competency": "функциональный",
+        "demand": 1
+      },
+      {
+        "competency": "ха",
+        "demand": 1
+      },
+      {
+        "competency": "швейного",
+        "demand": 1
+      }
+    ],
+    "redundancies": [
+      {
+        "competency": "1CDevelopment",
+        "supply": 8
+      },
+      {
+        "competency": "1CDevelopment/AI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/ChatBots/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EdTech/EnterpriseSoftware/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EnterpriseSoftware",
+        "supply": 3
+      },
+      {
+        "competency": "1CDevelopment/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 8
+      },
+      {
+        "competency": "HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "ML",
+        "supply": 1
+      },
+      {
+        "competency": "NLP",
+        "supply": 1
+      },
+      {
+        "competency": "REST API",
+        "supply": 2
+      },
+      {
+        "competency": "Rest api",
+        "supply": 2
+      },
+      {
+        "competency": "SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 2
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 2
+      }
+    ],
+    "matches": [
+      {
+        "competency": "1С:Предприятие",
+        "demand": 4,
+        "supply": 4
+      },
+      {
+        "competency": "1С:Предприятие 8.3",
+        "demand": 1,
+        "supply": 2
+      },
+      {
+        "competency": "API",
+        "demand": 4,
+        "supply": 3
+      },
+      {
+        "competency": "ERP",
+        "demand": 10,
+        "supply": 2
+      },
+      {
+        "competency": "Json",
+        "demand": 4,
+        "supply": 2
+      }
+    ]
+  },
+  {
+    "industry": "3D Modeling",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 6,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "3D Modeling",
+        "supply": 1
+      },
+      {
+        "competency": "C#",
+        "supply": 1
+      },
+      {
+        "competency": "MetaXR Core",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      },
+      {
+        "competency": "VR",
+        "supply": 1
+      },
+      {
+        "competency": "VR/3D Modeling",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "AI",
+    "total_demand_competencies": 58,
+    "total_supply_competencies": 87,
+    "gaps": [
+      {
+        "competency": "C++",
+        "demand": 2
+      },
+      {
+        "competency": "Computer Vision",
+        "demand": 1
+      },
+      {
+        "competency": "Docker",
+        "demand": 1
+      },
+      {
+        "competency": "Excel",
+        "demand": 2
+      },
+      {
+        "competency": "Linux",
+        "demand": 1
+      },
+      {
+        "competency": "SQL",
+        "demand": 5
+      },
+      {
+        "competency": "SQLAlchemy",
+        "demand": 1
+      },
+      {
+        "competency": "Word",
+        "demand": 1
+      },
+      {
+        "competency": "b2",
+        "demand": 1
+      },
+      {
+        "competency": "b2b",
+        "demand": 1
+      },
+      {
+        "competency": "Бонусы",
+        "demand": 1
+      },
+      {
+        "competency": "Отчеты",
+        "demand": 2
+      },
+      {
+        "competency": "Премии",
+        "demand": 2
+      },
+      {
+        "competency": "Рекомендательные сервисы",
+        "demand": 1
+      },
+      {
+        "competency": "бизнес-аналитик",
+        "demand": 2
+      },
+      {
+        "competency": "ведущий",
+        "demand": 1
+      },
+      {
+        "competency": "водитель-инкассатор",
+        "demand": 1
+      },
+      {
+        "competency": "г.",
+        "demand": 1
+      },
+      {
+        "competency": "данных",
+        "demand": 2
+      },
+      {
+        "competency": "инженер-программист",
+        "demand": 1
+      },
+      {
+        "competency": "инженер-проектировщик",
+        "demand": 1
+      },
+      {
+        "competency": "качества",
+        "demand": 1
+      },
+      {
+        "competency": "клиенты",
+        "demand": 2
+      },
+      {
+        "competency": "консультант",
+        "demand": 1
+      },
+      {
+        "competency": "контент-менеджмент",
+        "demand": 1
+      },
+      {
+        "competency": "машинному",
+        "demand": 1
+      },
+      {
+        "competency": "менеджер",
+        "demand": 1
+      },
+      {
+        "competency": "норильск",
+        "demand": 1
+      },
+      {
+        "competency": "обработке",
+        "demand": 1
+      },
+      {
+        "competency": "обучению",
+        "demand": 1
+      },
+      {
+        "competency": "отдела",
+        "demand": 1
+      },
+      {
+        "competency": "по",
+        "demand": 5
+      },
+      {
+        "competency": "представитель",
+        "demand": 1
+      },
+      {
+        "competency": "продажам",
+        "demand": 1
+      },
+      {
+        "competency": "проекта",
+        "demand": 1
+      },
+      {
+        "competency": "развитию",
+        "demand": 1
+      },
+      {
+        "competency": "руководитель",
+        "demand": 1
+      },
+      {
+        "competency": "состоятельные",
+        "demand": 2
+      },
+      {
+        "competency": "специалист",
+        "demand": 2
+      },
+      {
+        "competency": "стажер",
+        "demand": 3
+      },
+      {
+        "competency": "стажер-инженер",
+        "demand": 1
+      },
+      {
+        "competency": "стрим",
+        "demand": 1
+      },
+      {
+        "competency": "территории",
+        "demand": 1
+      },
+      {
+        "competency": "торговый",
+        "demand": 1
+      },
+      {
+        "competency": "труду",
+        "demand": 1
+      },
+      {
+        "competency": "управление",
+        "demand": 1
+      },
+      {
+        "competency": "экономист",
+        "demand": 1
+      }
+    ],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 2
+      },
+      {
+        "competency": "1CDevelopment",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 31
+      },
+      {
+        "competency": "AI/AnalyticsBI",
+        "supply": 7
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "AI/AnalyticsBI/HRTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/BrowserExtensions/ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "AI/ChatBots/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/ChatBots/EdTech/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/ChatBots/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 9
+      },
+      {
+        "competency": "AI/EdTech/GameDev/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/PropTech",
+        "supply": 3
+      },
+      {
+        "competency": "ASP.NET Core Identity",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 7
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AnalyticsBI/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "Android",
+        "supply": 2
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "Blazor",
+        "supply": 1
+      },
+      {
+        "competency": "BrowserExtensions",
+        "supply": 1
+      },
+      {
+        "competency": "C#",
+        "supply": 4
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 4
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech",
+        "supply": 15
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech/GameDev/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 2
+      },
+      {
+        "competency": "Entity Framework Core",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 3
+      },
+      {
+        "competency": "GUI",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev",
+        "supply": 2
+      },
+      {
+        "competency": "GameTech",
+        "supply": 1
+      },
+      {
+        "competency": "GameTech/AI",
+        "supply": 1
+      },
+      {
+        "competency": "Go",
+        "supply": 2
+      },
+      {
+        "competency": "HRTech",
+        "supply": 5
+      },
+      {
+        "competency": "HTML",
+        "supply": 2
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 3
+      },
+      {
+        "competency": "IOS",
+        "supply": 2
+      },
+      {
+        "competency": "Java",
+        "supply": 3
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Json",
+        "supply": 5
+      },
+      {
+        "competency": "Kotlin",
+        "supply": 2
+      },
+      {
+        "competency": "Logistics",
+        "supply": 1
+      },
+      {
+        "competency": "Low-code",
+        "supply": 1
+      },
+      {
+        "competency": "ORM",
+        "supply": 1
+      },
+      {
+        "competency": "OpenAI",
+        "supply": 2
+      },
+      {
+        "competency": "OpenAI API",
+        "supply": 1
+      },
+      {
+        "competency": "PHP",
+        "supply": 2
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 6
+      },
+      {
+        "competency": "PyTorch",
+        "supply": 1
+      },
+      {
+        "competency": "RAG",
+        "supply": 6
+      },
+      {
+        "competency": "React",
+        "supply": 3
+      },
+      {
+        "competency": "SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Swift",
+        "supply": 2
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram Bot",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech/AI",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      },
+      {
+        "competency": "Whisper",
+        "supply": 1
+      },
+      {
+        "competency": "Геймификация",
+        "supply": 2
+      },
+      {
+        "competency": "Генерация",
+        "supply": 1
+      },
+      {
+        "competency": "Генерация планировок",
+        "supply": 1
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 2
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 9
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 8
+      }
+    ],
+    "matches": [
+      {
+        "competency": "API",
+        "demand": 1,
+        "supply": 8
+      },
+      {
+        "competency": "ChatGPT",
+        "demand": 2,
+        "supply": 1
+      },
+      {
+        "competency": "Data Science",
+        "demand": 2,
+        "supply": 1
+      },
+      {
+        "competency": "FastAPI",
+        "demand": 1,
+        "supply": 2
+      },
+      {
+        "competency": "LLM",
+        "demand": 4,
+        "supply": 12
+      },
+      {
+        "competency": "ML",
+        "demand": 5,
+        "supply": 11
+      },
+      {
+        "competency": "NLP",
+        "demand": 1,
+        "supply": 4
+      },
+      {
+        "competency": "PostgreSQL",
+        "demand": 1,
+        "supply": 2
+      },
+      {
+        "competency": "Python",
+        "demand": 8,
+        "supply": 4
+      },
+      {
+        "competency": "UI",
+        "demand": 1,
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "demand": 2,
+        "supply": 1
+      }
+    ]
+  },
+  {
+    "industry": "AgriTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 7,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AgriTech",
+        "supply": 2
+      },
+      {
+        "competency": "AgriTech/CV",
+        "supply": 1
+      },
+      {
+        "competency": "CV",
+        "supply": 1
+      },
+      {
+        "competency": "Golang",
+        "supply": 1
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Raspberry pi",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "AnalyticsBI",
+    "total_demand_competencies": 30,
+    "total_supply_competencies": 89,
+    "gaps": [
+      {
+        "competency": "1C",
+        "demand": 1
+      },
+      {
+        "competency": "8.3",
+        "demand": 1
+      },
+      {
+        "competency": "ABAP",
+        "demand": 2
+      },
+      {
+        "competency": "ETL",
+        "demand": 2
+      },
+      {
+        "competency": "MS Access",
+        "demand": 1
+      },
+      {
+        "competency": "MS Power BI",
+        "demand": 1
+      },
+      {
+        "competency": "MS Visio",
+        "demand": 1
+      },
+      {
+        "competency": "Power BI",
+        "demand": 1
+      },
+      {
+        "competency": "SAP",
+        "demand": 2
+      },
+      {
+        "competency": "SQL",
+        "demand": 3
+      },
+      {
+        "competency": "VBA",
+        "demand": 2
+      },
+      {
+        "competency": "bi",
+        "demand": 1
+      },
+      {
+        "competency": "bw",
+        "demand": 2
+      },
+      {
+        "competency": "sap",
+        "demand": 2
+      },
+      {
+        "competency": "Бухгалтерия",
+        "demand": 1
+      },
+      {
+        "competency": "ЗУП",
+        "demand": 1
+      },
+      {
+        "competency": "Интеграция",
+        "demand": 1
+      },
+      {
+        "competency": "Конфигурации",
+        "demand": 1
+      },
+      {
+        "competency": "Обмен",
+        "demand": 1
+      },
+      {
+        "competency": "Пищевое производство",
+        "demand": 1
+      },
+      {
+        "competency": "Управление торговлей",
+        "demand": 1
+      },
+      {
+        "competency": "аналитик",
+        "demand": 1
+      },
+      {
+        "competency": "ведущий",
+        "demand": 2
+      },
+      {
+        "competency": "внутренней",
+        "demand": 1
+      },
+      {
+        "competency": "во",
+        "demand": 2
+      },
+      {
+        "competency": "главный",
+        "demand": 1
+      },
+      {
+        "competency": "отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "программист",
+        "demand": 1
+      },
+      {
+        "competency": "специалист",
+        "demand": 2
+      }
+    ],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment",
+        "supply": 2
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "1С:Предприятие",
+        "supply": 2
+      },
+      {
+        "competency": "1С:Предприятие 8.3",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 9
+      },
+      {
+        "competency": "AI/AnalyticsBI",
+        "supply": 7
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "AI/AnalyticsBI/HRTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "API",
+        "supply": 7
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 39
+      },
+      {
+        "competency": "AnalyticsBI/ChatBots/EdTech/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/ECommerce",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/ECommerce/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 17
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/FinTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech/SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/HRTech",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI/HRTech/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "Android",
+        "supply": 4
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 8
+      },
+      {
+        "competency": "C#",
+        "supply": 1
+      },
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "Django",
+        "supply": 3
+      },
+      {
+        "competency": "Docker",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce",
+        "supply": 2
+      },
+      {
+        "competency": "EDA",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 20
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 6
+      },
+      {
+        "competency": "FastAPI",
+        "supply": 1
+      },
+      {
+        "competency": "FinTech",
+        "supply": 6
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 10
+      },
+      {
+        "competency": "GitHub",
+        "supply": 1
+      },
+      {
+        "competency": "Go",
+        "supply": 2
+      },
+      {
+        "competency": "HRTech",
+        "supply": 6
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "IOS",
+        "supply": 4
+      },
+      {
+        "competency": "Java",
+        "supply": 4
+      },
+      {
+        "competency": "Json",
+        "supply": 2
+      },
+      {
+        "competency": "Kotlin",
+        "supply": 4
+      },
+      {
+        "competency": "LLM",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics",
+        "supply": 2
+      },
+      {
+        "competency": "Low-code",
+        "supply": 2
+      },
+      {
+        "competency": "ML",
+        "supply": 5
+      },
+      {
+        "competency": "Matplotlib",
+        "supply": 1
+      },
+      {
+        "competency": "NLP",
+        "supply": 1
+      },
+      {
+        "competency": "Node.js",
+        "supply": 2
+      },
+      {
+        "competency": "Numpy",
+        "supply": 1
+      },
+      {
+        "competency": "Odoo",
+        "supply": 1
+      },
+      {
+        "competency": "PHP",
+        "supply": 1
+      },
+      {
+        "competency": "Pandas",
+        "supply": 1
+      },
+      {
+        "competency": "Pdfplumber",
+        "supply": 1
+      },
+      {
+        "competency": "Postman",
+        "supply": 1
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 7
+      },
+      {
+        "competency": "PyMuPDF",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 8
+      },
+      {
+        "competency": "React",
+        "supply": 5
+      },
+      {
+        "competency": "Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 3
+      },
+      {
+        "competency": "SportTech",
+        "supply": 4
+      },
+      {
+        "competency": "Swift",
+        "supply": 2
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 2
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Vue",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 3
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 1
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 2
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 15
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 15
+      }
+    ],
+    "matches": [
+      {
+        "competency": "JavaScript",
+        "demand": 2,
+        "supply": 1
+      }
+    ]
+  },
+  {
+    "industry": "Automation",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 4,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Automation",
+        "supply": 1
+      },
+      {
+        "competency": "Automation/ChatBot",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBot",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "BrowserExtensions",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 10,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 1
+      },
+      {
+        "competency": "AI/BrowserExtensions/ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 1
+      },
+      {
+        "competency": "BrowserExtensions",
+        "supply": 1
+      },
+      {
+        "competency": "LLM",
+        "supply": 1
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "CRM",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 4,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/CRM",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "CV",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 3,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AgriTech",
+        "supply": 1
+      },
+      {
+        "competency": "AgriTech/CV",
+        "supply": 1
+      },
+      {
+        "competency": "CV",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ChatBot",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 4,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Automation",
+        "supply": 1
+      },
+      {
+        "competency": "Automation/ChatBot",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBot",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ChatBots",
+    "total_demand_competencies": 33,
+    "total_supply_competencies": 74,
+    "gaps": [
+      {
+        "competency": "1814",
+        "demand": 1
+      },
+      {
+        "competency": "Интеграция",
+        "demand": 6
+      },
+      {
+        "competency": "ассистент",
+        "demand": 1
+      },
+      {
+        "competency": "балканский",
+        "demand": 1
+      },
+      {
+        "competency": "балтия",
+        "demand": 1
+      },
+      {
+        "competency": "беговая",
+        "demand": 1
+      },
+      {
+        "competency": "врач-оториноларинголог",
+        "demand": 6
+      },
+      {
+        "competency": "галерея",
+        "demand": 1
+      },
+      {
+        "competency": "главный",
+        "demand": 1
+      },
+      {
+        "competency": "дистанционного",
+        "demand": 1
+      },
+      {
+        "competency": "закупке",
+        "demand": 1
+      },
+      {
+        "competency": "зала",
+        "demand": 4
+      },
+      {
+        "competency": "клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "лето",
+        "demand": 1
+      },
+      {
+        "competency": "лондон",
+        "demand": 1
+      },
+      {
+        "competency": "лор",
+        "demand": 5
+      },
+      {
+        "competency": "макси",
+        "demand": 1
+      },
+      {
+        "competency": "менеджера",
+        "demand": 1
+      },
+      {
+        "competency": "молл",
+        "demand": 2
+      },
+      {
+        "competency": "обслуживания",
+        "demand": 1
+      },
+      {
+        "competency": "отдела",
+        "demand": 1
+      },
+      {
+        "competency": "питерлэнд",
+        "demand": 2
+      },
+      {
+        "competency": "по",
+        "demand": 1
+      },
+      {
+        "competency": "приморская",
+        "demand": 1
+      },
+      {
+        "competency": "продавец",
+        "demand": 4
+      },
+      {
+        "competency": "продавец-кассир",
+        "demand": 8
+      },
+      {
+        "competency": "работник",
+        "demand": 4
+      },
+      {
+        "competency": "радуга",
+        "demand": 1
+      },
+      {
+        "competency": "ракета",
+        "demand": 1
+      },
+      {
+        "competency": "сопот",
+        "demand": 1
+      },
+      {
+        "competency": "специалист-эксперт",
+        "demand": 1
+      },
+      {
+        "competency": "торгового",
+        "demand": 4
+      },
+      {
+        "competency": "тц",
+        "demand": 9
+      }
+    ],
+    "redundancies": [
+      {
+        "competency": "1CDevelopment",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/ChatBots/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1С:Предприятие",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 4
+      },
+      {
+        "competency": "AI/ChatBots/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/ChatBots/EdTech/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/ChatBots/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/ChatBots/EdTech/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "C#",
+        "supply": 2
+      },
+      {
+        "competency": "Celery",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 18
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 12
+      },
+      {
+        "competency": "ChatBots/EdTech/FinTech",
+        "supply": 3
+      },
+      {
+        "competency": "ChatBots/EdTech/GameDev/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/HRTech/HealthTech/LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/ProjectManagement/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/GameDev/SaaS/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatGPT",
+        "supply": 1
+      },
+      {
+        "competency": "Data Science",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 2
+      },
+      {
+        "competency": "Django REST Framework",
+        "supply": 1
+      },
+      {
+        "competency": "Docker",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech",
+        "supply": 12
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/GameDev/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "Email",
+        "supply": 1
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "FinTech",
+        "supply": 3
+      },
+      {
+        "competency": "GameDev",
+        "supply": 2
+      },
+      {
+        "competency": "HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 2
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Json",
+        "supply": 1
+      },
+      {
+        "competency": "LLM",
+        "supply": 2
+      },
+      {
+        "competency": "LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "ML",
+        "supply": 1
+      },
+      {
+        "competency": "Max",
+        "supply": 1
+      },
+      {
+        "competency": "MySQL",
+        "supply": 1
+      },
+      {
+        "competency": "Node.js",
+        "supply": 1
+      },
+      {
+        "competency": "PostgreSQL",
+        "supply": 1
+      },
+      {
+        "competency": "Postman",
+        "supply": 1
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "Python",
+        "supply": 3
+      },
+      {
+        "competency": "RAG",
+        "supply": 2
+      },
+      {
+        "competency": "RTK Query",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 4
+      },
+      {
+        "competency": "Redis",
+        "supply": 2
+      },
+      {
+        "competency": "Redux",
+        "supply": 1
+      },
+      {
+        "competency": "Redux Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "SCSS",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "TamTam",
+        "supply": 1
+      },
+      {
+        "competency": "Team Lead",
+        "supply": 1
+      },
+      {
+        "competency": "Team Lead (менеджер проекта)",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram",
+        "supply": 7
+      },
+      {
+        "competency": "Telegram Bot",
+        "supply": 2
+      },
+      {
+        "competency": "Telegram Mini App",
+        "supply": 1
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 3
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      },
+      {
+        "competency": "Unity-программист",
+        "supply": 1
+      },
+      {
+        "competency": "Vite",
+        "supply": 1
+      },
+      {
+        "competency": "Vue",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      },
+      {
+        "competency": "Технический дизайнер (верстка в Unity)",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Cybersecurity",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 5,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "C#",
+        "supply": 2
+      },
+      {
+        "competency": "Cybersecurity",
+        "supply": 3
+      },
+      {
+        "competency": "Cybersecurity/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "Git",
+        "supply": 2
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Decision Support",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 5,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Decision Support",
+        "supply": 1
+      },
+      {
+        "competency": "E-Commerce",
+        "supply": 1
+      },
+      {
+        "competency": "E-Commerce/Decision Support",
+        "supply": 1
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Developer Tools",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 4,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Blazor",
+        "supply": 1
+      },
+      {
+        "competency": "Developer Tools",
+        "supply": 1
+      },
+      {
+        "competency": "Email",
+        "supply": 1
+      },
+      {
+        "competency": "Json",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Digital Signage",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 8,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 1
+      },
+      {
+        "competency": "Avalonia",
+        "supply": 1
+      },
+      {
+        "competency": "Blazor",
+        "supply": 1
+      },
+      {
+        "competency": "C#",
+        "supply": 1
+      },
+      {
+        "competency": "Digital Signage",
+        "supply": 1
+      },
+      {
+        "competency": "PostgreSQL",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "E-Commerce",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 5,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Decision Support",
+        "supply": 1
+      },
+      {
+        "competency": "E-Commerce",
+        "supply": 1
+      },
+      {
+        "competency": "E-Commerce/Decision Support",
+        "supply": 1
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ECommerce",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 20,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AnalyticsBI",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/ECommerce",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/ECommerce/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce",
+        "supply": 6
+      },
+      {
+        "competency": "ECommerce/EdTech/FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "ECommerce/FinTech/SaaS/TravelTech/Web3",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "FinTech",
+        "supply": 3
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      },
+      {
+        "competency": "Web3",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 2
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ERP",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 14,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "CSS",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 1
+      },
+      {
+        "competency": "Git",
+        "supply": 1
+      },
+      {
+        "competency": "HTML",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech/ERP",
+        "supply": 1
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Odoo",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "EcoTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 6,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 5
+      },
+      {
+        "competency": "EcoTech",
+        "supply": 6
+      },
+      {
+        "competency": "EcoTech/Logistics/TravelTech",
+        "supply": 3
+      },
+      {
+        "competency": "EcoTech/TravelTech",
+        "supply": 2
+      },
+      {
+        "competency": "Logistics",
+        "supply": 3
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 5
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "EdTech",
+    "total_demand_competencies": 383,
+    "total_supply_competencies": 128,
+    "gaps": [
+      {
+        "competency": "133",
+        "demand": 1
+      },
+      {
+        "competency": "16",
+        "demand": 1
+      },
+      {
+        "competency": "1C",
+        "demand": 4
+      },
+      {
+        "competency": "1С:ЗУП",
+        "demand": 1
+      },
+      {
+        "competency": "26-27",
+        "demand": 1
+      },
+      {
+        "competency": "27",
+        "demand": 1
+      },
+      {
+        "competency": "31",
+        "demand": 1
+      },
+      {
+        "competency": "3d",
+        "demand": 1
+      },
+      {
+        "competency": "41",
+        "demand": 1
+      },
+      {
+        "competency": "48",
+        "demand": 2
+      },
+      {
+        "competency": "60",
+        "demand": 1
+      },
+      {
+        "competency": "8.2",
+        "demand": 2
+      },
+      {
+        "competency": "Excel",
+        "demand": 21
+      },
+      {
+        "competency": "JSON",
+        "demand": 1
+      },
+      {
+        "competency": "REST",
+        "demand": 1
+      },
+      {
+        "competency": "SAP",
+        "demand": 2
+      },
+      {
+        "competency": "SOAP",
+        "demand": 1
+      },
+      {
+        "competency": "SQL",
+        "demand": 1
+      },
+      {
+        "competency": "Word",
+        "demand": 11
+      },
+      {
+        "competency": "XML",
+        "demand": 1
+      },
+      {
+        "competency": "Xml",
+        "demand": 1
+      },
+      {
+        "competency": "b2",
+        "demand": 2
+      },
+      {
+        "competency": "b2b",
+        "demand": 1
+      },
+      {
+        "competency": "b2c",
+        "demand": 2
+      },
+      {
+        "competency": "customer",
+        "demand": 1
+      },
+      {
+        "competency": "expert",
+        "demand": 1
+      },
+      {
+        "competency": "journey",
+        "demand": 1
+      },
+      {
+        "competency": "skypro",
+        "demand": 1
+      },
+      {
+        "competency": "smm",
+        "demand": 1
+      },
+      {
+        "competency": "Битрикс24",
+        "demand": 1
+      },
+      {
+        "competency": "Бонусы",
+        "demand": 39
+      },
+      {
+        "competency": "Бухгалтерия",
+        "demand": 1
+      },
+      {
+        "competency": "Документооборот",
+        "demand": 6
+      },
+      {
+        "competency": "ЗУП",
+        "demand": 1
+      },
+      {
+        "competency": "Интеграция",
+        "demand": 3
+      },
+      {
+        "competency": "Коммуникация",
+        "demand": 2
+      },
+      {
+        "competency": "Консультация",
+        "demand": 8
+      },
+      {
+        "competency": "Курсы повышения квалификации",
+        "demand": 2
+      },
+      {
+        "competency": "Обмен",
+        "demand": 2
+      },
+      {
+        "competency": "Отчеты",
+        "demand": 2
+      },
+      {
+        "competency": "Поддержка",
+        "demand": 17
+      },
+      {
+        "competency": "Премии",
+        "demand": 22
+      },
+      {
+        "competency": "Преподавание",
+        "demand": 11
+      },
+      {
+        "competency": "Психология",
+        "demand": 2
+      },
+      {
+        "competency": "Розничная торговля",
+        "demand": 1
+      },
+      {
+        "competency": "СБИС",
+        "demand": 1
+      },
+      {
+        "competency": "Язык",
+        "demand": 4
+      },
+      {
+        "competency": "авиабилетов",
+        "demand": 1
+      },
+      {
+        "competency": "авиамоторная",
+        "demand": 1
+      },
+      {
+        "competency": "автомотрисы",
+        "demand": 1
+      },
+      {
+        "competency": "агент",
+        "demand": 3
+      },
+      {
+        "competency": "агентов-консультантов",
+        "demand": 1
+      },
+      {
+        "competency": "агентского",
+        "demand": 1
+      },
+      {
+        "competency": "агроном",
+        "demand": 1
+      },
+      {
+        "competency": "администратор",
+        "demand": 5
+      },
+      {
+        "competency": "аксай",
+        "demand": 1
+      },
+      {
+        "competency": "акушер-гинеколог",
+        "demand": 1
+      },
+      {
+        "competency": "аналитик",
+        "demand": 1
+      },
+      {
+        "competency": "английского",
+        "demand": 3
+      },
+      {
+        "competency": "аптекой",
+        "demand": 3
+      },
+      {
+        "competency": "ассистент",
+        "demand": 2
+      },
+      {
+        "competency": "аудитория",
+        "demand": 1
+      },
+      {
+        "competency": "ахр",
+        "demand": 1
+      },
+      {
+        "competency": "бады",
+        "demand": 1
+      },
+      {
+        "competency": "барбер",
+        "demand": 1
+      },
+      {
+        "competency": "бахчисарай",
+        "demand": 1
+      },
+      {
+        "competency": "безопасности",
+        "demand": 1
+      },
+      {
+        "competency": "белгород",
+        "demand": 1
+      },
+      {
+        "competency": "бизнес",
+        "demand": 1
+      },
+      {
+        "competency": "бронированию",
+        "demand": 1
+      },
+      {
+        "competency": "бухгалтер",
+        "demand": 2
+      },
+      {
+        "competency": "бухгалтерской",
+        "demand": 1
+      },
+      {
+        "competency": "в2в",
+        "demand": 1
+      },
+      {
+        "competency": "вегас",
+        "demand": 1
+      },
+      {
+        "competency": "ведущий",
+        "demand": 2
+      },
+      {
+        "competency": "вечерняя",
+        "demand": 1
+      },
+      {
+        "competency": "взаимодействию",
+        "demand": 1
+      },
+      {
+        "competency": "водитель-инкассатор",
+        "demand": 3
+      },
+      {
+        "competency": "водитель-курьер",
+        "demand": 1
+      },
+      {
+        "competency": "волжская",
+        "demand": 1
+      },
+      {
+        "competency": "воспитанию",
+        "demand": 1
+      },
+      {
+        "competency": "воспитатель",
+        "demand": 4
+      },
+      {
+        "competency": "врач",
+        "demand": 4
+      },
+      {
+        "competency": "врач-кардиолог",
+        "demand": 1
+      },
+      {
+        "competency": "врач-оториноларинголог",
+        "demand": 4
+      },
+      {
+        "competency": "врач-педиатр",
+        "demand": 1
+      },
+      {
+        "competency": "врач-психиатр",
+        "demand": 1
+      },
+      {
+        "competency": "врач-терапевт",
+        "demand": 1
+      },
+      {
+        "competency": "врача-стоматолога",
+        "demand": 1
+      },
+      {
+        "competency": "втб",
+        "demand": 1
+      },
+      {
+        "competency": "вторичной",
+        "demand": 1
+      },
+      {
+        "competency": "вторичном",
+        "demand": 1
+      },
+      {
+        "competency": "вторичный",
+        "demand": 1
+      },
+      {
+        "competency": "входящих",
+        "demand": 1
+      },
+      {
+        "competency": "выборг",
+        "demand": 3
+      },
+      {
+        "competency": "г.",
+        "demand": 5
+      },
+      {
+        "competency": "главный",
+        "demand": 3
+      },
+      {
+        "competency": "год",
+        "demand": 1
+      },
+      {
+        "competency": "группы",
+        "demand": 3
+      },
+      {
+        "competency": "д.",
+        "demand": 3
+      },
+      {
+        "competency": "давыдково",
+        "demand": 1
+      },
+      {
+        "competency": "дворник",
+        "demand": 3
+      },
+      {
+        "competency": "десеновское",
+        "demand": 1
+      },
+      {
+        "competency": "детей",
+        "demand": 1
+      },
+      {
+        "competency": "детский",
+        "demand": 2
+      },
+      {
+        "competency": "детскими",
+        "demand": 1
+      },
+      {
+        "competency": "детского",
+        "demand": 2
+      },
+      {
+        "competency": "дизайнер",
+        "demand": 1
+      },
+      {
+        "competency": "директора",
+        "demand": 3
+      },
+      {
+        "competency": "для",
+        "demand": 1
+      },
+      {
+        "competency": "документооборотом",
+        "demand": 1
+      },
+      {
+        "competency": "дополнительного",
+        "demand": 1
+      },
+      {
+        "competency": "егэ",
+        "demand": 1
+      },
+      {
+        "competency": "жилья",
+        "demand": 2
+      },
+      {
+        "competency": "жк",
+        "demand": 1
+      },
+      {
+        "competency": "заведующая",
+        "demand": 3
+      },
+      {
+        "competency": "заведующий",
+        "demand": 3
+      },
+      {
+        "competency": "завхоз",
+        "demand": 1
+      },
+      {
+        "competency": "заказов",
+        "demand": 17
+      },
+      {
+        "competency": "закупкам",
+        "demand": 2
+      },
+      {
+        "competency": "зала",
+        "demand": 2
+      },
+      {
+        "competency": "заместитель",
+        "demand": 3
+      },
+      {
+        "competency": "замороженных",
+        "demand": 1
+      },
+      {
+        "competency": "запуски",
+        "demand": 1
+      },
+      {
+        "competency": "заявок",
+        "demand": 1
+      },
+      {
+        "competency": "звуковое",
+        "demand": 1
+      },
+      {
+        "competency": "зданий",
+        "demand": 1
+      },
+      {
+        "competency": "здания",
+        "demand": 4
+      },
+      {
+        "competency": "зуп",
+        "demand": 1
+      },
+      {
+        "competency": "империал",
+        "demand": 1
+      },
+      {
+        "competency": "инженер",
+        "demand": 3
+      },
+      {
+        "competency": "инноваций",
+        "demand": 1
+      },
+      {
+        "competency": "инструктор",
+        "demand": 1
+      },
+      {
+        "competency": "интеграции",
+        "demand": 1
+      },
+      {
+        "competency": "интернет-магазина",
+        "demand": 1
+      },
+      {
+        "competency": "информатики",
+        "demand": 4
+      },
+      {
+        "competency": "испанского",
+        "demand": 1
+      },
+      {
+        "competency": "кассир",
+        "demand": 1
+      },
+      {
+        "competency": "кирова",
+        "demand": 1
+      },
+      {
+        "competency": "классов",
+        "demand": 6
+      },
+      {
+        "competency": "клиентами",
+        "demand": 5
+      },
+      {
+        "competency": "клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "клиентский",
+        "demand": 1
+      },
+      {
+        "competency": "команду",
+        "demand": 1
+      },
+      {
+        "competency": "коммуникаций",
+        "demand": 2
+      },
+      {
+        "competency": "комплексному",
+        "demand": 4
+      },
+      {
+        "competency": "консультант",
+        "demand": 1
+      },
+      {
+        "competency": "консультант-нутрициолог",
+        "demand": 1
+      },
+      {
+        "competency": "контактной",
+        "demand": 1
+      },
+      {
+        "competency": "координатор",
+        "demand": 3
+      },
+      {
+        "competency": "корпоративными",
+        "demand": 1
+      },
+      {
+        "competency": "котельные",
+        "demand": 2
+      },
+      {
+        "competency": "красноярск",
+        "demand": 1
+      },
+      {
+        "competency": "красный",
+        "demand": 1
+      },
+      {
+        "competency": "кс",
+        "demand": 1
+      },
+      {
+        "competency": "культорганизатор",
+        "demand": 1
+      },
+      {
+        "competency": "культуре",
+        "demand": 1
+      },
+      {
+        "competency": "культурном",
+        "demand": 1
+      },
+      {
+        "competency": "культуры",
+        "demand": 1
+      },
+      {
+        "competency": "куратор",
+        "demand": 1
+      },
+      {
+        "competency": "курьер",
+        "demand": 3
+      },
+      {
+        "competency": "ленина",
+        "demand": 1
+      },
+      {
+        "competency": "ленинский",
+        "demand": 1
+      },
+      {
+        "competency": "лет",
+        "demand": 1
+      },
+      {
+        "competency": "литературы",
+        "demand": 6
+      },
+      {
+        "competency": "личные",
+        "demand": 1
+      },
+      {
+        "competency": "логистике",
+        "demand": 2
+      },
+      {
+        "competency": "лор",
+        "demand": 3
+      },
+      {
+        "competency": "луч",
+        "demand": 1
+      },
+      {
+        "competency": "м.",
+        "demand": 5
+      },
+      {
+        "competency": "магазина",
+        "demand": 1
+      },
+      {
+        "competency": "магазином",
+        "demand": 8
+      },
+      {
+        "competency": "магнит",
+        "demand": 1
+      },
+      {
+        "competency": "мальчиков",
+        "demand": 1
+      },
+      {
+        "competency": "маркетингу",
+        "demand": 1
+      },
+      {
+        "competency": "маркетолог",
+        "demand": 3
+      },
+      {
+        "competency": "маркетолог-смысловик",
+        "demand": 1
+      },
+      {
+        "competency": "мастер",
+        "demand": 3
+      },
+      {
+        "competency": "мастер-механик",
+        "demand": 1
+      },
+      {
+        "competency": "математики",
+        "demand": 9
+      },
+      {
+        "competency": "машинист",
+        "demand": 7
+      },
+      {
+        "competency": "медицинский",
+        "demand": 1
+      },
+      {
+        "competency": "медицинской",
+        "demand": 1
+      },
+      {
+        "competency": "менеджер",
+        "demand": 18
+      },
+      {
+        "competency": "менеджера",
+        "demand": 1
+      },
+      {
+        "competency": "мероприятий",
+        "demand": 2
+      },
+      {
+        "competency": "младший",
+        "demand": 1
+      },
+      {
+        "competency": "моделирования",
+        "demand": 1
+      },
+      {
+        "competency": "мойщик",
+        "demand": 1
+      },
+      {
+        "competency": "молл",
+        "demand": 1
+      },
+      {
+        "competency": "монтажник",
+        "demand": 1
+      },
+      {
+        "competency": "москва",
+        "demand": 1
+      },
+      {
+        "competency": "мср",
+        "demand": 1
+      },
+      {
+        "competency": "мультимедийных",
+        "demand": 1
+      },
+      {
+        "competency": "на",
+        "demand": 3
+      },
+      {
+        "competency": "налоговой",
+        "demand": 1
+      },
+      {
+        "competency": "налоговому",
+        "demand": 1
+      },
+      {
+        "competency": "направления",
+        "demand": 1
+      },
+      {
+        "competency": "населением",
+        "demand": 1
+      },
+      {
+        "competency": "настройке",
+        "demand": 1
+      },
+      {
+        "competency": "начальных",
+        "demand": 6
+      },
+      {
+        "competency": "начинающий",
+        "demand": 3
+      },
+      {
+        "competency": "недвижимости",
+        "demand": 4
+      },
+      {
+        "competency": "некрасова",
+        "demand": 1
+      },
+      {
+        "competency": "нема",
+        "demand": 1
+      },
+      {
+        "competency": "немецкого",
+        "demand": 1
+      },
+      {
+        "competency": "нно",
+        "demand": 1
+      },
+      {
+        "competency": "новороссийск",
+        "demand": 1
+      },
+      {
+        "competency": "норильск",
+        "demand": 1
+      },
+      {
+        "competency": "обзр",
+        "demand": 1
+      },
+      {
+        "competency": "оборудование",
+        "demand": 1
+      },
+      {
+        "competency": "оборудования",
+        "demand": 2
+      },
+      {
+        "competency": "обработке",
+        "demand": 1
+      },
+      {
+        "competency": "образования",
+        "demand": 2
+      },
+      {
+        "competency": "образовательные",
+        "demand": 1
+      },
+      {
+        "competency": "обслуживанию",
+        "demand": 8
+      },
+      {
+        "competency": "обучением",
+        "demand": 2
+      },
+      {
+        "competency": "общественными",
+        "demand": 1
+      },
+      {
+        "competency": "объединениями",
+        "demand": 1
+      },
+      {
+        "competency": "одод",
+        "demand": 1
+      },
+      {
+        "competency": "озерки",
+        "demand": 1
+      },
+      {
+        "competency": "онлайн",
+        "demand": 17
+      },
+      {
+        "competency": "онлайн-чата",
+        "demand": 1
+      },
+      {
+        "competency": "онлайн-школу",
+        "demand": 3
+      },
+      {
+        "competency": "оператор",
+        "demand": 2
+      },
+      {
+        "competency": "организации",
+        "demand": 2
+      },
+      {
+        "competency": "основы",
+        "demand": 1
+      },
+      {
+        "competency": "осс",
+        "demand": 1
+      },
+      {
+        "competency": "отдел",
+        "demand": 1
+      },
+      {
+        "competency": "отдела",
+        "demand": 4
+      },
+      {
+        "competency": "отделения",
+        "demand": 1
+      },
+      {
+        "competency": "отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "офиса",
+        "demand": 1
+      },
+      {
+        "competency": "охране",
+        "demand": 1
+      },
+      {
+        "competency": "парикмахер",
+        "demand": 1
+      },
+      {
+        "competency": "партнерских",
+        "demand": 1
+      },
+      {
+        "competency": "пгт.",
+        "demand": 1
+      },
+      {
+        "competency": "педагог",
+        "demand": 1
+      },
+      {
+        "competency": "педагог-организатор",
+        "demand": 2
+      },
+      {
+        "competency": "педагог-психолог",
+        "demand": 1
+      },
+      {
+        "competency": "пекарь-формовщик",
+        "demand": 1
+      },
+      {
+        "competency": "персонала",
+        "demand": 1
+      },
+      {
+        "competency": "печатники",
+        "demand": 1
+      },
+      {
+        "competency": "пилот",
+        "demand": 1
+      },
+      {
+        "competency": "питание",
+        "demand": 1
+      },
+      {
+        "competency": "по",
+        "demand": 49
+      },
+      {
+        "competency": "повар",
+        "demand": 1
+      },
+      {
+        "competency": "повар-универсал",
+        "demand": 1
+      },
+      {
+        "competency": "подбору",
+        "demand": 1
+      },
+      {
+        "competency": "поддержки",
+        "demand": 2
+      },
+      {
+        "competency": "полюс",
+        "demand": 1
+      },
+      {
+        "competency": "помещений",
+        "demand": 3
+      },
+      {
+        "competency": "помощник",
+        "demand": 1
+      },
+      {
+        "competency": "поселение",
+        "demand": 1
+      },
+      {
+        "competency": "посуды",
+        "demand": 1
+      },
+      {
+        "competency": "пр-кт",
+        "demand": 1
+      },
+      {
+        "competency": "праву",
+        "demand": 1
+      },
+      {
+        "competency": "представитель",
+        "demand": 2
+      },
+      {
+        "competency": "преподаватель",
+        "demand": 1
+      },
+      {
+        "competency": "преподаватель-организатор",
+        "demand": 1
+      },
+      {
+        "competency": "провизор",
+        "demand": 1
+      },
+      {
+        "competency": "программист",
+        "demand": 1
+      },
+      {
+        "competency": "программы",
+        "demand": 1
+      },
+      {
+        "competency": "продавец",
+        "demand": 3
+      },
+      {
+        "competency": "продавец-консультант",
+        "demand": 11
+      },
+      {
+        "competency": "продажам",
+        "demand": 6
+      },
+      {
+        "competency": "продаже",
+        "demand": 3
+      },
+      {
+        "competency": "продвижению",
+        "demand": 1
+      },
+      {
+        "competency": "продукта",
+        "demand": 1
+      },
+      {
+        "competency": "продуктов",
+        "demand": 2
+      },
+      {
+        "competency": "проектами",
+        "demand": 1
+      },
+      {
+        "competency": "производственных",
+        "demand": 1
+      },
+      {
+        "competency": "профессиональное",
+        "demand": 1
+      },
+      {
+        "competency": "пс",
+        "demand": 1
+      },
+      {
+        "competency": "работе",
+        "demand": 9
+      },
+      {
+        "competency": "рабочий",
+        "demand": 6
+      },
+      {
+        "competency": "развитию",
+        "demand": 1
+      },
+      {
+        "competency": "разнорабочий",
+        "demand": 2
+      },
+      {
+        "competency": "реабилитации",
+        "demand": 1
+      },
+      {
+        "competency": "рекламе",
+        "demand": 1
+      },
+      {
+        "competency": "ремонт",
+        "demand": 1
+      },
+      {
+        "competency": "ремонту",
+        "demand": 5
+      },
+      {
+        "competency": "рио",
+        "demand": 1
+      },
+      {
+        "competency": "руководитель",
+        "demand": 7
+      },
+      {
+        "competency": "руководителя",
+        "demand": 2
+      },
+      {
+        "competency": "русского",
+        "demand": 6
+      },
+      {
+        "competency": "рынке",
+        "demand": 1
+      },
+      {
+        "competency": "рынок",
+        "demand": 1
+      },
+      {
+        "competency": "сада",
+        "demand": 2
+      },
+      {
+        "competency": "санрайз",
+        "demand": 1
+      },
+      {
+        "competency": "сборке",
+        "demand": 1
+      },
+      {
+        "competency": "сборщик",
+        "demand": 16
+      },
+      {
+        "competency": "связи",
+        "demand": 2
+      },
+      {
+        "competency": "секретарь",
+        "demand": 1
+      },
+      {
+        "competency": "сельскохозяйственной",
+        "demand": 1
+      },
+      {
+        "competency": "сенная",
+        "demand": 1
+      },
+      {
+        "competency": "сервисному",
+        "demand": 1
+      },
+      {
+        "competency": "сервисный",
+        "demand": 2
+      },
+      {
+        "competency": "сервисов",
+        "demand": 1
+      },
+      {
+        "competency": "сети",
+        "demand": 1
+      },
+      {
+        "competency": "систем",
+        "demand": 1
+      },
+      {
+        "competency": "сити",
+        "demand": 2
+      },
+      {
+        "competency": "слаботочных",
+        "demand": 1
+      },
+      {
+        "competency": "слесарь",
+        "demand": 2
+      },
+      {
+        "competency": "службы",
+        "demand": 3
+      },
+      {
+        "competency": "служебных",
+        "demand": 1
+      },
+      {
+        "competency": "снабжению",
+        "demand": 1
+      },
+      {
+        "competency": "советник",
+        "demand": 1
+      },
+      {
+        "competency": "советская",
+        "demand": 2
+      },
+      {
+        "competency": "сообществами",
+        "demand": 1
+      },
+      {
+        "competency": "спасская",
+        "demand": 1
+      },
+      {
+        "competency": "спец.",
+        "demand": 1
+      },
+      {
+        "competency": "специалист",
+        "demand": 15
+      },
+      {
+        "competency": "спортивное",
+        "demand": 1
+      },
+      {
+        "competency": "ссср",
+        "demand": 1
+      },
+      {
+        "competency": "ст.",
+        "demand": 2
+      },
+      {
+        "competency": "стажер",
+        "demand": 1
+      },
+      {
+        "competency": "старший",
+        "demand": 1
+      },
+      {
+        "competency": "столовая",
+        "demand": 1
+      },
+      {
+        "competency": "столовую",
+        "demand": 1
+      },
+      {
+        "competency": "страхованию",
+        "demand": 2
+      },
+      {
+        "competency": "страховой",
+        "demand": 3
+      },
+      {
+        "competency": "табрис",
+        "demand": 1
+      },
+      {
+        "competency": "телемаркетинг",
+        "demand": 1
+      },
+      {
+        "competency": "теплая",
+        "demand": 1
+      },
+      {
+        "competency": "территории",
+        "demand": 2
+      },
+      {
+        "competency": "тестирования",
+        "demand": 1
+      },
+      {
+        "competency": "техник",
+        "demand": 2
+      },
+      {
+        "competency": "техники",
+        "demand": 2
+      },
+      {
+        "competency": "технической",
+        "demand": 2
+      },
+      {
+        "competency": "технолог",
+        "demand": 1
+      },
+      {
+        "competency": "технологии",
+        "demand": 5
+      },
+      {
+        "competency": "торгового",
+        "demand": 2
+      },
+      {
+        "competency": "торговый",
+        "demand": 1
+      },
+      {
+        "competency": "тракторист",
+        "demand": 7
+      },
+      {
+        "competency": "трк",
+        "demand": 3
+      },
+      {
+        "competency": "труда",
+        "demand": 2
+      },
+      {
+        "competency": "тц",
+        "demand": 7
+      },
+      {
+        "competency": "тьютор",
+        "demand": 1
+      },
+      {
+        "competency": "уборщик",
+        "demand": 4
+      },
+      {
+        "competency": "уборщица",
+        "demand": 2
+      },
+      {
+        "competency": "удал",
+        "demand": 1
+      },
+      {
+        "competency": "ул.",
+        "demand": 4
+      },
+      {
+        "competency": "управления",
+        "demand": 1
+      },
+      {
+        "competency": "управляющий",
+        "demand": 8
+      },
+      {
+        "competency": "услуг",
+        "demand": 1
+      },
+      {
+        "competency": "уч.",
+        "demand": 1
+      },
+      {
+        "competency": "участка",
+        "demand": 2
+      },
+      {
+        "competency": "учебной",
+        "demand": 1
+      },
+      {
+        "competency": "учитель",
+        "demand": 38
+      },
+      {
+        "competency": "фармацевт",
+        "demand": 1
+      },
+      {
+        "competency": "физики",
+        "demand": 4
+      },
+      {
+        "competency": "физической",
+        "demand": 2
+      },
+      {
+        "competency": "финансы",
+        "demand": 1
+      },
+      {
+        "competency": "французского",
+        "demand": 1
+      },
+      {
+        "competency": "химии",
+        "demand": 1
+      },
+      {
+        "competency": "химки",
+        "demand": 1
+      },
+      {
+        "competency": "центр",
+        "demand": 1
+      },
+      {
+        "competency": "центра",
+        "demand": 1
+      },
+      {
+        "competency": "центре",
+        "demand": 1
+      },
+      {
+        "competency": "цеха",
+        "demand": 1
+      },
+      {
+        "competency": "частную",
+        "demand": 6
+      },
+      {
+        "competency": "черчение",
+        "demand": 2
+      },
+      {
+        "competency": "школу",
+        "demand": 7
+      },
+      {
+        "competency": "школы",
+        "demand": 1
+      },
+      {
+        "competency": "школьную",
+        "demand": 1
+      },
+      {
+        "competency": "штатный",
+        "demand": 1
+      },
+      {
+        "competency": "щелковская",
+        "demand": 1
+      },
+      {
+        "competency": "экономист",
+        "demand": 1
+      },
+      {
+        "competency": "эксплуатационного",
+        "demand": 1
+      },
+      {
+        "competency": "электрик",
+        "demand": 3
+      },
+      {
+        "competency": "электромонт",
+        "demand": 2
+      },
+      {
+        "competency": "эндокринолог",
+        "demand": 1
+      },
+      {
+        "competency": "южный",
+        "demand": 1
+      },
+      {
+        "competency": "юридических",
+        "demand": 1
+      },
+      {
+        "competency": "юрисконсульт",
+        "demand": 2
+      },
+      {
+        "competency": "языка",
+        "demand": 10
+      },
+      {
+        "competency": "языкового",
+        "demand": 1
+      }
+    ],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment",
+        "supply": 3
+      },
+      {
+        "competency": "1CDevelopment/AI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EdTech/EnterpriseSoftware/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "1С:Предприятие",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 16
+      },
+      {
+        "competency": "AI/AnalyticsBI",
+        "supply": 3
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "AI/ChatBots/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/ChatBots/EdTech/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 9
+      },
+      {
+        "competency": "AI/EdTech/GameDev/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 20
+      },
+      {
+        "competency": "AnalyticsBI/ChatBots/EdTech/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/ECommerce",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/ECommerce/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 17
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/FinTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech/SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Android",
+        "supply": 4
+      },
+      {
+        "competency": "Avalonia",
+        "supply": 1
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 4
+      },
+      {
+        "competency": "C#",
+        "supply": 8
+      },
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "Cascade Haar",
+        "supply": 1
+      },
+      {
+        "competency": "Celery",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 12
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 12
+      },
+      {
+        "competency": "ChatBots/EdTech/FinTech",
+        "supply": 3
+      },
+      {
+        "competency": "ChatBots/EdTech/GameDev/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/HRTech/HealthTech/LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/ProjectManagement/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Data Science",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 4
+      },
+      {
+        "competency": "Django REST Framework",
+        "supply": 1
+      },
+      {
+        "competency": "Docker",
+        "supply": 3
+      },
+      {
+        "competency": "ECommerce",
+        "supply": 2
+      },
+      {
+        "competency": "ECommerce/EdTech/FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 70
+      },
+      {
+        "competency": "EdTech/CRM",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/Game-based",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 7
+      },
+      {
+        "competency": "EdTech/GameDev/HRTech",
+        "supply": 4
+      },
+      {
+        "competency": "EdTech/GameDev/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/GameDev/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 7
+      },
+      {
+        "competency": "EdTech/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/PropTech",
+        "supply": 4
+      },
+      {
+        "competency": "EdTech/VR",
+        "supply": 1
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 4
+      },
+      {
+        "competency": "FastAPI",
+        "supply": 2
+      },
+      {
+        "competency": "Figma",
+        "supply": 2
+      },
+      {
+        "competency": "FinTech",
+        "supply": 6
+      },
+      {
+        "competency": "Flutter",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 5
+      },
+      {
+        "competency": "GUI",
+        "supply": 1
+      },
+      {
+        "competency": "Game-based",
+        "supply": 3
+      },
+      {
+        "competency": "GameDev",
+        "supply": 7
+      },
+      {
+        "competency": "GitHub",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech",
+        "supply": 12
+      },
+      {
+        "competency": "HTML",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 2
+      },
+      {
+        "competency": "IOS",
+        "supply": 3
+      },
+      {
+        "competency": "Java",
+        "supply": 1
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 2
+      },
+      {
+        "competency": "Kotlin",
+        "supply": 4
+      },
+      {
+        "competency": "LLM",
+        "supply": 5
+      },
+      {
+        "competency": "LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics",
+        "supply": 2
+      },
+      {
+        "competency": "ML",
+        "supply": 7
+      },
+      {
+        "competency": "MySQL",
+        "supply": 1
+      },
+      {
+        "competency": "NLP",
+        "supply": 4
+      },
+      {
+        "competency": "Node.js",
+        "supply": 2
+      },
+      {
+        "competency": "PHP",
+        "supply": 1
+      },
+      {
+        "competency": "PostgreSQL",
+        "supply": 4
+      },
+      {
+        "competency": "Postgres",
+        "supply": 1
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 6
+      },
+      {
+        "competency": "PyTorch",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 4
+      },
+      {
+        "competency": "RAG",
+        "supply": 3
+      },
+      {
+        "competency": "REST API",
+        "supply": 1
+      },
+      {
+        "competency": "RTK Query",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 8
+      },
+      {
+        "competency": "Redis",
+        "supply": 1
+      },
+      {
+        "competency": "Redux",
+        "supply": 1
+      },
+      {
+        "competency": "Redux Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "Rest api",
+        "supply": 1
+      },
+      {
+        "competency": "Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "SCSS",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "Team Lead",
+        "supply": 1
+      },
+      {
+        "competency": "Team Lead (менеджер проекта)",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram",
+        "supply": 5
+      },
+      {
+        "competency": "Telegram Bot",
+        "supply": 2
+      },
+      {
+        "competency": "Telegram Mini App",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 3
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 5
+      },
+      {
+        "competency": "UI",
+        "supply": 2
+      },
+      {
+        "competency": "Unity",
+        "supply": 8
+      },
+      {
+        "competency": "Unity-программист",
+        "supply": 1
+      },
+      {
+        "competency": "VR",
+        "supply": 1
+      },
+      {
+        "competency": "Vite",
+        "supply": 1
+      },
+      {
+        "competency": "Vue",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 9
+      },
+      {
+        "competency": "XR Interaction Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "Геймдизайн",
+        "supply": 1
+      },
+      {
+        "competency": "Геймификация",
+        "supply": 2
+      },
+      {
+        "competency": "Генерация",
+        "supply": 1
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 1
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 6
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 11
+      },
+      {
+        "competency": "Технический дизайнер (верстка в Unity)",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 14
+      }
+    ],
+    "matches": [
+      {
+        "competency": "API",
+        "demand": 1,
+        "supply": 11
+      },
+      {
+        "competency": "ChatGPT",
+        "demand": 1,
+        "supply": 1
+      },
+      {
+        "competency": "Json",
+        "demand": 1,
+        "supply": 6
+      },
+      {
+        "competency": "Postman",
+        "demand": 1,
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "demand": 1,
+        "supply": 2
+      }
+    ]
+  },
+  {
+    "industry": "Embedded",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 8,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Automation",
+        "supply": 1
+      },
+      {
+        "competency": "Embedded",
+        "supply": 1
+      },
+      {
+        "competency": "Embedded/UI Tools",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "UI Tools",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Enterprise",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 10,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "Django REST Framework",
+        "supply": 1
+      },
+      {
+        "competency": "Enterprise",
+        "supply": 2
+      },
+      {
+        "competency": "Enterprise/ITSM",
+        "supply": 1
+      },
+      {
+        "competency": "Enterprise/Innovation",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "ITSM",
+        "supply": 1
+      },
+      {
+        "competency": "Innovation",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 42,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "1CDevelopment",
+        "supply": 8
+      },
+      {
+        "competency": "1CDevelopment/AI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/ChatBots/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EdTech/EnterpriseSoftware/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EnterpriseSoftware",
+        "supply": 3
+      },
+      {
+        "competency": "1CDevelopment/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "1С:Предприятие",
+        "supply": 4
+      },
+      {
+        "competency": "1С:Предприятие 8.3",
+        "supply": 2
+      },
+      {
+        "competency": "AI",
+        "supply": 3
+      },
+      {
+        "competency": "AI/AnalyticsBI",
+        "supply": 1
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/AnalyticsBI/EdTech/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 3
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 6
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 1
+      },
+      {
+        "competency": "Cybersecurity",
+        "supply": 1
+      },
+      {
+        "competency": "Cybersecurity/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech",
+        "supply": 4
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 13
+      },
+      {
+        "competency": "HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "Json",
+        "supply": 3
+      },
+      {
+        "competency": "Logistics",
+        "supply": 2
+      },
+      {
+        "competency": "Low-code",
+        "supply": 1
+      },
+      {
+        "competency": "ML",
+        "supply": 2
+      },
+      {
+        "competency": "NLP",
+        "supply": 2
+      },
+      {
+        "competency": "Odoo",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "REST API",
+        "supply": 2
+      },
+      {
+        "competency": "Rest api",
+        "supply": 2
+      },
+      {
+        "competency": "SportTech",
+        "supply": 3
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 4
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 4
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "FinTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 42,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "API",
+        "supply": 5
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 6
+      },
+      {
+        "competency": "AnalyticsBI/ChatBots/EdTech/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/FinTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "Android",
+        "supply": 2
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 4
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 3
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "ChatBots/EdTech/FinTech",
+        "supply": 3
+      },
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "Docker",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce",
+        "supply": 3
+      },
+      {
+        "competency": "ECommerce/EdTech/FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "ECommerce/FinTech/SaaS/TravelTech/Web3",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 6
+      },
+      {
+        "competency": "FinTech",
+        "supply": 11
+      },
+      {
+        "competency": "FinTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 4
+      },
+      {
+        "competency": "IOS",
+        "supply": 2
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Json",
+        "supply": 1
+      },
+      {
+        "competency": "Node.js",
+        "supply": 1
+      },
+      {
+        "competency": "Open Banking API",
+        "supply": 1
+      },
+      {
+        "competency": "Postman",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 4
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 3
+      },
+      {
+        "competency": "SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 2
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Vue",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 3
+      },
+      {
+        "competency": "Web3",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 5
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 2
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Game-based",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 6,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "C#",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech/Game-based",
+        "supply": 3
+      },
+      {
+        "competency": "Game-based",
+        "supply": 3
+      },
+      {
+        "competency": "Unity",
+        "supply": 3
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 3
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "GameDev",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 59,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "3-D-дизайнер",
+        "supply": 3
+      },
+      {
+        "competency": "AI",
+        "supply": 2
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/EdTech/GameDev/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "Android",
+        "supply": 2
+      },
+      {
+        "competency": "C#",
+        "supply": 4
+      },
+      {
+        "competency": "C++",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/GameDev/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/GameDev/SaaS/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Clicker-механики",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 7
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 7
+      },
+      {
+        "competency": "EdTech/GameDev/HRTech",
+        "supply": 4
+      },
+      {
+        "competency": "EdTech/GameDev/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/GameDev/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 3
+      },
+      {
+        "competency": "GameDev",
+        "supply": 44
+      },
+      {
+        "competency": "GameDev/HealthTech",
+        "supply": 2
+      },
+      {
+        "competency": "GameDev/HealthTech/RetailHoReCa",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev/Robotics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev/TravelTech",
+        "supply": 4
+      },
+      {
+        "competency": "GameDev/VR",
+        "supply": 3
+      },
+      {
+        "competency": "HRTech",
+        "supply": 4
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 2
+      },
+      {
+        "competency": "IOS",
+        "supply": 1
+      },
+      {
+        "competency": "LLM",
+        "supply": 2
+      },
+      {
+        "competency": "Logistics",
+        "supply": 1
+      },
+      {
+        "competency": "OpenCV",
+        "supply": 1
+      },
+      {
+        "competency": "Opencv",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "RAG",
+        "supply": 2
+      },
+      {
+        "competency": "RetailHoReCa",
+        "supply": 1
+      },
+      {
+        "competency": "Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "SportTech",
+        "supply": 3
+      },
+      {
+        "competency": "Steam-VR",
+        "supply": 2
+      },
+      {
+        "competency": "Survival horror",
+        "supply": 1
+      },
+      {
+        "competency": "Team Lead",
+        "supply": 1
+      },
+      {
+        "competency": "Team Lead (менеджер проекта)",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram",
+        "supply": 4
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 5
+      },
+      {
+        "competency": "UI",
+        "supply": 7
+      },
+      {
+        "competency": "UX",
+        "supply": 6
+      },
+      {
+        "competency": "Unity",
+        "supply": 18
+      },
+      {
+        "competency": "Unity 3d",
+        "supply": 2
+      },
+      {
+        "competency": "Unity-программист",
+        "supply": 4
+      },
+      {
+        "competency": "Unreal Engine",
+        "supply": 3
+      },
+      {
+        "competency": "VR",
+        "supply": 3
+      },
+      {
+        "competency": "VR-приложение",
+        "supply": 3
+      },
+      {
+        "competency": "WebGL",
+        "supply": 2
+      },
+      {
+        "competency": "Гейм-дизайнер",
+        "supply": 2
+      },
+      {
+        "competency": "Геймдизайн",
+        "supply": 1
+      },
+      {
+        "competency": "Геймификация",
+        "supply": 2
+      },
+      {
+        "competency": "Программирование",
+        "supply": 3
+      },
+      {
+        "competency": "Технический дизайнер (верстка в Unity)",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 5
+      },
+      {
+        "competency": "Физические законы",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "GameTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 14,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 1
+      },
+      {
+        "competency": "ASP.NET Core Identity",
+        "supply": 1
+      },
+      {
+        "competency": "Blazor",
+        "supply": 1
+      },
+      {
+        "competency": "C#",
+        "supply": 1
+      },
+      {
+        "competency": "Entity Framework Core",
+        "supply": 1
+      },
+      {
+        "competency": "GameTech",
+        "supply": 1
+      },
+      {
+        "competency": "GameTech/AI",
+        "supply": 1
+      },
+      {
+        "competency": "HTML",
+        "supply": 1
+      },
+      {
+        "competency": "ORM",
+        "supply": 1
+      },
+      {
+        "competency": "OpenAI",
+        "supply": 1
+      },
+      {
+        "competency": "OpenAI API",
+        "supply": 1
+      },
+      {
+        "competency": "PostgreSQL",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "HRTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 76,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "1CDevelopment",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EdTech/EnterpriseSoftware/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 5
+      },
+      {
+        "competency": "AI/AnalyticsBI",
+        "supply": 2
+      },
+      {
+        "competency": "AI/AnalyticsBI/HRTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "AI/EdTech/GameDev/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 6
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech/SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/HRTech",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI/HRTech/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "Android",
+        "supply": 2
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "C#",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech/GameDev/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/HRTech/HealthTech/LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "EDA",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 12
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 4
+      },
+      {
+        "competency": "EdTech/GameDev/HRTech",
+        "supply": 4
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 7
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "GameDev",
+        "supply": 4
+      },
+      {
+        "competency": "GitHub",
+        "supply": 1
+      },
+      {
+        "competency": "Go",
+        "supply": 2
+      },
+      {
+        "competency": "HRTech",
+        "supply": 18
+      },
+      {
+        "competency": "HRTech/Psychology",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech/SaaS/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "HTML",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 2
+      },
+      {
+        "competency": "IOS",
+        "supply": 2
+      },
+      {
+        "competency": "Java",
+        "supply": 2
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Kotlin",
+        "supply": 2
+      },
+      {
+        "competency": "LLM",
+        "supply": 2
+      },
+      {
+        "competency": "LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "ML",
+        "supply": 2
+      },
+      {
+        "competency": "Matplotlib",
+        "supply": 1
+      },
+      {
+        "competency": "Node.js",
+        "supply": 1
+      },
+      {
+        "competency": "Numpy",
+        "supply": 1
+      },
+      {
+        "competency": "PHP",
+        "supply": 1
+      },
+      {
+        "competency": "Pandas",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "Psychology",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 3
+      },
+      {
+        "competency": "RAG",
+        "supply": 2
+      },
+      {
+        "competency": "REST API",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 3
+      },
+      {
+        "competency": "Rest api",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 2
+      },
+      {
+        "competency": "Swift",
+        "supply": 2
+      },
+      {
+        "competency": "Team Lead",
+        "supply": 1
+      },
+      {
+        "competency": "Team Lead (менеджер проекта)",
+        "supply": 1
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 2
+      },
+      {
+        "competency": "Unity-программист",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      },
+      {
+        "competency": "Геймдизайн",
+        "supply": 1
+      },
+      {
+        "competency": "Геймификация",
+        "supply": 2
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 3
+      },
+      {
+        "competency": "Технический дизайнер (верстка в Unity)",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 2
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "HealthTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 36,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 3
+      },
+      {
+        "competency": "AI/ChatBots/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/EdTech/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/HRTech/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "CSS",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/HRTech/HealthTech/LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev",
+        "supply": 2
+      },
+      {
+        "competency": "GameDev/HealthTech",
+        "supply": 2
+      },
+      {
+        "competency": "GameDev/HealthTech/RetailHoReCa",
+        "supply": 1
+      },
+      {
+        "competency": "Git",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "HTML",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 8
+      },
+      {
+        "competency": "HealthTech/ERP",
+        "supply": 1
+      },
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "LLM",
+        "supply": 2
+      },
+      {
+        "competency": "LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "Odoo",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "RAG",
+        "supply": 2
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "RetailHoReCa",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 2
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ITSM",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 4,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Enterprise",
+        "supply": 1
+      },
+      {
+        "competency": "Enterprise/ITSM",
+        "supply": 1
+      },
+      {
+        "competency": "ITSM",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Innovation",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 7,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "Django REST Framework",
+        "supply": 1
+      },
+      {
+        "competency": "Enterprise",
+        "supply": 1
+      },
+      {
+        "competency": "Enterprise/Innovation",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "Innovation",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "LegalTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 10,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "ChatBots",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/HRTech/HealthTech/LegalTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "LegalTech",
+        "supply": 2
+      },
+      {
+        "competency": "ML",
+        "supply": 1
+      },
+      {
+        "competency": "Генерация",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Logistics",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 57,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 5
+      },
+      {
+        "competency": "AI/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Android",
+        "supply": 1
+      },
+      {
+        "competency": "Apache Airflow",
+        "supply": 1
+      },
+      {
+        "competency": "Apache Superset",
+        "supply": 1
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 3
+      },
+      {
+        "competency": "CRM",
+        "supply": 1
+      },
+      {
+        "competency": "CSS",
+        "supply": 1
+      },
+      {
+        "competency": "CSS modules",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 2
+      },
+      {
+        "competency": "Docker",
+        "supply": 1
+      },
+      {
+        "competency": "Docker Compose",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "EcoTech",
+        "supply": 3
+      },
+      {
+        "competency": "EcoTech/Logistics/TravelTech",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/GameDev/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 2
+      },
+      {
+        "competency": "FSD",
+        "supply": 1
+      },
+      {
+        "competency": "FastAPI",
+        "supply": 1
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "Git",
+        "supply": 1
+      },
+      {
+        "competency": "Git hooks",
+        "supply": 1
+      },
+      {
+        "competency": "GitHub",
+        "supply": 1
+      },
+      {
+        "competency": "GitHub builds",
+        "supply": 1
+      },
+      {
+        "competency": "IOS",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics",
+        "supply": 14
+      },
+      {
+        "competency": "Logistics/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics/SportTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Low-code",
+        "supply": 1
+      },
+      {
+        "competency": "Mock Service Worker",
+        "supply": 1
+      },
+      {
+        "competency": "Odoo",
+        "supply": 1
+      },
+      {
+        "competency": "Postgres",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 2
+      },
+      {
+        "competency": "RTK Query",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 3
+      },
+      {
+        "competency": "React Vit",
+        "supply": 1
+      },
+      {
+        "competency": "Redux",
+        "supply": 1
+      },
+      {
+        "competency": "Redux Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "Redux toolkit + rtk query",
+        "supply": 1
+      },
+      {
+        "competency": "SQLAlchemy",
+        "supply": 1
+      },
+      {
+        "competency": "SportTech",
+        "supply": 3
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 6
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      },
+      {
+        "competency": "Yarn Berry",
+        "supply": 1
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 2
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 2
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "MarTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 3,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "MarTech",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "MobileDevelopment",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 20,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 1
+      },
+      {
+        "competency": "CSS",
+        "supply": 1
+      },
+      {
+        "competency": "MobileDevelopment",
+        "supply": 1
+      },
+      {
+        "competency": "NativeBase",
+        "supply": 1
+      },
+      {
+        "competency": "Next.js",
+        "supply": 1
+      },
+      {
+        "competency": "RTK Query",
+        "supply": 1
+      },
+      {
+        "competency": "Radix UI",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "React Native",
+        "supply": 1
+      },
+      {
+        "competency": "React Native Elements",
+        "supply": 1
+      },
+      {
+        "competency": "React Native Vector Icons",
+        "supply": 1
+      },
+      {
+        "competency": "React Navigation 6",
+        "supply": 1
+      },
+      {
+        "competency": "Redux",
+        "supply": 1
+      },
+      {
+        "competency": "Redux Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "Styled Components",
+        "supply": 1
+      },
+      {
+        "competency": "Tailwind CSS",
+        "supply": 1
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "Яндекс.Облако",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Project Management",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 2,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "JavaScript",
+        "supply": 1
+      },
+      {
+        "competency": "Project Management",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ProjectManagement",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 31,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 1
+      },
+      {
+        "competency": "AI/BrowserExtensions/ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "BrowserExtensions",
+        "supply": 1
+      },
+      {
+        "competency": "Celery",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/ProjectManagement/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "Django REST Framework",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "LLM",
+        "supply": 1
+      },
+      {
+        "competency": "MySQL",
+        "supply": 1
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 3
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "RTK Query",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "Redis",
+        "supply": 1
+      },
+      {
+        "competency": "Redux",
+        "supply": 1
+      },
+      {
+        "competency": "Redux Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "SCSS",
+        "supply": 1
+      },
+      {
+        "competency": "SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Vite",
+        "supply": 1
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "PropTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 53,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 6
+      },
+      {
+        "competency": "AI/AnalyticsBI",
+        "supply": 2
+      },
+      {
+        "competency": "AI/AnalyticsBI/HRTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AI/ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/ChatBots/EdTech/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "AI/PropTech",
+        "supply": 3
+      },
+      {
+        "competency": "API",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 7
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/FinTech/PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "Android",
+        "supply": 4
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 6
+      },
+      {
+        "competency": "C#",
+        "supply": 6
+      },
+      {
+        "competency": "Cascade Haar",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "Docker",
+        "supply": 5
+      },
+      {
+        "competency": "EdTech",
+        "supply": 6
+      },
+      {
+        "competency": "EdTech/PropTech",
+        "supply": 4
+      },
+      {
+        "competency": "Email",
+        "supply": 1
+      },
+      {
+        "competency": "FinTech",
+        "supply": 4
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 6
+      },
+      {
+        "competency": "GUI",
+        "supply": 1
+      },
+      {
+        "competency": "Go",
+        "supply": 2
+      },
+      {
+        "competency": "HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "IOS",
+        "supply": 4
+      },
+      {
+        "competency": "Java",
+        "supply": 2
+      },
+      {
+        "competency": "Kotlin",
+        "supply": 2
+      },
+      {
+        "competency": "LLM",
+        "supply": 4
+      },
+      {
+        "competency": "Logistics",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics/PropTech",
+        "supply": 1
+      },
+      {
+        "competency": "ML",
+        "supply": 2
+      },
+      {
+        "competency": "PostgreSQL",
+        "supply": 6
+      },
+      {
+        "competency": "PropTech",
+        "supply": 20
+      },
+      {
+        "competency": "PropTech/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 4
+      },
+      {
+        "competency": "RAG",
+        "supply": 2
+      },
+      {
+        "competency": "REST API",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 7
+      },
+      {
+        "competency": "Rest api",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 2
+      },
+      {
+        "competency": "SportTech",
+        "supply": 3
+      },
+      {
+        "competency": "Swift",
+        "supply": 2
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 4
+      },
+      {
+        "competency": "Vue",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 6
+      },
+      {
+        "competency": "Генерация",
+        "supply": 3
+      },
+      {
+        "competency": "Генерация планировок",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 6
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Psychology",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 3,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech/Psychology",
+        "supply": 1
+      },
+      {
+        "competency": "Psychology",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "ResearchTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 2,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "ML",
+        "supply": 1
+      },
+      {
+        "competency": "ResearchTech",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "RetailHoReCa",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 6,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev/HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev/HealthTech/RetailHoReCa",
+        "supply": 1
+      },
+      {
+        "competency": "HealthTech",
+        "supply": 1
+      },
+      {
+        "competency": "RetailHoReCa",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Robotics",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 14,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AnalyticsBI",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "C++",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev/Robotics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "OpenCV",
+        "supply": 1
+      },
+      {
+        "competency": "Opencv",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "Robotics",
+        "supply": 3
+      },
+      {
+        "competency": "SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Программирование",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "SaaS",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 29,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AnalyticsBI",
+        "supply": 3
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/HRTech/SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/GameDev/SaaS/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech/SaaS/TravelTech/Web3",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "FinTech",
+        "supply": 3
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "GitHub",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech",
+        "supply": 2
+      },
+      {
+        "competency": "HRTech/SaaS/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Node.js",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 2
+      },
+      {
+        "competency": "React",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 7
+      },
+      {
+        "competency": "SportTech",
+        "supply": 3
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 2
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 1
+      },
+      {
+        "competency": "Web3",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 2
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 16,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": ".NET",
+        "supply": 1
+      },
+      {
+        "competency": "AI",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 2
+      },
+      {
+        "competency": "Atlassian Jira",
+        "supply": 1
+      },
+      {
+        "competency": "C++",
+        "supply": 1
+      },
+      {
+        "competency": "GUI",
+        "supply": 1
+      },
+      {
+        "competency": "PHP",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 1
+      },
+      {
+        "competency": "REST API",
+        "supply": 1
+      },
+      {
+        "competency": "Rest api",
+        "supply": 1
+      },
+      {
+        "competency": "SoftwareDevelopment",
+        "supply": 16
+      },
+      {
+        "competency": "Web",
+        "supply": 1
+      },
+      {
+        "competency": "Взаимодействие систем",
+        "supply": 1
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 1
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 1
+      },
+      {
+        "competency": "Соло",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "SportTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 75,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "1CDevelopment",
+        "supply": 2
+      },
+      {
+        "competency": "1CDevelopment/AnalyticsBI/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EnterpriseSoftware",
+        "supply": 1
+      },
+      {
+        "competency": "1CDevelopment/EnterpriseSoftware/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "1С:Предприятие",
+        "supply": 2
+      },
+      {
+        "competency": "1С:Предприятие 8.3",
+        "supply": 2
+      },
+      {
+        "competency": "AI",
+        "supply": 1
+      },
+      {
+        "competency": "AI/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "API",
+        "supply": 3
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 4
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware",
+        "supply": 2
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EnterpriseSoftware/Logistics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/FinTech/PropTech/SaaS/SportTech",
+        "supply": 2
+      },
+      {
+        "competency": "Backend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "C++",
+        "supply": 1
+      },
+      {
+        "competency": "Celery",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots",
+        "supply": 2
+      },
+      {
+        "competency": "ChatBots/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/EdTech/ProjectManagement/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "ChatBots/GameDev/SaaS/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Django",
+        "supply": 1
+      },
+      {
+        "competency": "Django REST Framework",
+        "supply": 1
+      },
+      {
+        "competency": "Docker",
+        "supply": 1
+      },
+      {
+        "competency": "ERP",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/GameDev/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Email",
+        "supply": 1
+      },
+      {
+        "competency": "EnterpriseSoftware",
+        "supply": 3
+      },
+      {
+        "competency": "FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "Frontend-разработчик",
+        "supply": 2
+      },
+      {
+        "competency": "GameDev",
+        "supply": 3
+      },
+      {
+        "competency": "GameDev/Robotics/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Golang",
+        "supply": 1
+      },
+      {
+        "competency": "Jest",
+        "supply": 1
+      },
+      {
+        "competency": "K6s",
+        "supply": 1
+      },
+      {
+        "competency": "Kubernetes",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics",
+        "supply": 3
+      },
+      {
+        "competency": "Logistics/SportTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Low-code",
+        "supply": 1
+      },
+      {
+        "competency": "MySQL",
+        "supply": 1
+      },
+      {
+        "competency": "ORM",
+        "supply": 1
+      },
+      {
+        "competency": "Odoo",
+        "supply": 1
+      },
+      {
+        "competency": "OpenCV",
+        "supply": 1
+      },
+      {
+        "competency": "Opencv",
+        "supply": 1
+      },
+      {
+        "competency": "PostgreSQL",
+        "supply": 2
+      },
+      {
+        "competency": "ProjectManagement",
+        "supply": 1
+      },
+      {
+        "competency": "PropTech",
+        "supply": 3
+      },
+      {
+        "competency": "PropTech/SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Python",
+        "supply": 3
+      },
+      {
+        "competency": "REST API",
+        "supply": 2
+      },
+      {
+        "competency": "RTK Query",
+        "supply": 1
+      },
+      {
+        "competency": "React",
+        "supply": 3
+      },
+      {
+        "competency": "React SPA",
+        "supply": 1
+      },
+      {
+        "competency": "Redis",
+        "supply": 2
+      },
+      {
+        "competency": "Redux",
+        "supply": 1
+      },
+      {
+        "competency": "Redux Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "Rest api",
+        "supply": 2
+      },
+      {
+        "competency": "Robotics",
+        "supply": 1
+      },
+      {
+        "competency": "SCSS",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 3
+      },
+      {
+        "competency": "SportTech",
+        "supply": 18
+      },
+      {
+        "competency": "Telegram",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "TypeScript",
+        "supply": 2
+      },
+      {
+        "competency": "Vite",
+        "supply": 2
+      },
+      {
+        "competency": "Vue",
+        "supply": 1
+      },
+      {
+        "competency": "Web",
+        "supply": 2
+      },
+      {
+        "competency": "Генерация",
+        "supply": 1
+      },
+      {
+        "competency": "Оптимизация",
+        "supply": 1
+      },
+      {
+        "competency": "Программирование",
+        "supply": 1
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 1
+      },
+      {
+        "competency": "Тестировщик",
+        "supply": 3
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "TravelTech",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 36,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "AI",
+        "supply": 6
+      },
+      {
+        "competency": "API",
+        "supply": 3
+      },
+      {
+        "competency": "AnalyticsBI",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "AnalyticsBI/EdTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Android",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech/SaaS/TravelTech/Web3",
+        "supply": 1
+      },
+      {
+        "competency": "EcoTech",
+        "supply": 5
+      },
+      {
+        "competency": "EcoTech/Logistics/TravelTech",
+        "supply": 3
+      },
+      {
+        "competency": "EcoTech/TravelTech",
+        "supply": 2
+      },
+      {
+        "competency": "EdTech",
+        "supply": 3
+      },
+      {
+        "competency": "EdTech/GameDev",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/GameDev/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/Logistics/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "FinTech",
+        "supply": 2
+      },
+      {
+        "competency": "FinTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev",
+        "supply": 5
+      },
+      {
+        "competency": "GameDev/TravelTech",
+        "supply": 4
+      },
+      {
+        "competency": "HRTech",
+        "supply": 1
+      },
+      {
+        "competency": "HRTech/SaaS/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "IOS",
+        "supply": 1
+      },
+      {
+        "competency": "Logistics",
+        "supply": 6
+      },
+      {
+        "competency": "Logistics/SportTech/TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Open Banking API",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 2
+      },
+      {
+        "competency": "SportTech",
+        "supply": 1
+      },
+      {
+        "competency": "Survival horror",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 17
+      },
+      {
+        "competency": "TravelTech/AI",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 2
+      },
+      {
+        "competency": "Unity",
+        "supply": 4
+      },
+      {
+        "competency": "Web3",
+        "supply": 1
+      },
+      {
+        "competency": "Программирование",
+        "supply": 1
+      },
+      {
+        "competency": "Тимлид",
+        "supply": 4
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "UI Tools",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 8,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "Automation",
+        "supply": 1
+      },
+      {
+        "competency": "Embedded",
+        "supply": 1
+      },
+      {
+        "competency": "Embedded/UI Tools",
+        "supply": 1
+      },
+      {
+        "competency": "Figma",
+        "supply": 1
+      },
+      {
+        "competency": "UI",
+        "supply": 1
+      },
+      {
+        "competency": "UI Tools",
+        "supply": 1
+      },
+      {
+        "competency": "UX",
+        "supply": 1
+      },
+      {
+        "competency": "Unity",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "VR",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 18,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "3-D-дизайнер",
+        "supply": 3
+      },
+      {
+        "competency": "3D Modeling",
+        "supply": 1
+      },
+      {
+        "competency": "C#",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech",
+        "supply": 1
+      },
+      {
+        "competency": "EdTech/VR",
+        "supply": 1
+      },
+      {
+        "competency": "GameDev",
+        "supply": 3
+      },
+      {
+        "competency": "GameDev/VR",
+        "supply": 3
+      },
+      {
+        "competency": "LLM",
+        "supply": 1
+      },
+      {
+        "competency": "MetaXR Core",
+        "supply": 1
+      },
+      {
+        "competency": "Steam-VR",
+        "supply": 2
+      },
+      {
+        "competency": "Unity",
+        "supply": 5
+      },
+      {
+        "competency": "Unreal Engine",
+        "supply": 3
+      },
+      {
+        "competency": "VR",
+        "supply": 5
+      },
+      {
+        "competency": "VR-приложение",
+        "supply": 3
+      },
+      {
+        "competency": "VR/3D Modeling",
+        "supply": 1
+      },
+      {
+        "competency": "XR Interaction Toolkit",
+        "supply": 1
+      },
+      {
+        "competency": "Гейм-дизайнер",
+        "supply": 2
+      },
+      {
+        "competency": "Физические законы",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "Web3",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 7,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "ECommerce",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "ECommerce/FinTech/SaaS/TravelTech/Web3",
+        "supply": 1
+      },
+      {
+        "competency": "FinTech",
+        "supply": 1
+      },
+      {
+        "competency": "SaaS",
+        "supply": 1
+      },
+      {
+        "competency": "TravelTech",
+        "supply": 1
+      },
+      {
+        "competency": "Web3",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  },
+  {
+    "industry": "WebDevelopment",
+    "total_demand_competencies": 0,
+    "total_supply_competencies": 3,
+    "gaps": [],
+    "redundancies": [
+      {
+        "competency": "API",
+        "supply": 1
+      },
+      {
+        "competency": "WebDevelopment",
+        "supply": 4
+      },
+      {
+        "competency": "Разработка модуля",
+        "supply": 1
+      }
+    ],
+    "matches": []
+  }
+]
