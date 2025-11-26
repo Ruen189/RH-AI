@@ -25,6 +25,34 @@ def extract_competency_name(c):
             return name.strip()
     return None
 
+def jitter_points(xs, ys, x_amount=0.25, y_amount=0.08):
+    """
+    Раздвигает точки, которые имеют одинаковые координаты.
+    x_amount — сила jitter по оси X (больше),
+    y_amount — сила jitter по оси Y (меньше).
+    """
+    from collections import defaultdict
+    import math
+
+    grouped = defaultdict(list)
+    for idx, (x, y) in enumerate(zip(xs, ys)):
+        grouped[(x, y)].append(idx)
+
+    xs2 = xs[:]
+    ys2 = ys[:]
+
+    for (x, y), indices in grouped.items():
+        if len(indices) <= 1:
+            continue
+
+        n = len(indices)
+        for k, idx in enumerate(indices):
+            angle = 2 * math.pi * k / n
+            xs2[idx] = x + x_amount * math.cos(angle)
+            ys2[idx] = y + y_amount * math.sin(angle)
+
+    return xs2, ys2
+
 
 def compute_stats(
     industry_comp_path: str,
@@ -121,7 +149,18 @@ def compute_stats(
 
     # 2) Топ компетенций в вакансиях (global_industry_counter)
     if global_industry_counter:
-        top_ind_global = global_industry_counter.most_common(30)
+        # --- загрузка белого списка ---
+        whitelist_path = "data/whitelist_competencies.json"
+        with open(whitelist_path, "r", encoding="utf-8") as f:
+            whitelist = set(json.load(f))
+
+        # --- глобальные топы с фильтрацией ---
+        filtered_global_industry = {
+            skill: count for skill, count in global_industry_counter.items()
+            if skill in whitelist
+        }
+        top_ind_global = Counter(filtered_global_industry).most_common(30)
+
         skills, counts = zip(*top_ind_global)
         plt.figure(figsize=(12, 6))
         plt.barh(skills, counts)
@@ -158,22 +197,35 @@ def compute_stats(
 
         if xs and ys:
             plt.figure(figsize=(14, 12))
-            plt.scatter(xs, ys, alpha=0.7)
+            # слегка раздвинем совпадающие точки
+            xs_jit, ys_jit = jitter_points(xs, ys, x_amount=0.5, y_amount=0.4)
+
+            plt.scatter(xs_jit, ys_jit, alpha=0.7)
 
             # подписи ВСЕХ компетенций
-            for label, sx, sy in zip(labels, xs, ys):
+            for label, sx, sy in zip(labels, xs_jit, ys_jit):
                 plt.annotate(
                     label,
                     (sx, sy),
                     textcoords="offset points",
                     xytext=(3, 3),
-                    fontsize=12,
+                    fontsize=14,
                     alpha=0.85,
                 )
 
-            plt.xlabel("Сколько раз встречается в проектах (supply)")
-            plt.ylabel("Сколько раз встречается в вакансиях (demand)")
-            plt.title("Компетенции со статусом MATCH (supply vs demand)")
+            plt.xlabel(
+                "Сколько раз встречается в проектах (supply)",
+                fontsize=30,
+            )
+            plt.ylabel(
+                "Сколько раз встречается в вакансиях (demand)",
+                fontsize=30,
+            )
+            plt.title(
+                "Компетенции со статусом MATCH (есть в обоих случаях)",
+                fontsize=30,
+                pad=20
+            )
             plt.grid(True, linestyle="--", alpha=0.3)
             plt.tight_layout()
             plt.savefig(os.path.join(viz_dir, "match_scatter.png"))
@@ -261,8 +313,10 @@ if __name__ == "__main__":
         "data/derived/competency_gaps_and_redundancy.json",
         "data/derived/stats.json",
     )
+
     generate_recommendations(
         stats,
         "data/derived/competency_gaps_and_redundancy.json",
         "data/derived/recommendations.json",
     )
+

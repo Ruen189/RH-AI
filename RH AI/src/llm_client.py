@@ -21,29 +21,27 @@ class LlamaClient:
         )
         print(f"[LLM] Загружаем модель из {cache_dir}")
 
-        # 8-битная квантизация
         bnb_config = BitsAndBytesConfig(
             load_in_8bit=True,
             llm_int8_threshold=6.0,
             llm_int8_has_fp16_weight=False,
         )
 
-        # Токенайзер
         self.tokenizer = AutoTokenizer.from_pretrained(
             cache_dir,
             use_fast=True,
         )
-        # пад-токен = eos, padding оставляем RIGHT (дефолт)
+
         if self.tokenizer.pad_token is None:
             self.tokenizer.pad_token = self.tokenizer.eos_token
             self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
 
-        # Модель
         self.model = AutoModelForCausalLM.from_pretrained(
             cache_dir,
             device_map="auto",
             quantization_config=bnb_config,
             torch_dtype=torch.float16,
+            attn_implementation="sdpa",
         )
 
         # Pipeline — сразу отдаёт только completion

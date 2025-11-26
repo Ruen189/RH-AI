@@ -7,7 +7,7 @@ from filter_competency_matrix import main as filter_matrix  # <-- добавил
 
 
 def main():
-    """
+
     # 1) вакансии
     analyze_vacancies(
         "data/processed/vacancies_processed.json",
@@ -30,7 +30,7 @@ def main():
 
     # 3.1) фильтрация матрицы по белому списку
     filter_matrix()  # создаст competency_matrix_filtered.json
-    """
+
     # 4) статистика + рекомендации
     stats = compute_stats(
         "data/derived/industry_competencies_llm_clean_updated.json",
@@ -43,7 +43,6 @@ def main():
         "data/derived/competency_gaps_and_redundancy.json",
         "data/derived/recommendations.json",
     )
-
 
 if __name__ == "__main__":
     main()
