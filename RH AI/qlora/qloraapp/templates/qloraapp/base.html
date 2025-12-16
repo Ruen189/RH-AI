@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    {% block stylesheet %}{% endblock %}
+    <link rel="stylesheet" href="{% static 'qloraapp/css/base.css' %}">
+    <link rel="icon" href="{% static 'qloraapp/images/logo.jpeg' %}">
+</head>
+<body>
+    <nav class="sidebar">
+        <h2>Анализ Вакансий</h2>
+        <ul>
+            <li><a href="{% url 'home' %}">Фаза 1</a></li>
+            <li><a href="{% url 'jobs' %}">Фаза 2</a></li>
+            <li><a href="{% url 'vacancies' %}">Фаза 3</a></li>
+            <li><a href="{% url 'project_data' %}">Фаза 4</a></li>
+            <li><a href="{% url 'statistics' %}">Фаза 5</a></li>
+        </ul>
+    </nav>
+    {% block content %}{% endblock %}
+</body>
+</html>
