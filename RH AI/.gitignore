@@ -1,2 +1,5 @@
 .env
 .idea
+__pycache__
+vac_qlora_adapter
+checkpoint*

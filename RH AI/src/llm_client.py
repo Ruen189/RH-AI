@@ -8,7 +8,8 @@ from transformers import (
     BitsAndBytesConfig,
 )
 import torch
-MODEL_NAME = "meta-llama/Llama-3.1-8B"
+import os
+MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 
 
 class LlamaClient:
@@ -16,7 +17,6 @@ class LlamaClient:
         print("[LLM] Проверяем и докачиваем модель (snapshot_download)...")
         cache_dir = snapshot_download(
             repo_id=MODEL_NAME,
-            resume_download=True,
         )
         print(f"[LLM] Загружаем модель из {cache_dir}")
 
@@ -42,13 +42,14 @@ class LlamaClient:
             torch_dtype=torch.float16,
             attn_implementation="sdpa",
         )
-        """ включает лору по дефолту, не стоит трогать во время обучения, иначе новая лора будет неверно обучена
+
         if adapter_dir:
+            adapter_dir = os.path.expanduser(adapter_dir)
+            adapter_dir = os.path.abspath(adapter_dir)
             from peft import PeftModel
             print(f"[LLM] Подключаем LoRA адаптер: {adapter_dir}")
             self.model = PeftModel.from_pretrained(self.model, adapter_dir)
             self.model.eval()
-        """
 
         self.pipe = pipeline(
             "text-generation",
@@ -115,17 +116,19 @@ class LlamaClient:
 
 
 llama_client = None
+llama_adapter_dir = None
 
+def get_llama(adapter_dir: Optional[str] = None):
+    global llama_client, llama_adapter_dir
 
-def get_llama():
-    global llama_client
-    if llama_client is None:
-        llama_client = LlamaClient()
+    # если клиента нет или адаптер поменялся — пересоздаём
+    if llama_client is None or adapter_dir != llama_adapter_dir:
+        llama_adapter_dir = adapter_dir
+        llama_client = LlamaClient(adapter_dir=adapter_dir)
     return llama_client
 
-llama_client = None
-
 def reset_llama():
-    global llama_client
+    global llama_client, llama_adapter_dir
     llama_client = None
+    llama_adapter_dir = None
 

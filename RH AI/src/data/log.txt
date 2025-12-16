@@ -34,3 +34,1252 @@
 ["1С", "1С:Предприятие", "ERP", "УТ", "Бухгалтерия", "распределенные базы данных", "анализ производительности"]
 ==============================================
 
+
+===== RAW LLM RESPONSE (vacancy: sj:51073162) =====
+://
+["1С", "SQL", "Розничная торговля", "Пищевое производство", "Управление торговлей", "Бухгалтерия", "ЗУП"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073288) =====
+://TODO
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46817436) =====
+://
+["1С Предприятие 8.х", "1С:УПП", "1С:БП", "1С:ЗУП", "1С:ERP", "Конвертация Данных 2.1", "Конвертация Данных 3.1", "HTTP", "SOAP", "json", "xml", "расширения конфигураций", "внешние обработки", "сложные отчеты"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47163620) =====
+["1С", "Битрикс24", "Kaspersky", "Dr. Web", "IT", "1С", "Битрикс24", "Kaspersky", "Dr. Web", "IT", "1С", "Битрикс24", "Kaspersky", "Dr. Web", "IT", "1С", "Битрикс24", "Kaspersky", "Dr. Web", "IT", "1С", "Битрикс24", "Kaspersky", "Dr. Web", "IT", "1С", "Битри
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50506840) =====
+://
+["1C:ERP", "1C:ЗУП", "1С:Предприятие", "1С:Предприятие 8.3", "1С:Предприятие 8.3.8", "1С:Предприятие 8.3.8.1", "1С:Предприятие 8.3.8.2", "1С:Предприятие 8.3.8.3", "1С:Предприятие 8.3.8.4", "1С:Пред
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50517643) =====
+://
+["1C", "Python", "SQL", "Java", "C++", "C#", "JavaScript", "HTML", "CSS", "React", "Vue", "Angular", "Node.js", "Express", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "Git", "GitHub", "Jira", "Trello", "Asana", "Figma", "Sketch", "Adobe XD", "Photoshop", "Illustrator", "InDesign", "Premiere
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50842108) =====
+://
+["1С: Предприятие 8.3", "1С: УПП", "1С: ERP", "УФ", "клиент-серверная технология", "предметная область кадрового учета и расчета зарплаты", "бухгалтерского и управленческого учета"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50845287) =====
+://
+["1С:ЗУП", "SQL", "API", "JSON", "REST", "SOAP", "XML", "BPMN"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:11246419) =====
+://
+["1С", "Excel", "Word", "Бухгалтерский учет", "Налоговый учет", "Право", "Банк-клиент"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51106027) =====
+://
+["1С", "SQL", "Python", "Java", "C++", "C#", "JavaScript", "HTML", "CSS", "React", "Vue", "Angular", "Node.js", "Express", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51262047) =====
+://
+["1С", "SQL", "SQL Server", "1С: Предприятие", "1С: Бухгалтерия", "1С: ЗУП", "1С: Отель"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51273627) =====
+://
+["1С", "1С: WMS Логистика. Управление складом", "1С: Управление производственным предприятием 1.3", "1С: Зарплата и управление персоналом 3.1", "СКД (система компоновки данных)", "Управляемые формы", "Обмен данными"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51293258) =====
+["1С:УТ 11", "1С:Бухгалтерия 3.0", "API-интеграции", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "учётных механизмов", "уч
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51346733) =====
+://
+["1С:Предприятие 8.3", "1С:Бухгалтерия предприятия", "1С:ЗУП", "1С:Документооборот", "бухгалтерия", "кадровый учет", "документооборот"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51255408) =====
+://
+["Python", "SQL", "data science", "ML-модели", "LLM", "CJM", "UX"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51130401) =====
+://
+["Python", "FastAPI", "SQLAlchemy", "PostgreSQL", "Oracle", "ClickHouse", "LLaMA", "Mistral", "Qwen", "YandexGPT", "Ollama", "vLLM", "HuggingFace", "Qdrant", "Milvus", "FAISS", "E5", "MiniLM", "rerank", "Docker", "Linux"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51178501) =====
+["Python", "Verilog", "VHDL", "Perl", "TCL", "Python", "Unix shell", "TCL", "Perl", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python", "Python
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51178561) =====
+://
+["Python", "SQL", "R", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL", "Python", "SQL
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073162) =====
+://
+["1С", "SQL", "Розничная торговля", "Пищевое производство", "Управление торговлей", "Бухгалтерия", "ЗУП"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50880499) =====
+://
+["SAP", "SQL", "ETL", "JavaScript", "ABAP", "VBA", "Power BI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51126863) =====
+://["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "As
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51139233) =====
+["Python", "Java", "JavaScript", "React", "Node.js", "HTML", "CSS"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:39948929) =====
+://
+["Python", "Django", "Flask", "SQLAlchemy", "PostgreSQL", "Telegram", "Telegram Bot API"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50637955) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "HTML", "CSS"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50828946) =====
+://["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "As
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50828846) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "As
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51256543) =====
+://
+["Python", "SQL", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "Django", "Flask", "Spring", "Kotlin", "Swift", "React Native", "Flutter", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "OpenCV", "PyTorch", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "OpenCV", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50248943) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "Git", "GitHub", "Jira", "Trello", "Figma", "Adobe XD", "Sketch", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects", "Audition", "Lightroom", "L
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246752) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "WhatsApp", "Viber", "Skype", "Zoom", "Microsoft Teams", "Google Meet", "Webex",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246760) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "WhatsApp", "Viber", "Skype", "Zoom", "Microsoft Teams", "Google Meet", "Webex",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246795) =====
+["Python", "Java", "C++", "JavaScript", "React", "Node.js", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "WhatsApp", "Viber", "Skype", "Zoom", "Google Meet", "Microsoft Teams", "Webex", "Cisco Webex", "GoToMeeting", "Go
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246802) =====
+["Python", "Java", "C++", "JavaScript", "React", "Node.js", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "WhatsApp", "Viber", "Skype", "Zoom", "Google Meet", "Microsoft Teams", "Webex", "Cisco Webex", "GoToMeeting", "Go
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51316692) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Django", "Flask", "FastAPI", "Fastify", "Express", "Spring", "Spring Boot", "Spring MVC", "Spring Data", "Spring Security", "Spring Batch", "Spring Cloud", "Spring Integration", "Spring WebFlux", "Spring WebFlux", "Spring WebFlux", "Spring WebFlux", "Spring WebFlux", "Spring WebFl
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51318817) =====
+://
+["Анализ продаж", "Ведение переговоров", "Заключение договоров", "Контроль выполнения планов", "Организация презентаций", "Работа с возражениями", "Развитие клиентской базы"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50453956) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "TypeScript", "Angular", "HTML", "CSS", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Scrum", "Agile", "Waterfall", "Test-driven development", "Behavior-driven development", "Continuous integration", "Continuous delivery", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50616724) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Figma", "Adobe XD", "Sketch", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50917934) =====
+["Python", "TensorFlow", "PyTorch", "NLP", "LLM", "A/B-тестирование", "Power BI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50965438) =====
+://
+["Python", "SQL", "Excel", "Power BI", "A/B-тестирование", "геймдизайн", "разработка онлайн-курсов"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51227263) =====
+://
+["Python", "SQL", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "Angular", "TypeScript", "HTML", "CSS", "Git", "Docker", "Kubernetes", "Linux", "AWS", "Azure", "GCP", "Django", "Flask", "FastAPI", "PyTorch", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "OpenCV", "Scrapy", "Selenium", "BeautifulSoup
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51178564) =====
+://["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:49478416) =====
+:// ["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Django", "Flask", "FastAPI", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50248935) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MySQL", "MongoDB", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "As
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51282854) =====
+://["Владение методиками обучения", "Организация учебного процесса", "Оценка знаний", "Подготовка отчетности", "Проведение уроков", "Работа с детьми", "Разработка учебных программ"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51323749) =====
+://
+["Python", "SQL", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "Git", "Docker", "AWS", "Azure", "GCP", "Linux", "Windows", "MacOS", "iOS", "Android", "Flutter", "React Native", "Swift", "Kotlin", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "Git", "Docker", "AWS", "Azure
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50700953) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Figma", "Adobe XD", "Sketch", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50709008) =====
+["Слесарь МСР", "Слесарная обработка", "Сборка", "Регулировка", "Испытание", "Притирка", "Шабрение", "Запресовка", "Монтаж трубопроводов", "Чтение чертежей", "Тех. процессы", "Умение работать слесарным инструментом", "Наличие документов", "Стабильная работа", "Официальное оформление", "Конкурентный уровень дохода", "5-дневная рабочая нед
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51092996) =====
+://
+["маркетинг", "анализ", "реклама", "социальные сети", "отчеты", "коммуникации", "команда"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:31112698) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "Angular", "TypeScript", "HTML", "CSS", "SQL", "NoSQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Elasticsearch", "DynamoDB", "Django", "Flask", "FastAPI", "Gunicorn", "Uvicorn", "Gevent", "Tornado", "Twisted", "Bottle", "CherryPy", "Sanic", "Pyramid", "Tornado", "Twisted
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51201412) =====
+://
+["Python", "Django", "Flask", "SQLAlchemy", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Bokeh", "Dash", "Streamlit", "FastAPI", "Flask", "Django", "SQLAlchemy", "PostgreSQL", "MySQL", "MongoDB",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51205935) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "Zoom", "Microsoft Teams", "Google Meet", "Webex", "Skype", "Viber",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51265228) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51302981) =====
+["Python", "Django", "Flask", "SQLAlchemy", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "TensorFlow", "PyTorch", "Scikit-learn", "Numpy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Bokeh", "Jupyter Notebook", "PyCharm", "Visual Studio Code", "Git", "GitHub", "Bitbucket", "Jira", "Confluence", "Slack", "Discord",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51445057) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "TypeScript", "Vue.js", "Angular", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Django", "Flask", "FastAPI", "GCP", "AWS", "Azure", "Docker", "Kubernetes", "Git", "GitHub", "Jira", "Trello", "Figma", "Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Adobe Premiere Pro", "Adobe After
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51471129) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "Git", "Jira", "Trello", "Figma", "Adobe XD", "Sketch", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects", "Audition", "Lightroom
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51402926) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51441202) =====
+://
+["Python", "SQL", "Django", "Flask", "PostgreSQL", "MySQL", "HTML", "CSS", "JavaScript", "React", "Node.js", "TypeScript", "Docker", "Git", "GitHub", "Jira", "Agile", "Scrum", "DevOps", "AWS", "Azure", "GCP", "SRE", "CI/CD", "QA", "QA", "QA", "QA", "QA", "QA", "QA", "QA", "QA", "QA", "QA", "QA", "QA",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:49694882) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "WhatsApp", "Signal", "Skype", "Zoom", "Microsoft Teams", "Google Meet", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:49828259) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Scrum", "Agile", "Waterfall", "Lean", "Kanban", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50785129) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "Django", "Flask", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "Jenkins", "Ansible", "Puppet", "Chef", "SaltStack", "Terraform", "Ansible", "Puppet", "Chef", "SaltStack", "Terraform",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50785127) =====
+:// ["python", "java", "sql", "html", "css", "javascript", "git", "docker", "linux", "bash", "c++", "c", "c#", "java", "sql", "html", "css", "javascript", "git", "docker", "linux", "bash", "c++", "c", "c#", "java", "sql", "html", "css", "javascript", "git", "docker", "linux", "bash", "c++", "c", "c#", "java", "sql", "html", "css",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50959559) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "T
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51084850) =====
+://
+["Python", "SQL", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "TypeScript", "Django", "Flask", "FastAPI", "Django REST Framework", "SQLAlchemy", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51196932) =====
+["Python", "Django", "SQL", "Power BI", "A/B-тестирование", "NLP", "LLM"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51198410) =====
+://
+["Python", "SQL", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "Django", "Flask", "Spring", "React Native", "Swift", "Kotlin", "Flutter", "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Bokeh", "D3.js", "React", "Vue", "Angular", "Node.js", "Express", "FastAPI", "Fl
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51261579) =====
+["Python", "Java", "C++", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Slack", "Discord", "Telegram", "WhatsApp", "Skype", "Zoom", "Microsoft Teams", "Google Meet", "Webex", "GoToMeeting", "Cisco
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51289511) =====
+://
+["Python", "SQL", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "TypeScript", "Django", "Flask", "FastAPI", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "ML", "NLP", "LLM", "A/B-тестирование", "геймдизайн", "Power BI", "разработка онлайн-курсов"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51485633) =====
+["Python", "Java", "JavaScript", "React", "Node.js", "HTML", "CSS"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28746020) =====
+://
+["Python", "SQL", "Django", "Flask", "React", "Vue", "JavaScript", "HTML", "CSS", "Git", "GitHub", "Docker", "Linux", "AWS", "Azure", "GCP", "Google Cloud", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform", "Google Cloud Platform
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:30262253) =====
+["математика", "преподавание", "ГИА", "НПК", "олимпиады", "инновационные УМК", "образовательные услуги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:31123296) =====
+://
+["Python", "Java", "C++", "SQL", "React", "Node.js", "Django", "Flask", "TensorFlow", "PyTorch", "Keras", "Pandas", "Numpy", "Scikit-learn", "Matplotlib", "Seaborn", "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Pandas", "NumPy", "SciPy", "Matplotlib", "Seab
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:30933490) =====
+://
+["Python", "SQL", "NLP", "A/B-тестирование", "Power BI", "ML", "LLM"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:39798558) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Figma", "Sketch", "Photoshop", "Illustrator", "InDesign", "Premiere", "After Effects", "Audition", "Logic Pro",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47519930) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Figma", "Sketch", "Adobe XD", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47544798) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50400302) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "Google Cloud", "Microsoft Azure", "Google Cloud Platform", "Microsoft Azure", "Google Cloud Platform", "Microsoft Azure", "Google Cloud Platform", "Microsoft Azure", "Google Cloud Platform", "Microsoft Azure", "Google Cloud Platform", "Microsoft Azure", "Google Cloud Platform",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50707181) =====
+://["Python", "SQL", "TensorFlow", "PyTorch", "Numpy", "Pandas", "Matplotlib"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51195838) =====
+["Python", "Tensorflow", "PyTorch", "Keras", "Numpy", "Pandas", "Scikit-learn", "Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy", "Sci
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51199204) =====
+://
+["Python", "SQL", "Power BI", "A/B-тестирование", "CRM", "Google Docs", "Zoom"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51312805) =====
+://
+["Python", "SQL", "Excel", "Power BI", "Tableau", "Google Analytics", "Google Data Studio"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50797636) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46548428) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:34748423) =====
+://
+["Python", "Java", "C++", "C#", "SQL", "HTML", "CSS", "JavaScript", "React", "Node.js", "Vue.js", "Angular", "TypeScript", "Django", "Flask", "FastAPI", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28491509) =====
+://["Принцип работ электронагревательной техники", "электронагревателей постоянного и переменного тока", "трансформаторов", "электроаппаратуры и электроприборов", "правила и способы выполнения работ по ремонту электросетей", "основные виды электроматериалов", "их свойства и назначение", "правила установки электроприборов на щиты и стенды", "правила техники безопасности противопожарной защиты
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:30671452) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "ML", "NLP", "LLM", "A/B-тестирование", "геймдизайн", "Power BI", "разработка онлайн-курсов"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:37529801) =====
+://ваш код
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28328007) =====
+://
+["Python", "SQL", "Power BI", "A/B-тестирование", "NLP", "LLM", "ML"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46266277) =====
+["Python", "Power BI", "A/B-тестирование", "NLP", "ML", "LLM", "3D моделирование"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47411251) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Django", "Flask", "FastAPI", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "PyTorch", "TensorFlow", "Keras", "Py
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50878641) =====
+["Python", "Java", "C++", "JavaScript", "React", "Vue", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "PostgreSQL", "MySQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "ChatGPT", "OpenAI", "GPT-3", "LLM", "NLP", "ML", "A/B-тестирование", "Power BI", "геймдизайн", "разработка онлайн-курсов"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50878642) =====
+["Python", "Java", "C++", "JavaScript", "React", "Vue", "Node.js", "TypeScript", "HTML", "CSS", "SQL", "MongoDB", "PostgreSQL", "MySQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "ChatGPT", "OpenAI", "GPT-3", "LLM", "NLP", "ML", "A/B-тестирование", "Power BI", "геймдизайн", "разработка онлайн-курсов"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28746032) =====
+://
+["Python", "SQL", "Django", "Flask", "React", "Vue", "Django Rest Framework", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "AWS", "GCP", "Azure", "S3", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP", "SFTP
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51000614) =====
+://
+["Python", "SQL", "Power BI", "A/B-тестирование", "NLP", "LLM", "ML"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51397695) =====
+:// ["Python", "Java", "C++", "C#", "JavaScript", "HTML", "CSS"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46548367) =====
+://
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "MongoDB", "MySQL", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira",
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51198974) =====
+["Python", "Django", "Flask", "SQL", "NLP", "LLM", "A/B-тестирование"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51207518) =====
+://["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "Vue.js", "HTML", "CSS", "SQL", "MySQL", "MongoDB", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "T
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51227503) =====
+:// ["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51249064) =====
+:// ["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51286709) =====
+://["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "Django", "Flask", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "DevOps", "Git", "GitHub", "Jira", "Trello", "Figma", "Adobe XD", "Adobe Photoshop", "Adobe Illustrator", "Adobe Premiere Pro", "Adobe After Effects", "Adobe Audition", "Adobe Lightroom", "Adobe In
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51302846) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Node.js", "HTML", "CSS", "SQL", "MySQL", "MongoDB", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "T
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51316716) =====
+://
+["Python", "TensorFlow", "PyTorch", "Pandas", "Numpy", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51316717) =====
+://
+["Python", "TensorFlow", "PyTorch", "Pandas", "Numpy", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "Pandas", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51317025) =====
+["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "Django", "Flask", "FastAPI", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "ChatGPT", "LLM", "NLP", "ML", "A/B-тестирование", "Power BI", "геймдизайн", "разработка онлайн-курсов"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51324307) =====
+:// ["Python", "Java", "C++", "C#", "JavaScript", "React", "Vue", "Node.js", "HTML", "CSS", "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP", "DevOps", "CI/CD", "Git", "GitHub", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello", "Asana", "Jira", "Trello
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073162) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073288) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46817436) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47163620) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "поддержка пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50506840) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50517643) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "администрирование 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50842108) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50845287) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:11246419) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51106027) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51262047) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51273627) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "администрирование 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51293258) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51346733) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51255408) =====
+://
+
+["Python", "SQL", "машинное обучение", "анализ данных", "статистика", "моделирование", "работа с данными"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51130401) =====
+://["Python", "SQL", "машинное обучение", "анализ данных", "статистика", "моделирование", "работа с данными"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51178501) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "администрирование 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51178561) =====
+://
+
+["Python", "SQL", "машинное обучение", "анализ данных", "статистика", "моделирование", "работа с данными"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073162) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50880499) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51126863) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение документации", "деловая коммуникация", "ведение CRM", "подготовка коммерческих предложений"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51139233) =====
+["работа с детьми", "проведение занятий", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:39948929) =====
+://["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготовка коммерческих предложений", "работа с документами", "ведение переговорок", "деловая коммуникация"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50637955) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготов
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50828946) =====
+://["активные продажи", "ведение переговоров", "работа с возражениями", "ведение документации", "деловая коммуникация", "ведение CRM", "подготовка коммерческих предложений"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50828846) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51256543) =====
+://
+
+["Python", "SQL", "машинное обучение", "анализ данных", "статистика", "моделирование", "работа с данными"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50248943) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинг пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246752) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "обработка заявок", "консультирование", "деловая коммуникация", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246760) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "обработка заявок", "консультирование", "деловая коммуникация", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246795) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "обработка заявок", "консультирование", "деловая коммуникация", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51246802) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "обработка заявок", "консультирование", "деловая коммуникация", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51316692) =====
+://
+
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготовка коммерческих предложений", "работа с документами", "экономика"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51318817) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "поддержка текущей работы с 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50453956) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "администрирование 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50616724) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинг пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50917934) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "обработка заявок", "консультирование", "деловая коммуникация", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50965438) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51227263) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "поддержка существующего кода"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51178564) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:49478416) =====
+://
+
+["Python", "SQL", "машинное обучение", "анализ данных", "статистика", "моделирование", "работа с данными"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50248935) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинг пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51282854) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "администрирование 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51323749) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50700953) =====
+://
+
+["работа с детьми", "проведение занятий", "ведение документации", "оценка успеваемости", "работа с родителями", "классное руководство", "ведение электронной документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50709008) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "обучение пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51092996) =====
+://["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:31112698) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "обработка заявок", "консультирование", "деловая коммуникация", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51201412) =====
+://
+
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготовка коммерческих предложений", "работа с документами", "экономические расчеты", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51205935) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "администрирование 1С"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51265228) =====
+://["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51302981) =====
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготовка коммерческих предложений", "работа с документами", "экономические расчеты", "ведение переговоров"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51445057) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинг пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51471129) =====
+://["работа с детьми", "проведение занятий", "ведение документации", "оценка результатов", "работа с родителями", "коммуникация с командой", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51402926) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51441202) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготов
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:49694882) =====
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:49828259) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50785129) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50785127) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50959559) =====
+:// Возможные компетенции:
+// - языки программирования
+// - фреймворки
+// - библиотеки
+// - базы данных
+// - методы работы с данными
+// - анализ данных
+// - статистика
+// - ML
+// - A/B-тестирование
+// - геймдизайн
+// - Power BI
+// - разработка онлайн-курсов
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "ин
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51084850) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+//направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+["разработка на 1С", "сопровождение 1С", "напис
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51196932) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "поддержка в эксплуатации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51198410) =====
+://
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51261579) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "поддержка в эксплуатации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51289511) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51485633) =====
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28746020) =====
+://["уборка снега", "уборка листьев", "подметание дорожек", "содержание в чистоте", "работа с инвентарем", "соблюдение техники безопасности"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:30262253) =====
+["проведение уроков/занятий", "проведение контрольных/практических работ", "оценка успеваемости", "работа с детьми", "ведение документации", "телефонные переговоры", "работа с родителями"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:31123296) =====
+://["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:30933490) =====
+://["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:39798558) =====
+://
+
+["мелкий ремонт", "техническое обслуживание", "устранение неисправностей", "работа с инструментом", "соблюдение техники безопасности", "осмотр оборудования", "работа с мебелью"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47519930) =====
+://["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "работа с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47544798) =====
+://
+
+["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50400302) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+//направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+["проведение уроков/занятий", "планирование учебного процесса", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50707181) =====
+://TODO
+
+["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51195838) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "тренинги пользователей", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51199204) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51312805) =====
+://TODO
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50797636) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+//направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+
+["проведение уроков/занятий", "планирование учебного процесса", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46548428) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинг пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:34748423) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+
+["проведение уроков/занятий", "планирование учебного процесса", "вед
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28491509) =====
+://["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:30671452) =====
+:// Возможные компетенции:
+// - Проведение уроков/занятий
+// - Подготовка рабочих документов
+// - Оценка успеваемости
+// - Работа с детьми
+// - Классное руководство
+// - Электронный журнал
+// - Документооборот
+
+["проведение уроков/занятий", "подготовка рабочих документов", "оценка успеваемости", "работа с детьми", "классное руков
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:37529801) =====
+://
+
+["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28328007) =====
+://["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46266277) =====
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинги"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:47411251) =====
+://
+
+["проведение уроков/занятий", "планирование учебного процесса", "ведение учебной документации", "оценка успеваемости", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50878641) =====
+["проведение уроков/занятий", "проведение контрольных/экзаменационных работ", "оценка успеваемости", "ведение документации", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:50878642) =====
+["проведение уроков/занятий", "проведение контрольных/экзаменационных работ", "оценка успеваемости", "ведение документации", "работа с детьми", "коммуникация с родителями", "классное руководство"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:28746032) =====
+://TODO
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "SQL", "тестирование доработок", "консультация пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51000614) =====
+://TODO
+
+["разработка на 1С", "сопровождение 1С", "написание ТЗ", "интеграции", "тестирование доработок", "консультация пользователей", "тренинг пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51397695) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+
+["разработка на 1С", "сопровождение 1С", "написание
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:46548367) =====
+:// Возможными компетенциями могут быть: языки программирования, фреймворки, библиотеки, базы данных и методы работы с ними, разработка чат-ботов, 
+направления в индустриях, например построение ML-моделей, NLP, LLM, а также A/B-тестирование, геймдизайн, Power BI, разработка онлайн-курсов.
+
+["мойка посуды", "сушка посуды", "поддержание чистоты", "
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51198974) =====
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51207518) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51227503) =====
+://
+
+["работа с детьми", "проведение занятий", "ведение документации", "работа с родителями", "оценка достижений", "классное руководство", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51249064) =====
+://
+
+["телефонные переговоры", "работа с клиентами", "ведение CRM", "подготовка коммерческих предложений", "работа с документами", "ведение переговоров", "деловая коммуникация"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51286709) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51302846) =====
+["работа с детьми", "проведение занятий", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51316716) =====
+://
+
+["работа с детьми", "проведение занятий", "ведение документации", "оценка результатов", "работа с родителями", "коммуникация с детьми", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51316717) =====
+://
+
+["работа с детьми", "проведение занятий", "ведение документации", "оценка результатов", "работа с родителями", "коммуникация с детьми", "ведение документации"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51317025) =====
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51324307) =====
+://
+
+["активные продажи", "ведение переговоров", "работа с возражениями", "ведение CRM", "подготовка коммерческих предложений", "работа с дебиторской задолженностью", "выполнение KPI"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073162) =====
+["разработка на 1С", "настройка конфигураций", "создание доработок", "тестирование доработок", "консультация пользователей", "документация кода", "поддержка пользователей"]
+==============================================
+
+
+===== RAW LLM RESPONSE (vacancy: sj:51073288) =====
+["разработка на 1С", "проведение тестирования", "работа с пользователем", "поддержка клиентов", "ведение документации", "анализ бизнес-процессов", "проектирование решений"]
+==============================================
+

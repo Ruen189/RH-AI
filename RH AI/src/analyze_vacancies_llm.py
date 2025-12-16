@@ -8,7 +8,7 @@ from log_utils import log_raw_response
 from llm_utils import parse_competencies
 BATCH_SIZE = 6      # можно увеличить/уменьшить в зависимости от VRAM
 MAX_NEW_TOKENS = 128
-
+import os
 
 def load_vacancies(path: str) -> List[Dict[str, Any]]:
     with open(path, "r", encoding="utf-8") as f:
@@ -30,8 +30,11 @@ def _build_prompt(vac: Dict[str, Any]) -> str:
     return prompt
 
 def analyze_vacancies(vacancies_path: str, out_path: str):
-    ADAPTER_DIR = r"QLoRA\vac_qlora_adapter\checkpoint-200"
-    llama = get_llama()
+    ADAPTER_DIR = r"QLoRA/vac_qlora_adapter/checkpoint-200"  # путь до QLoRA
+    print("adapter_dir:", ADAPTER_DIR)
+    print("exists:", os.path.exists(ADAPTER_DIR))
+    print("adapter_config exists:", os.path.exists(os.path.join(ADAPTER_DIR, "adapter_config.json")))
+    llama = get_llama(adapter_dir=ADAPTER_DIR)
     vacancies = load_vacancies(vacancies_path)
 
     results = []
