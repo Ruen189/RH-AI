@@ -3,7 +3,7 @@ from analyze_vacancies_llm import analyze_vacancies
 from analyze_projects_llm import analyze_projects
 from build_competency_matrix import build_matrices
 from generate_stats_and_reports import compute_stats, generate_recommendations
-from filter_competency_matrix import main as filter_matrix  # <-- добавили импорт
+from filter_competency_matrix import main as filter_matrix
 
 
 def main():

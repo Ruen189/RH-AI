@@ -1,5 +1,5 @@
 ## src/llm_client.py
-from typing import List
+from typing import List, Optional
 from huggingface_hub import snapshot_download
 from transformers import (
     AutoTokenizer,
@@ -8,12 +8,11 @@ from transformers import (
     BitsAndBytesConfig,
 )
 import torch
-
 MODEL_NAME = "meta-llama/Llama-3.1-8B"
 
 
 class LlamaClient:
-    def __init__(self, device: str = "cuda:0"):
+    def __init__(self, device: str = "cuda:0", adapter_dir: Optional[str] = None):
         print("[LLM] Проверяем и докачиваем модель (snapshot_download)...")
         cache_dir = snapshot_download(
             repo_id=MODEL_NAME,
@@ -43,8 +42,14 @@ class LlamaClient:
             torch_dtype=torch.float16,
             attn_implementation="sdpa",
         )
+        """ включает лору по дефолту, не стоит трогать во время обучения, иначе новая лора будет неверно обучена
+        if adapter_dir:
+            from peft import PeftModel
+            print(f"[LLM] Подключаем LoRA адаптер: {adapter_dir}")
+            self.model = PeftModel.from_pretrained(self.model, adapter_dir)
+            self.model.eval()
+        """
 
-        # Pipeline — сразу отдаёт только completion
         self.pipe = pipeline(
             "text-generation",
             model=self.model,
@@ -52,7 +57,7 @@ class LlamaClient:
             device_map="auto",
             torch_dtype=torch.float16,
             pad_token_id=self.tokenizer.pad_token_id,
-            return_full_text=False,   # <<< ключевой момент
+            return_full_text=False,
         )
 
         print("[LLM] LlamaClient готов к работе.")
@@ -62,6 +67,7 @@ class LlamaClient:
         outputs = self.pipe(
             prompt,
             max_new_tokens=max_new_tokens,
+            min_new_tokens=2,
             do_sample=True,
             top_p=0.9,
             temperature=0.4,  # низкая температура → стабильный ответ
@@ -80,6 +86,7 @@ class LlamaClient:
         outputs = self.pipe(
             prompts,
             max_new_tokens=max_new_tokens,
+            min_new_tokens=2,
             do_sample=False,
             batch_size=batch_size,
         )
@@ -91,6 +98,20 @@ class LlamaClient:
             text = result["generated_text"]
             results.append(text.strip())
         return results
+    def close(self):
+        # удаляем тяжелые объекты
+        if hasattr(self, "pipe"):
+            del self.pipe
+        if hasattr(self, "model"):
+            del self.model
+        if hasattr(self, "tokenizer"):
+            del self.tokenizer
+        import gc
+        gc.collect()
+
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+            torch.cuda.ipc_collect()
 
 
 llama_client = None
@@ -101,3 +122,10 @@ def get_llama():
     if llama_client is None:
         llama_client = LlamaClient()
     return llama_client
+
+llama_client = None
+
+def reset_llama():
+    global llama_client
+    llama_client = None
+
