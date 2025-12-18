@@ -1,0 +1,15 @@
+.purple-button {
+    background-color: blueviolet;
+}
+
+.prompt-text {
+    background-color: rgba(0,0,0,0.1);
+    color: black;
+    justify-content: flex-start;
+    cursor: auto;
+}
+
+.blue-button {
+    background-color: #007bff;
+    width: 195px;
+}

@@ -6,7 +6,7 @@ from llm_client import get_llama
 from llm_prompts import VACANCY_COMPETENCIES_PROMPT
 from log_utils import log_raw_response
 from llm_utils import parse_competencies
-BATCH_SIZE = 6      # можно увеличить/уменьшить в зависимости от VRAM
+BATCH_SIZE = 8      # можно увеличить/уменьшить в зависимости от VRAM
 MAX_NEW_TOKENS = 128
 import os
 
@@ -29,12 +29,19 @@ def _build_prompt(vac: Dict[str, Any]) -> str:
     )
     return prompt
 
+def use_qlora(use: bool = True,
+              adapter: str = r"QLoRA/vac_qlora_adapter/checkpoint-200"):
+    ADAPTER_DIR = None
+    if use:
+        ADAPTER_DIR = adapter
+    return ADAPTER_DIR
+
 def analyze_vacancies(vacancies_path: str, out_path: str):
     ADAPTER_DIR = r"QLoRA/vac_qlora_adapter/checkpoint-200"  # путь до QLoRA
     print("adapter_dir:", ADAPTER_DIR)
     print("exists:", os.path.exists(ADAPTER_DIR))
     print("adapter_config exists:", os.path.exists(os.path.join(ADAPTER_DIR, "adapter_config.json")))
-    llama = get_llama(adapter_dir=ADAPTER_DIR)
+    llama = get_llama(ADAPTER_DIR=use_qlora(False))
     vacancies = load_vacancies(vacancies_path)
 
     results = []

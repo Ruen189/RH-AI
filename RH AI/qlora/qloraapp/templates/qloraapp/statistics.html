@@ -1,0 +1,59 @@
+{% extends 'qloraapp/base.html' %}
+{% load static %}
+{% block stylesheet %}
+<link rel="stylesheet" href="{% static 'qloraapp/css/main.css' %}">
+<link rel="stylesheet" href="{% static 'qloraapp/css/statistics.css' %}">
+{% endblock %}
+{% block title %}Матрицы и статистика{% endblock %}
+{% block content %}
+<section class="main-section">
+    <div class="main-text">
+        <h2>Фаза 5: Матрицы и статистика</h2>
+        <p>Создайте матрицы, примените фильтры и сгенерируйте статистику</p>
+        <div class="white-block gap-add">
+            <p>Управление матрицами</p>
+            <ul class="many-buttons">
+                <li class="simple-button aqua-button">
+                    <img src="{% static 'qloraapp/images/grid.svg' %}">
+                    <p>Создать матрицы</p>
+                </li>
+                <li class="simple-button dark-green-button">
+                    <img src="{% static 'qloraapp/images/funnel.svg' %}">
+                    <p>Фильтровать матрицы</p>
+                </li>
+            </ul>
+            <div class="filter-text">
+                <p>Текущие фильтры:</p>
+                <div class="filter-block">
+                    <img src="{% static 'qloraapp/images/funnel-blue.svg' %}" id="my-svg">
+                    <p>Заменить фильтры</p>
+                </div>
+            </div>
+            <div class="simple-button prompt-text">
+                <p>min_score > 0.7, category in ["tech", "data"]</p>
+            </div>
+            <div class="simple-button blue-button">
+                <img src="{% static 'qloraapp/images/download.svg' %}">
+                <p>Скачать матрицу</p>
+            </div>
+        </div>
+        <div class="white-block gap-add">
+            <p>Статистика и рекомендации</p>
+            <div class="simple-button light-green-button">
+                <img src="{% static 'qloraapp/images/statistics.svg' %}">
+                <p>Генерация статистики и рекомендаций</p>
+            </div>
+            <ul class="many-buttons">
+                <li class="simple-button blue-button">
+                    <img src="{% static 'qloraapp/images/document.svg' %}">
+                    <p>Скачать статистику</p>
+                </li>
+                <li class="simple-button dark-green-button">
+                    <img src="{% static 'qloraapp/images/code.svg' %}">
+                    <p>Показать логи</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+{% endblock %}

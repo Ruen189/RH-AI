@@ -41,7 +41,7 @@ def main():
     generate_recommendations(
         stats,
         "data/derived/competency_gaps_and_redundancy.json",
-        "data/derived/recommendations.json",
+        "data/derived/recommendations_new.json",
     )
 
 if __name__ == "__main__":

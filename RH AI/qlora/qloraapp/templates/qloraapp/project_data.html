@@ -1,0 +1,30 @@
+{% extends 'qloraapp/base.html' %}
+{% load static %}
+{% block stylesheet %}
+<link rel="stylesheet" href="{% static 'qloraapp/css/main.css' %}">
+<link rel="stylesheet" href="{% static 'qloraapp/css/project_data.css' %}">
+{% endblock %}
+{% block title %}Анализ данных проектов{% endblock %}
+{% block content %}
+<section class="main-section">
+    <div class="main-text">
+        <h2>Фаза 4: Анализ данных проектов</h2>
+        <p>Проведите анализ данных проектов для выявления паттернов и инсайтов</p>
+        <div class="white-block gap-add">
+            <div class="project_block">
+                <div class="directory_block">
+                    <img class="image-directory" src="{% static 'qloraapp/images/directory.svg' %}">
+                </div>
+                <div class="project_text">
+                    <h2>Анализ проектов</h2>
+                    <p>Запустите AI-анализ данных о проектах</p>
+                </div>
+            </div>
+            <div class="simple-button blue-button add-margin-bottom">
+                <img src="{% static 'qloraapp/images/play.svg' %}">
+                <p>Начать анализ данных проектов</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,54 @@
+.many-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.aqua-button {
+    background-color: #3875d7;
+}
+
+.blue-button {
+    background-color: #007bff;
+}
+
+.dark-green-button {
+    background-color: #205067;
+}
+
+.light-green-button {
+    background-color: lightseagreen;
+}
+
+.filter-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.filter-block {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    color: blue;
+    cursor: pointer;
+}
+
+.prompt-text {
+    background-color: rgba(0,0,0,0.1);
+    color: black;
+    justify-content: flex-start;
+    cursor: auto;
+}
+
+#my-svg {
+    filter: invert(19%)
+    sepia(48%)
+    saturate(1556%)
+    hue-rotate(223deg)
+    brightness(91%)
+    contrast(123%);
+}

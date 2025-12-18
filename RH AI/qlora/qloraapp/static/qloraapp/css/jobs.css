@@ -1,0 +1,20 @@
+.green-button {
+    background-color: #006b1b;
+}
+
+.many-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.blue-button {
+    background-color: #007bff;
+}
+
+.orange-button {
+    background-color: orange;
+}

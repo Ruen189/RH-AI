@@ -1,0 +1,37 @@
+{% extends 'qloraapp/base.html' %}
+{% load static %}
+{% block title %}Настройка API ключей{% endblock %}
+{% block stylesheet %}
+<link rel="stylesheet" href="{% static 'qloraapp/css/main.css' %}">
+<link rel="stylesheet" href="{% static 'qloraapp/css/index.css' %}">
+{% endblock %}
+{% block content %}
+<section class="main-section">
+    <div class="main-text">
+        <h2>Фаза 1: Настройка API ключей</h2>
+        <p>Укажите необходимые API ключи для работы системы</p>
+        <form method="post" action="{% url 'home' %}" class="white-block">
+            {% csrf_token %}
+            <label for="openai_key">
+                <img src="{% static 'qloraapp/images/key.svg' %}"> OpenAI API Key:
+            </label>
+            <input type="text" id="openai_key" name="openai_key" placeholder="Введите API ключ"><br><br>
+
+            <label for="job_board_key">
+                <img src="{% static 'qloraapp/images/key.svg' %}"> Job Board API Key:
+            </label>
+            <input type="text" id="job_board_key" name="job_board_key" placeholder="Введите API ключ"><br><br>
+
+            <label for="analytics_key">
+                <img class="swag" src="{% static 'qloraapp/images/key.svg' %}"> Analytics API Key:
+            </label>
+            <input type="text" id="analytics_key" name="analytics_key" placeholder="Введите API ключ"><br><br>
+
+            <button type="submit" class="simple-button blue-button">
+                <img src="{% static 'qloraapp/images/floppy.svg' %}">
+                <p>Сохранить ключи</p>
+            </button>
+        </form>
+    </div>
+</section>
+{% endblock %}

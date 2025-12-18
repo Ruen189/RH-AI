@@ -1,0 +1,32 @@
+{% extends 'qloraapp/base.html' %}
+{% load static %}
+{% block title %}Анализ данных вакансий{% endblock %}
+{% block stylesheet %}
+<link rel="stylesheet" href="{% static 'qloraapp/css/main.css' %}">
+<link rel="stylesheet" href="{% static 'qloraapp/css/vacancies.css' %}">
+{% endblock %}
+{% block content %}
+<section class="main-section">
+    <div class="main-text">
+        <h2>Фаза 3: Анализ данных вакансий</h2>
+        <p>Начните сбор данных о вакансиях и управляйте собранной информацией</p>
+        <div class="white-block gap-add">
+            <p>Запуск анализа</p>
+            <div class="simple-button purple-button add-margin-bottom">
+                <img src="{% static 'qloraapp/images/play.svg' %}">
+                <p>Начать анализ данных вакансий</p>
+            </div>
+        </div>
+        <div class="white-block gap-add">
+            <p>Управление данными</p>
+            <div class="simple-button prompt-text">
+                <p>Проанализируйте данные вакансий и определите ключевые требования, навыки и тренды.</p>
+            </div>
+            <div class="simple-button blue-button">
+                <img src="{% static 'qloraapp/images/edit.svg' %}">
+                <p>Заменить промпт</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

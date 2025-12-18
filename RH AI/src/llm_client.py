@@ -129,6 +129,18 @@ def get_llama(adapter_dir: Optional[str] = None):
 
 def reset_llama():
     global llama_client, llama_adapter_dir
+    try:
+        if llama_client is not None:
+            llama_client.close()
+    except Exception:
+        pass
     llama_client = None
     llama_adapter_dir = None
+
+    import gc, torch
+    gc.collect()
+    if torch.cuda.is_available():
+        torch.cuda.synchronize()
+        torch.cuda.empty_cache()
+        torch.cuda.ipc_collect()
 

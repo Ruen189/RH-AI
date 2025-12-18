@@ -1,0 +1,35 @@
+{% extends 'qloraapp/base.html' %}
+{% load static %}
+{% block title %}Сбор данных вакансий{% endblock %}
+{% block stylesheet %}
+<link rel="stylesheet" href="{% static 'qloraapp/css/main.css' %}">
+<link rel="stylesheet" href="{% static 'qloraapp/css/jobs.css' %}">
+{% endblock %}
+{% block content %}
+<section class="main-section">
+    <div class="main-text">
+        <h2>Фаза 2: Сбор данных вакансий</h2>
+        <p>Начните сбор данных о вакансиях и управляйте собранной информацией</p>
+        <div class="white-block gap-add">
+            <p>Сбор данных</p>
+            <div class="simple-button green-button add-margin-bottom">
+                <img src="{% static 'qloraapp/images/play.svg' %}">
+                <p>Начать сбор данных вакансий</p>
+            </div>
+        </div>
+        <div class="white-block gap-add">
+            <p>Управление данными</p>
+            <ul class="many-buttons">
+                <li class="simple-button blue-button">
+                    <img src="{% static 'qloraapp/images/download.svg' %}">
+                    <p>Скачать данные</p>
+                </li>
+                <li class="simple-button orange-button">
+                    <img src="{% static 'qloraapp/images/upload.svg' %}">
+                    <p>Заменить данные</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+{% endblock %}

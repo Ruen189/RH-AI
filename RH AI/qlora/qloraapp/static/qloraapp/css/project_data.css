@@ -1,0 +1,28 @@
+.blue-button {
+    background-color: #007bff;
+}
+
+.project_block {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.directory_block {
+    background-color: rgba(15, 35, 120, 0.2);
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.project_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+img.image-directory {
+    width: 30px;
+    height: auto;
+}
