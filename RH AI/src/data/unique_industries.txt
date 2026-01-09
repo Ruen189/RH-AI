@@ -1,0 +1,50 @@
+1CDevelopment
+3D Modeling
+AI
+AgriTech
+AnalyticsBI
+Automation
+BrowserExtensions
+CRM
+CV
+ChatBot
+ChatBots
+Cybersecurity
+Decision Support
+Developer Tools
+Digital Signage
+E-Commerce
+ECommerce
+ERP
+EcoTech
+EdTech
+Embedded
+Enterprise
+EnterpriseSoftware
+FinTech
+Game-based
+GameDev
+GameTech
+HRTech
+HealthTech
+ITSM
+Innovation
+LegalTech
+Logistics
+MarTech
+MobileDevelopment
+Project Management
+ProjectManagement
+PropTech
+Psychology
+ResearchTech
+RetailHoReCa
+Robotics
+SaaS
+SoftwareDevelopment
+SportTech
+TravelTech
+UI Tools
+VR
+Web3
+WebDevelopment
