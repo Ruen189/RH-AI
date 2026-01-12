@@ -8,7 +8,8 @@ from huggingface_hub import snapshot_download
 from vllm import LLM, SamplingParams
 from vllm.lora.request import LoRARequest
 
-MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
+
+MODEL_NAME = "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4"
 
 
 class LlamaClient:
@@ -18,7 +19,10 @@ class LlamaClient:
         max_model_len: int = 8192,
         gpu_memory_utilization: float = 0.85,
         max_lora_rank: int = 32,
+        enforce_eager: bool = False,
     ):
+        # Можно не snapshot_download и просто передать MODEL_NAME в vLLM.
+        # Но оставим как в вашем стиле, чтобы путь был локальный.
         print("[LLM] Проверяем и докачиваем модель (snapshot_download)...")
         cache_dir = snapshot_download(repo_id=MODEL_NAME)
         print(f"[LLM] Загружаем модель из {cache_dir}")
@@ -29,25 +33,23 @@ class LlamaClient:
         if adapter_dir:
             adapter_dir = os.path.abspath(os.path.expanduser(adapter_dir))
             enable_lora = True
-            # name, int_id, path
             self.lora_request = LoRARequest("lora_adapter", 1, adapter_dir)
             print(f"[LLM] LoRA включена: {adapter_dir}")
 
+        # AWQ INT4
+        # Для AWQ-моделей в vLLM нужно указать quantization="awq". [web:216]
         self.llm = LLM(
             model=cache_dir,
-            quantization="fp8",
-            kv_cache_dtype="fp8",
-            calculate_kv_scales=True,
-            dtype="auto",
-            enable_lora=enable_lora,
-            max_lora_rank=max_lora_rank,
+            quantization="awq",
+            dtype="half",
             max_model_len=max_model_len,
             gpu_memory_utilization=gpu_memory_utilization,
-            max_num_seqs=16,  # меньше параллельных seq в батче
-            max_num_batched_tokens=8192,  # меньше токенов в одном “супербатче”
+            enable_lora=enable_lora,
+            max_lora_rank=max_lora_rank,
+            enforce_eager=enforce_eager,
         )
 
-        print("[LLM] LlamaClient (vLLM) готов к работе.")
+        print("[LLM] LlamaClient (vLLM, AWQ INT4) готов к работе.")
 
     def generate(
         self,
@@ -134,6 +136,7 @@ def reset_llama():
             llama_client.close()
     except Exception:
         pass
+
     llama_client = None
     llama_adapter_dir = None
 
