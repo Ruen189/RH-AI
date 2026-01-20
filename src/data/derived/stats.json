@@ -1,0 +1,7101 @@
+{
+  "Enterprise/Innovation": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "React",
+        1
+      ],
+      [
+        "Django REST Framework",
+        1
+      ],
+      [
+        "знание стека",
+        1
+      ],
+      [
+        "понимание архитектуры современных веб приложений",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI": {
+    "top_industry_competencies": [
+      [
+        "анализ данных",
+        7
+      ],
+      [
+        "моделирование",
+        6
+      ],
+      [
+        "работа с данными",
+        6
+      ],
+      [
+        "разработка на Python",
+        5
+      ],
+      [
+        "презентации",
+        4
+      ],
+      [
+        "статистика",
+        4
+      ],
+      [
+        "работа с клиентами",
+        4
+      ],
+      [
+        "статистический анализ",
+        3
+      ],
+      [
+        "коммуникация",
+        3
+      ],
+      [
+        "работа с базами данных",
+        3
+      ],
+      [
+        "активные продажи",
+        3
+      ],
+      [
+        "SQL",
+        2
+      ],
+      [
+        "ведение переговоров",
+        2
+      ],
+      [
+        "выполнение KPI",
+        2
+      ],
+      [
+        "создание контента",
+        2
+      ],
+      [
+        "ведение документации",
+        2
+      ],
+      [
+        "работа с дебиторской задолженностью",
+        2
+      ],
+      [
+        "деловая коммуникация",
+        2
+      ],
+      [
+        "коммуникация с командами",
+        1
+      ],
+      [
+        "разработка ПО",
+        1
+      ]
+    ],
+    "top_project_competencies": [
+      [
+        "ML",
+        2
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        1
+      ]
+    ],
+    "gaps": [
+      {
+        "competency": "SQL",
+        "demand": 2
+      },
+      {
+        "competency": "адаптация технического контента",
+        "demand": 1
+      },
+      {
+        "competency": "активные продажи",
+        "demand": 3
+      },
+      {
+        "competency": "анализ рынка",
+        "demand": 1
+      },
+      {
+        "competency": "ведение документации",
+        "demand": 2
+      },
+      {
+        "competency": "ведение записей",
+        "demand": 1
+      },
+      {
+        "competency": "ведение записи",
+        "demand": 1
+      },
+      {
+        "competency": "ведение переговоров",
+        "demand": 2
+      },
+      {
+        "competency": "вождение",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение KPI",
+        "demand": 2
+      },
+      {
+        "competency": "данные",
+        "demand": 1
+      },
+      {
+        "competency": "деловая коммуникация",
+        "demand": 2
+      },
+      {
+        "competency": "иллюстрация",
+        "demand": 1
+      },
+      {
+        "competency": "инженерная подготовка",
+        "demand": 1
+      },
+      {
+        "competency": "интервьюирование",
+        "demand": 1
+      },
+      {
+        "competency": "коммуникация",
+        "demand": 3
+      },
+      {
+        "competency": "коммуникация с командами",
+        "demand": 1
+      },
+      {
+        "competency": "консультация клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "консультирование",
+        "demand": 1
+      },
+      {
+        "competency": "моделирование",
+        "demand": 6
+      },
+      {
+        "competency": "модерация сообществ",
+        "demand": 1
+      },
+      {
+        "competency": "осмотр автомобиля",
+        "demand": 1
+      },
+      {
+        "competency": "презентации",
+        "demand": 4
+      },
+      {
+        "competency": "проведение аналитики",
+        "demand": 1
+      },
+      {
+        "competency": "проведение инвентаризации",
+        "demand": 1
+      },
+      {
+        "competency": "проведение тестирования",
+        "demand": 1
+      },
+      {
+        "competency": "работа с базами данных",
+        "demand": 3
+      },
+      {
+        "competency": "работа с базой данных",
+        "demand": 1
+      },
+      {
+        "competency": "работа с данными",
+        "demand": 6
+      },
+      {
+        "competency": "работа с дебиторской задолженностью",
+        "demand": 2
+      },
+      {
+        "competency": "работа с документами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с клиентами",
+        "demand": 4
+      },
+      {
+        "competency": "работа с пользователями",
+        "demand": 1
+      },
+      {
+        "competency": "работа с социальными сетями",
+        "demand": 1
+      },
+      {
+        "competency": "разработка ПО",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на 1C",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на C++",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на Python",
+        "demand": 5
+      },
+      {
+        "competency": "разработка презентаций",
+        "demand": 1
+      },
+      {
+        "competency": "сборка и тестирование",
+        "demand": 1
+      },
+      {
+        "competency": "создание документации",
+        "demand": 1
+      },
+      {
+        "competency": "создание контента",
+        "demand": 2
+      },
+      {
+        "competency": "статистика",
+        "demand": 4
+      },
+      {
+        "competency": "статистический анализ",
+        "demand": 3
+      }
+    ]
+  },
+  "ChatBots": {
+    "top_industry_competencies": [
+      [
+        "работа с клиентами",
+        14
+      ],
+      [
+        "ведение документации",
+        14
+      ],
+      [
+        "телефонные переговоры",
+        8
+      ],
+      [
+        "обработка заявок",
+        7
+      ],
+      [
+        "деловая коммуникация",
+        7
+      ],
+      [
+        "финансовый анализ",
+        7
+      ],
+      [
+        "работа за кассовым терминалом",
+        6
+      ],
+      [
+        "обслуживание покупателей",
+        6
+      ],
+      [
+        "поддержание порядка",
+        6
+      ],
+      [
+        "инвентаризация",
+        6
+      ],
+      [
+        "активные продажи",
+        6
+      ],
+      [
+        "работа с кассовым аппаратом",
+        6
+      ],
+      [
+        "выкладка товара",
+        6
+      ],
+      [
+        "работа с детьми",
+        6
+      ],
+      [
+        "проведение занятий",
+        6
+      ],
+      [
+        "лидерство",
+        6
+      ],
+      [
+        "бюджетирование",
+        6
+      ],
+      [
+        "отчетность",
+        6
+      ],
+      [
+        "консультации",
+        6
+      ],
+      [
+        "работа с конфликтами",
+        1
+      ]
+    ],
+    "top_project_competencies": [
+      [
+        "Python 3.13",
+        1
+      ],
+      [
+        "RUFF",
+        1
+      ],
+      [
+        "Redis",
+        1
+      ],
+      [
+        "Celery",
+        1
+      ],
+      [
+        "Telegram",
+        1
+      ],
+      [
+        "Max",
+        1
+      ],
+      [
+        "TamTam",
+        1
+      ],
+      [
+        "email",
+        1
+      ],
+      [
+        "JWT",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "ML-модели",
+        1
+      ]
+    ],
+    "gaps": [
+      {
+        "competency": "активные продажи",
+        "demand": 6
+      },
+      {
+        "competency": "анализ потребностей",
+        "demand": 1
+      },
+      {
+        "competency": "бюджетирование",
+        "demand": 6
+      },
+      {
+        "competency": "ведение баз данных",
+        "demand": 1
+      },
+      {
+        "competency": "ведение документации",
+        "demand": 14
+      },
+      {
+        "competency": "выкладка товара",
+        "demand": 6
+      },
+      {
+        "competency": "деловая коммуникация",
+        "demand": 7
+      },
+      {
+        "competency": "инвентаризация",
+        "demand": 6
+      },
+      {
+        "competency": "консультации",
+        "demand": 6
+      },
+      {
+        "competency": "консультирование",
+        "demand": 1
+      },
+      {
+        "competency": "лидерство",
+        "demand": 6
+      },
+      {
+        "competency": "обработка заявок",
+        "demand": 7
+      },
+      {
+        "competency": "обслуживание покупателей",
+        "demand": 6
+      },
+      {
+        "competency": "отчетность",
+        "demand": 6
+      },
+      {
+        "competency": "поддержание порядка",
+        "demand": 6
+      },
+      {
+        "competency": "проведение занятий",
+        "demand": 6
+      },
+      {
+        "competency": "работа за кассовым терминалом",
+        "demand": 6
+      },
+      {
+        "competency": "работа с детьми",
+        "demand": 6
+      },
+      {
+        "competency": "работа с кассовым аппаратом",
+        "demand": 6
+      },
+      {
+        "competency": "работа с клиентами",
+        "demand": 14
+      },
+      {
+        "competency": "работа с конфликтами",
+        "demand": 1
+      },
+      {
+        "competency": "телефонные переговоры",
+        "demand": 8
+      },
+      {
+        "competency": "финансовый анализ",
+        "demand": 7
+      },
+      {
+        "competency": "экономические расчеты",
+        "demand": 1
+      }
+    ]
+  },
+  "AnalyticsBI/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "EDA",
+        1
+      ],
+      [
+        "DataScience",
+        1
+      ],
+      [
+        "Pandas",
+        1
+      ],
+      [
+        "NumPy",
+        1
+      ],
+      [
+        "Matplotlib",
+        1
+      ],
+      [
+        "Seaborn",
+        1
+      ],
+      [
+        "Plotly",
+        1
+      ],
+      [
+        "Jupyter Notebook",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AgriTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Raspberry PI",
+        1
+      ],
+      [
+        "ESP32",
+        1
+      ],
+      [
+        "GoLang",
+        1
+      ],
+      [
+        "Javascript",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment/EnterpriseSoftware/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "1С:Предприятие 8.3",
+        1
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "HRTech/SaaS/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/VR": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Unity",
+        1
+      ],
+      [
+        "XR Interaction Toolkit",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/GameDev/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Unity",
+        1
+      ],
+      [
+        "GameDev",
+        1
+      ],
+      [
+        "GameDesign",
+        1
+      ],
+      [
+        "A/B-testing",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "ML-models",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ChatBots/EdTech/HRTech/HealthTech/LegalTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Logistics": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Django",
+        2
+      ],
+      [
+        "React",
+        2
+      ],
+      [
+        "Backend-разработчик",
+        2
+      ],
+      [
+        "Frontend-разработчик",
+        2
+      ],
+      [
+        "Dizayner",
+        2
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "FastAPI",
+        1
+      ],
+      [
+        "SQLAlchemy",
+        1
+      ],
+      [
+        "Apache Airflow",
+        1
+      ],
+      [
+        "Postgres",
+        1
+      ],
+      [
+        "React Vit",
+        1
+      ],
+      [
+        "Typescript",
+        1
+      ],
+      [
+        "CSS modules",
+        1
+      ],
+      [
+        "redux toolkit + rtk query",
+        1
+      ],
+      [
+        "FSD",
+        1
+      ],
+      [
+        "Yarn Berry",
+        1
+      ],
+      [
+        "Apache Superset",
+        1
+      ],
+      [
+        "Mock Service Worker",
+        1
+      ],
+      [
+        "git",
+        1
+      ],
+      [
+        "GitHub",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI": {
+    "top_industry_competencies": [
+      [
+        "работа с данными",
+        2
+      ],
+      [
+        "разработка на 1С",
+        1
+      ],
+      [
+        "сопровождение 1С",
+        1
+      ],
+      [
+        "написание кода",
+        1
+      ],
+      [
+        "работа с базами данных",
+        1
+      ],
+      [
+        "анализ безопасности",
+        1
+      ],
+      [
+        "документация",
+        1
+      ],
+      [
+        "тестирование",
+        1
+      ],
+      [
+        "разработка на SAP BW/BI",
+        1
+      ],
+      [
+        "создание отчетов и отображений",
+        1
+      ],
+      [
+        "настройка аналитики данных",
+        1
+      ],
+      [
+        "выполнение задач аналитики",
+        1
+      ],
+      [
+        "презентация данных",
+        1
+      ],
+      [
+        "работа с инструментами аналитики",
+        1
+      ],
+      [
+        "разработка на SAP",
+        1
+      ],
+      [
+        "сопровождение SAP",
+        1
+      ],
+      [
+        "написание ТЗ",
+        1
+      ],
+      [
+        "интеграции данных",
+        1
+      ],
+      [
+        "создание содержания",
+        1
+      ],
+      [
+        "обучение пользователей",
+        1
+      ]
+    ],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        3
+      ],
+      [
+        "A/B-тестирование",
+        3
+      ],
+      [
+        "Python",
+        2
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "backend-разработчик",
+        1
+      ],
+      [
+        "frontend-разработчик",
+        1
+      ],
+      [
+        "аналитик",
+        1
+      ],
+      [
+        "тестировщик",
+        1
+      ],
+      [
+        "timlid",
+        1
+      ],
+      [
+        "PyMuPDF",
+        1
+      ],
+      [
+        "pdfplumber",
+        1
+      ],
+      [
+        "алгоритмическое мышление",
+        1
+      ],
+      [
+        "формальное анализа",
+        1
+      ],
+      [
+        "алгоритмический анализ",
+        1
+      ],
+      [
+        "формализованные правила",
+        1
+      ]
+    ],
+    "gaps": [
+      {
+        "competency": "анализ безопасности",
+        "demand": 1
+      },
+      {
+        "competency": "анализ рынка",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение задач аналитики",
+        "demand": 1
+      },
+      {
+        "competency": "деловая коммуникация",
+        "demand": 1
+      },
+      {
+        "competency": "документация",
+        "demand": 1
+      },
+      {
+        "competency": "интеграции данных",
+        "demand": 1
+      },
+      {
+        "competency": "написание ТЗ",
+        "demand": 1
+      },
+      {
+        "competency": "написание кода",
+        "demand": 1
+      },
+      {
+        "competency": "настройка аналитики данных",
+        "demand": 1
+      },
+      {
+        "competency": "обучение пользователей",
+        "demand": 1
+      },
+      {
+        "competency": "поддержка клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "презентации",
+        "demand": 1
+      },
+      {
+        "competency": "презентация данных",
+        "demand": 1
+      },
+      {
+        "competency": "работа с базами данных",
+        "demand": 1
+      },
+      {
+        "competency": "работа с данными",
+        "demand": 2
+      },
+      {
+        "competency": "работа с инструментами аналитики",
+        "demand": 1
+      },
+      {
+        "competency": "работа с социальными сетями",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на 1С",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на SAP",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на SAP BW/BI",
+        "demand": 1
+      },
+      {
+        "competency": "создание контента",
+        "demand": 1
+      },
+      {
+        "competency": "создание отчетов и отображений",
+        "demand": 1
+      },
+      {
+        "competency": "создание содержания",
+        "demand": 1
+      },
+      {
+        "competency": "сопровождение 1С",
+        "demand": 1
+      },
+      {
+        "competency": "сопровождение SAP",
+        "demand": 1
+      },
+      {
+        "competency": "тестирование",
+        "demand": 1
+      },
+      {
+        "competency": "трактование текстов",
+        "demand": 1
+      }
+    ]
+  },
+  "AI/EdTech/GameDev/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "LLM",
+        2
+      ],
+      [
+        "RAG",
+        2
+      ],
+      [
+        "промпт-инжиниринг",
+        2
+      ],
+      [
+        "графический интерфейс",
+        2
+      ],
+      [
+        "аутентификация пользователя-администратора",
+        2
+      ],
+      [
+        "подсчет статистики",
+        2
+      ],
+      [
+        "локальная LLM или gigaChat",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/GameDev": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "разработка игрового ПО",
+        1
+      ],
+      [
+        "игровые движки",
+        1
+      ],
+      [
+        "построение игрового ПО",
+        1
+      ],
+      [
+        "игровая механика",
+        1
+      ],
+      [
+        "пользовательский интерфейс",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment/EnterpriseSoftware": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "1C:ERP",
+        1
+      ],
+      [
+        "Enterprise Software",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "1С",
+        1
+      ],
+      [
+        "REST API",
+        1
+      ],
+      [
+        "JSON",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Digital Signage": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "C#",
+        1
+      ],
+      [
+        ".NET",
+        1
+      ],
+      [
+        "PostgreSql",
+        1
+      ],
+      [
+        "Blazor",
+        1
+      ],
+      [
+        "Avalonia",
+        1
+      ],
+      [
+        "API",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Logistics/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EdTech/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "Django",
+        1
+      ],
+      [
+        "MySQL",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ECommerce/FinTech/SaaS/TravelTech/Web3": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Web3",
+        1
+      ],
+      [
+        "блокчейн",
+        1
+      ],
+      [
+        "смарт-контракты",
+        1
+      ],
+      [
+        "SaaS",
+        1
+      ],
+      [
+        "ECommerce",
+        1
+      ],
+      [
+        "FinTech",
+        1
+      ],
+      [
+        "TravelTech",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EnterpriseSoftware/Logistics/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "low-code",
+        1
+      ],
+      [
+        "Odoo",
+        1
+      ],
+      [
+        "ERP",
+        1
+      ],
+      [
+        "Аналитик",
+        1
+      ],
+      [
+        "Тестировщик",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/HRTech/HealthTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Аналитик",
+        1
+      ],
+      [
+        "Тестировщик",
+        1
+      ],
+      [
+        "DASS-21",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/FinTech/PropTech/SaaS/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "frontend-разработчик",
+        2
+      ],
+      [
+        "backend-разработчик",
+        2
+      ],
+      [
+        "системный аналитик",
+        2
+      ],
+      [
+        "дизайнер",
+        2
+      ],
+      [
+        "тестировщик",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/Logistics/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Enterprise/ITSM": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "React",
+        1
+      ],
+      [
+        "Redux",
+        1
+      ],
+      [
+        "Node.js",
+        1
+      ],
+      [
+        "Express.js",
+        1
+      ],
+      [
+        "MongoDB",
+        1
+      ],
+      [
+        "Active Directory",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "SaaS": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "SaaS",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "ML-модели",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "LLM",
+        3
+      ],
+      [
+        "C#",
+        2
+      ],
+      [
+        "генеративные нейросети",
+        2
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "RAG",
+        1
+      ],
+      [
+        "Pyton",
+        1
+      ],
+      [
+        "ИИ",
+        1
+      ],
+      [
+        "нейросети",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        2
+      ],
+      [
+        "разработка ПО",
+        1
+      ],
+      [
+        "мониторинг и управление",
+        1
+      ],
+      [
+        "автоматические режимы работы",
+        1
+      ],
+      [
+        "аварийное отключение",
+        1
+      ],
+      [
+        "ограничение доступа",
+        1
+      ],
+      [
+        "веб-интерфейс",
+        1
+      ],
+      [
+        "мобильные устройства",
+        1
+      ],
+      [
+        "typescript",
+        1
+      ],
+      [
+        "docker",
+        1
+      ],
+      [
+        "c#",
+        1
+      ],
+      [
+        "react",
+        1
+      ],
+      [
+        "postgresql",
+        1
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "MobileDevelopment": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        ".NET",
+        1
+      ],
+      [
+        "Next.js",
+        1
+      ],
+      [
+        "React 19",
+        1
+      ],
+      [
+        "TypeScript 5",
+        1
+      ],
+      [
+        "Tailwind CSS",
+        1
+      ],
+      [
+        "Radix UI",
+        1
+      ],
+      [
+        "React Native",
+        1
+      ],
+      [
+        "React Native Elements/NativeBase",
+        1
+      ],
+      [
+        "Styled Components",
+        1
+      ],
+      [
+        "React Native Vector Icons",
+        1
+      ],
+      [
+        "React Navigation 6",
+        1
+      ],
+      [
+        "Redux Toolkit",
+        1
+      ],
+      [
+        "RTK Query",
+        1
+      ],
+      [
+        "Яндекс.Облако",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/EdTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "OCR",
+        2
+      ],
+      [
+        "NLP",
+        2
+      ],
+      [
+        "ML",
+        2
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "Astra Linux",
+        1
+      ],
+      [
+        "Windows",
+        1
+      ],
+      [
+        "JSON",
+        1
+      ],
+      [
+        "биоинформатика",
+        1
+      ],
+      [
+        "машинное обучение",
+        1
+      ],
+      [
+        "анализ данных",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Developer Tools": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Blazor WebAssembly",
+        1
+      ],
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/ChatBots/HealthTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "RAG",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/ECommerce/EdTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка ядра маркетплейса",
+        1
+      ],
+      [
+        "интеграции с платформой",
+        1
+      ],
+      [
+        "настройка безопасности",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/CRM": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "разработка веб-приложений",
+        1
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EdTech/FinTech/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "frontend-разработчик",
+        2
+      ],
+      [
+        "backend-разработчик",
+        2
+      ],
+      [
+        "мобильный разработчик",
+        2
+      ],
+      [
+        "дизайнер",
+        2
+      ],
+      [
+        "аналитик",
+        2
+      ],
+      [
+        "тестировщик",
+        2
+      ],
+      [
+        "Power BI",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/ChatBots/EdTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Data Science",
+        1
+      ],
+      [
+        "ML",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "EdTech",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/GameDev/Logistics/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Unity",
+        1
+      ],
+      [
+        "iOS",
+        1
+      ],
+      [
+        "Android",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "графические инструменты",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "PropTech/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "React.js",
+        1
+      ],
+      [
+        "Angular",
+        1
+      ],
+      [
+        "Vue.js",
+        1
+      ],
+      [
+        "ASP.NET Core 6+",
+        1
+      ],
+      [
+        "PostgreSQL",
+        1
+      ],
+      [
+        "Docker",
+        1
+      ],
+      [
+        "REST API",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EcoTech/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "разработка AI-моделей",
+        2
+      ],
+      [
+        "NLP",
+        2
+      ],
+      [
+        "LLM",
+        2
+      ],
+      [
+        "A/B-тестирование",
+        2
+      ],
+      [
+        "Power BI",
+        2
+      ],
+      [
+        "разработка онлайн-курсов",
+        2
+      ],
+      [
+        "геймдизайн",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EdTech/Robotics": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/ChatBots/EdTech/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "RAG-архитектура",
+        1
+      ],
+      [
+        "методология проектной деятельности",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "API",
+        1
+      ],
+      [
+        "векторная база данных",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ChatBots/EdTech/ProjectManagement/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Django REST Framework",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "mySQL",
+        1
+      ],
+      [
+        "Celery",
+        1
+      ],
+      [
+        "RabbitMQ",
+        1
+      ],
+      [
+        "aiogram",
+        1
+      ],
+      [
+        "Redis",
+        1
+      ],
+      [
+        "Swagger",
+        1
+      ],
+      [
+        "JWT",
+        1
+      ],
+      [
+        "OAuth2",
+        1
+      ],
+      [
+        "TypeScript",
+        1
+      ],
+      [
+        "React",
+        1
+      ],
+      [
+        "Vite",
+        1
+      ],
+      [
+        "Redux Toolkit",
+        1
+      ],
+      [
+        "RTK Query",
+        1
+      ],
+      [
+        "SCSS",
+        1
+      ],
+      [
+        "React Router",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameDev/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        4
+      ],
+      [
+        "A/B-тестирование",
+        4
+      ],
+      [
+        "Unity",
+        3
+      ],
+      [
+        "геймдизайн",
+        3
+      ],
+      [
+        "разработка онлайн-курсов",
+        3
+      ],
+      [
+        "разработка чат-ботов",
+        2
+      ],
+      [
+        "NLP",
+        2
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "3D",
+        1
+      ],
+      [
+        "C",
+        1
+      ],
+      [
+        "C++",
+        1
+      ],
+      [
+        "Java",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/Game-based": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "C#",
+        3
+      ],
+      [
+        "Unity",
+        3
+      ],
+      [
+        "построение ML-моделей",
+        3
+      ],
+      [
+        "A/B-тестирование",
+        3
+      ],
+      [
+        "NLP",
+        2
+      ],
+      [
+        "LLM",
+        2
+      ],
+      [
+        "геймдизайн",
+        2
+      ],
+      [
+        "планирование проектной работы",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Embedded/UI Tools": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "JS/TS",
+        1
+      ],
+      [
+        "Unity",
+        1
+      ],
+      [
+        "Figma",
+        1
+      ],
+      [
+        "e-ink",
+        1
+      ],
+      [
+        "LCD",
+        1
+      ],
+      [
+        "OLED",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "HRTech/Psychology": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/ProjectManagement": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/GameDev/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EcoTech/Logistics/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "NLP",
+        3
+      ],
+      [
+        "LLM",
+        3
+      ],
+      [
+        "A/B-тестирование",
+        2
+      ],
+      [
+        "Power BI",
+        2
+      ],
+      [
+        "построение ML-моделей",
+        2
+      ],
+      [
+        "AI-модель",
+        1
+      ],
+      [
+        "ML-модели",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка AI-моделей",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ECommerce": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка ML-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ChatBots/EdTech/FinTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "Telegram",
+        1
+      ],
+      [
+        "JSON",
+        1
+      ],
+      [
+        "HTTP",
+        1
+      ],
+      [
+        "Jupyter",
+        1
+      ],
+      [
+        "PDF",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameDev": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        10
+      ],
+      [
+        "A/B-тестирование",
+        9
+      ],
+      [
+        "геймдизайн",
+        9
+      ],
+      [
+        "Unity",
+        8
+      ],
+      [
+        "GameDev",
+        6
+      ],
+      [
+        "языки программирования",
+        6
+      ],
+      [
+        "Python",
+        5
+      ],
+      [
+        "C#",
+        3
+      ],
+      [
+        "разработка игровых движков",
+        3
+      ],
+      [
+        "UI-дизайн",
+        2
+      ],
+      [
+        "Figma",
+        2
+      ],
+      [
+        "Скетчинг",
+        2
+      ],
+      [
+        "разработка онлайн-курсов",
+        2
+      ],
+      [
+        "3d-моделирование",
+        2
+      ],
+      [
+        "Unity 3d",
+        2
+      ],
+      [
+        "прототипирование",
+        2
+      ],
+      [
+        "Unity-программирование",
+        2
+      ],
+      [
+        "разработка проекта в Unity",
+        2
+      ],
+      [
+        "фреймворки",
+        2
+      ],
+      [
+        "C++",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "ChatBots/EdTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        3
+      ],
+      [
+        "A/B-тестирование",
+        2
+      ],
+      [
+        "Telegram Mini App",
+        1
+      ],
+      [
+        "Telegram Bot",
+        1
+      ],
+      [
+        "Telegram",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "HTML/CSS",
+        1
+      ],
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "искуственный интеллект",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameDev/VR": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "unity",
+        3
+      ],
+      [
+        "unreal engine",
+        3
+      ],
+      [
+        "3-D моделирование",
+        3
+      ],
+      [
+        "игровые механики",
+        2
+      ],
+      [
+        "геймификация",
+        2
+      ],
+      [
+        "профессии",
+        1
+      ],
+      [
+        "Steam-VR",
+        1
+      ],
+      [
+        "физические законы",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment": {
+    "top_industry_competencies": [
+      [
+        "разработка на 1С",
+        34
+      ],
+      [
+        "анализ бизнес-процессов",
+        13
+      ],
+      [
+        "тестирование доработок",
+        13
+      ],
+      [
+        "создание конфигураций",
+        12
+      ],
+      [
+        "написание ТЗ",
+        12
+      ],
+      [
+        "консультация пользователей",
+        12
+      ],
+      [
+        "сопровождение 1С",
+        11
+      ],
+      [
+        "тестирование",
+        9
+      ],
+      [
+        "работа с базами данных",
+        6
+      ],
+      [
+        "ведение документации",
+        6
+      ],
+      [
+        "разработка ТЗ",
+        6
+      ],
+      [
+        "документация",
+        5
+      ],
+      [
+        "работа с пользователями",
+        5
+      ],
+      [
+        "интеграции",
+        5
+      ],
+      [
+        "поддержка пользователей",
+        5
+      ],
+      [
+        "интеграции данных",
+        4
+      ],
+      [
+        "техническая поддержка",
+        4
+      ],
+      [
+        "анализ данных",
+        3
+      ],
+      [
+        "работа с данными",
+        3
+      ],
+      [
+        "активные продажи",
+        3
+      ]
+    ],
+    "top_project_competencies": [],
+    "gaps": [
+      {
+        "competency": "control",
+        "demand": 1
+      },
+      {
+        "competency": "администрирование",
+        "demand": 2
+      },
+      {
+        "competency": "администрирование 1C",
+        "demand": 1
+      },
+      {
+        "competency": "администрирование 1С",
+        "demand": 3
+      },
+      {
+        "competency": "активные продажи",
+        "demand": 3
+      },
+      {
+        "competency": "анализ безопасности",
+        "demand": 1
+      },
+      {
+        "competency": "анализ бизнес-процессов",
+        "demand": 13
+      },
+      {
+        "competency": "анализ данных",
+        "demand": 3
+      },
+      {
+        "competency": "анализ потребностей",
+        "demand": 1
+      },
+      {
+        "competency": "анализ производительности",
+        "demand": 3
+      },
+      {
+        "competency": "анализ рынка",
+        "demand": 1
+      },
+      {
+        "competency": "аудит конфигурации",
+        "demand": 1
+      },
+      {
+        "competency": "бухгалтерский учет",
+        "demand": 1
+      },
+      {
+        "competency": "ведение документации",
+        "demand": 6
+      },
+      {
+        "competency": "ведение документооборота",
+        "demand": 1
+      },
+      {
+        "competency": "ведение переговоров",
+        "demand": 1
+      },
+      {
+        "competency": "ведение проекта",
+        "demand": 2
+      },
+      {
+        "competency": "взаимодействие с командой",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение ТЗ",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение задач",
+        "demand": 1
+      },
+      {
+        "competency": "деловая коммуникация",
+        "demand": 1
+      },
+      {
+        "competency": "дизайн решений",
+        "demand": 1
+      },
+      {
+        "competency": "документация",
+        "demand": 5
+      },
+      {
+        "competency": "доработка 1C",
+        "demand": 1
+      },
+      {
+        "competency": "доработка кода",
+        "demand": 2
+      },
+      {
+        "competency": "доработка конфигураций",
+        "demand": 2
+      },
+      {
+        "competency": "доработка существующего кода",
+        "demand": 1
+      },
+      {
+        "competency": "доработка существующих решений",
+        "demand": 1
+      },
+      {
+        "competency": "инструкционное письмо",
+        "demand": 1
+      },
+      {
+        "competency": "интеграции",
+        "demand": 5
+      },
+      {
+        "competency": "интеграции данных",
+        "demand": 4
+      },
+      {
+        "competency": "интеграции систем",
+        "demand": 2
+      },
+      {
+        "competency": "интеграция систем",
+        "demand": 3
+      },
+      {
+        "competency": "коммуникация",
+        "demand": 1
+      },
+      {
+        "competency": "консультация",
+        "demand": 3
+      },
+      {
+        "competency": "консультация клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "консультация пользователей",
+        "demand": 12
+      },
+      {
+        "competency": "консультирование",
+        "demand": 2
+      },
+      {
+        "competency": "лидерство",
+        "demand": 2
+      },
+      {
+        "competency": "моделирование процессов",
+        "demand": 1
+      },
+      {
+        "competency": "написание ТЗ",
+        "demand": 12
+      },
+      {
+        "competency": "написание инструкций",
+        "demand": 2
+      },
+      {
+        "competency": "написание кода",
+        "demand": 2
+      },
+      {
+        "competency": "настройка 1C",
+        "demand": 1
+      },
+      {
+        "competency": "настройка конфигураций",
+        "demand": 1
+      },
+      {
+        "competency": "настройка прав доступа",
+        "demand": 1
+      },
+      {
+        "competency": "обработка данных",
+        "demand": 1
+      },
+      {
+        "competency": "оптимизация системы",
+        "demand": 1
+      },
+      {
+        "competency": "отладка программ",
+        "demand": 1
+      },
+      {
+        "competency": "поддержка",
+        "demand": 2
+      },
+      {
+        "competency": "поддержка пользователей",
+        "demand": 5
+      },
+      {
+        "competency": "поддержка программного обеспечения",
+        "demand": 1
+      },
+      {
+        "competency": "поддержка существующего кода",
+        "demand": 1
+      },
+      {
+        "competency": "презентации",
+        "demand": 2
+      },
+      {
+        "competency": "преподавание",
+        "demand": 1
+      },
+      {
+        "competency": "проведение занятий",
+        "demand": 2
+      },
+      {
+        "competency": "проведение тестирования",
+        "demand": 2
+      },
+      {
+        "competency": "работа с базами данных",
+        "demand": 6
+      },
+      {
+        "competency": "работа с даними",
+        "demand": 2
+      },
+      {
+        "competency": "работа с данными",
+        "demand": 3
+      },
+      {
+        "competency": "работа с детьми",
+        "demand": 2
+      },
+      {
+        "competency": "работа с клиентами",
+        "demand": 3
+      },
+      {
+        "competency": "работа с командами",
+        "demand": 2
+      },
+      {
+        "competency": "работа с командной строкой",
+        "demand": 1
+      },
+      {
+        "competency": "работа с конфигурациями 1C",
+        "demand": 1
+      },
+      {
+        "competency": "работа с конфиденциальной информацией",
+        "demand": 1
+      },
+      {
+        "competency": "работа с конфликтами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с пользователями",
+        "demand": 5
+      },
+      {
+        "competency": "разработка ТЗ",
+        "demand": 6
+      },
+      {
+        "competency": "разработка документации",
+        "demand": 1
+      },
+      {
+        "competency": "разработка на 1C",
+        "demand": 3
+      },
+      {
+        "competency": "разработка на 1С",
+        "demand": 34
+      },
+      {
+        "competency": "разработка печатных форм",
+        "demand": 1
+      },
+      {
+        "competency": "разработка пользовательского интерфейса",
+        "demand": 1
+      },
+      {
+        "competency": "расчет зарплаты",
+        "demand": 1
+      },
+      {
+        "competency": "ресурсное планирование",
+        "demand": 1
+      },
+      {
+        "competency": "связь с клиентами",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение регламента",
+        "demand": 1
+      },
+      {
+        "competency": "создание ТЗ",
+        "demand": 2
+      },
+      {
+        "competency": "создание внешних обработок",
+        "demand": 1
+      },
+      {
+        "competency": "создание документации",
+        "demand": 1
+      },
+      {
+        "competency": "создание контента",
+        "demand": 1
+      },
+      {
+        "competency": "создание конфигураций",
+        "demand": 12
+      },
+      {
+        "competency": "создание отчетов",
+        "demand": 2
+      },
+      {
+        "competency": "создание пользовательского интерфейса",
+        "demand": 1
+      },
+      {
+        "competency": "создание проектной документации",
+        "demand": 2
+      },
+      {
+        "competency": "сопровождение 1C",
+        "demand": 3
+      },
+      {
+        "competency": "сопровождение 1С",
+        "demand": 11
+      },
+      {
+        "competency": "сопровождение проектов",
+        "demand": 1
+      },
+      {
+        "competency": "составление ТЗ",
+        "demand": 1
+      },
+      {
+        "competency": "составление инструкций",
+        "demand": 2
+      },
+      {
+        "competency": "счетирование",
+        "demand": 1
+      },
+      {
+        "competency": "тестирование",
+        "demand": 9
+      },
+      {
+        "competency": "тестирование доработок",
+        "demand": 13
+      },
+      {
+        "competency": "тестирование кода",
+        "demand": 2
+      },
+      {
+        "competency": "техническая поддержка",
+        "demand": 4
+      },
+      {
+        "competency": "тренинг пользователей",
+        "demand": 1
+      },
+      {
+        "competency": "устранение ошибок",
+        "demand": 1
+      },
+      {
+        "competency": "финансовый анализ",
+        "demand": 1
+      },
+      {
+        "competency": "финансовый контроль",
+        "demand": 1
+      },
+      {
+        "competency": "экономические расчеты",
+        "demand": 1
+      }
+    ]
+  },
+  "Cybersecurity/EnterpriseSoftware": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/HealthTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "RAG",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameTech/AI": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "C#",
+        1
+      ],
+      [
+        ".NET 9",
+        1
+      ],
+      [
+        "Blazor Server",
+        1
+      ],
+      [
+        "PostgreSQL",
+        1
+      ],
+      [
+        "Entity Framework Core",
+        1
+      ],
+      [
+        "ASP.NET Core Identity",
+        1
+      ],
+      [
+        "OpenAI API",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "TravelTech/AI": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameDev/HealthTech/RetailHoReCa": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "ML-модели",
+        1
+      ],
+      [
+        "построение",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EnterpriseSoftware": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Webflow",
+        1
+      ],
+      [
+        "дизайн макетов",
+        1
+      ],
+      [
+        "брендбук",
+        1
+      ],
+      [
+        "дизайнер",
+        1
+      ],
+      [
+        "аналитик",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "библиотеки Python",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "лазерное сканирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/AnalyticsBI/EdTech/EnterpriseSoftware": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "NLP",
+        1
+      ],
+      [
+        "ML",
+        1
+      ],
+      [
+        "OCR",
+        1
+      ],
+      [
+        "Astra Linux",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "Java",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment/AnalyticsBI/EnterpriseSoftware/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "1С:Предприятие 8.3",
+        1
+      ],
+      [
+        "Excel",
+        1
+      ],
+      [
+        "адаптировать",
+        1
+      ],
+      [
+        "доработать",
+        1
+      ],
+      [
+        "импорт",
+        1
+      ],
+      [
+        "экспорт",
+        1
+      ],
+      [
+        "отчёты",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Logistics/SportTech/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Jango",
+        1
+      ],
+      [
+        "Google",
+        1
+      ],
+      [
+        "Yandex",
+        1
+      ],
+      [
+        "OpenStreetMaps",
+        1
+      ],
+      [
+        "GPX",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameDev/Robotics/SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "c++",
+        1
+      ],
+      [
+        "python",
+        1
+      ],
+      [
+        "opencv",
+        1
+      ],
+      [
+        "RPi",
+        1
+      ],
+      [
+        "МК",
+        1
+      ],
+      [
+        "САПР",
+        1
+      ],
+      [
+        "твердотельный",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/EdTech/HealthTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "машинное обучение",
+        1
+      ],
+      [
+        "КТ-снимки",
+        1
+      ],
+      [
+        "сегментация",
+        1
+      ],
+      [
+        "3D-технологии",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EnterpriseSoftware/Logistics": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "SoftwareDevelopment": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        6
+      ],
+      [
+        "фреймворки",
+        6
+      ],
+      [
+        "разработка чат-ботов",
+        6
+      ],
+      [
+        "Power BI",
+        6
+      ],
+      [
+        "базы данных",
+        5
+      ],
+      [
+        "A/B-тестирование",
+        5
+      ],
+      [
+        "Python",
+        4
+      ],
+      [
+        "геймдизайн",
+        4
+      ],
+      [
+        "построение ML-моделей",
+        3
+      ],
+      [
+        "NLP",
+        3
+      ],
+      [
+        "разработка онлайн-курсов",
+        3
+      ],
+      [
+        "LLM",
+        2
+      ],
+      [
+        "HTTP",
+        1
+      ],
+      [
+        "API",
+        1
+      ],
+      [
+        "JWT",
+        1
+      ],
+      [
+        "CRUD",
+        1
+      ],
+      [
+        "блендер",
+        1
+      ],
+      [
+        "С++",
+        1
+      ],
+      [
+        "Arduino",
+        1
+      ],
+      [
+        "ASUTP",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "SportTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        4
+      ],
+      [
+        "разработка онлайн-курсов",
+        3
+      ],
+      [
+        "геймдизайн",
+        3
+      ],
+      [
+        "Python",
+        2
+      ],
+      [
+        "разработка чат-ботов",
+        2
+      ],
+      [
+        "A/B-тестирование",
+        2
+      ],
+      [
+        "Nvidea",
+        1
+      ],
+      [
+        "разработка задач",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "3D печать",
+        1
+      ],
+      [
+        "разработка 3D-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "Kubernetes",
+        1
+      ],
+      [
+        "Graphana",
+        1
+      ],
+      [
+        "Terraform",
+        1
+      ],
+      [
+        "PostgreSQL Cluster",
+        1
+      ],
+      [
+        "Clickhouse Cluster",
+        1
+      ],
+      [
+        "NATS Jetstream",
+        1
+      ],
+      [
+        "Redis Cluster",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EdTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        3
+      ],
+      [
+        "языки программирования",
+        3
+      ],
+      [
+        "Kotlin",
+        2
+      ],
+      [
+        "фреймворки",
+        2
+      ],
+      [
+        "базы данных",
+        2
+      ],
+      [
+        "разработка чат-ботов",
+        2
+      ],
+      [
+        "A/B-тестирование",
+        2
+      ],
+      [
+        "адаптивная верстка",
+        1
+      ],
+      [
+        "доступность А11у",
+        1
+      ],
+      [
+        "push-уведомления",
+        1
+      ],
+      [
+        "расширенный профиль компании",
+        1
+      ],
+      [
+        "обратная связь по откликам",
+        1
+      ],
+      [
+        "система оценивания",
+        1
+      ],
+      [
+        "профиль",
+        1
+      ],
+      [
+        "варианты регистрации",
+        1
+      ],
+      [
+        "Java",
+        1
+      ],
+      [
+        "анализ данных",
+        1
+      ],
+      [
+        "разработка приложений",
+        1
+      ],
+      [
+        "разработка фронтенда",
+        1
+      ],
+      [
+        "разработка бэкенда",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "FinTech/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Open Banking API",
+        1
+      ],
+      [
+        "P2P-кредитование",
+        1
+      ],
+      [
+        "Налоговый помощник",
+        1
+      ],
+      [
+        "Скоринговая система",
+        1
+      ],
+      [
+        "Fintech-проекты",
+        1
+      ],
+      [
+        "интеграция с Open Banking API",
+        1
+      ],
+      [
+        "банковские данные",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment/AI/EdTech/EnterpriseSoftware": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "ML",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "Tesseract",
+        1
+      ],
+      [
+        "1C:Документооборот",
+        1
+      ],
+      [
+        "ECM-система",
+        1
+      ],
+      [
+        "JSON",
+        1
+      ],
+      [
+        "API",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "E-Commerce/Decision Support": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "JavaScript (ES6+)",
+        1
+      ],
+      [
+        "HTML5",
+        1
+      ],
+      [
+        "CSS3",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ChatBots/EdTech/GameDev/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Unity",
+        1
+      ],
+      [
+        "C#",
+        1
+      ],
+      [
+        "Figma",
+        1
+      ],
+      [
+        "Технический дизайн",
+        1
+      ],
+      [
+        "Верстка UI",
+        1
+      ],
+      [
+        "Team Lead",
+        1
+      ],
+      [
+        "Менеджер проекта",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ResearchTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "искусственный интеллект",
+        1
+      ],
+      [
+        "генеративный ИИ",
+        1
+      ],
+      [
+        "ML",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/ECommerce": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "big data",
+        1
+      ],
+      [
+        "визуализация",
+        1
+      ],
+      [
+        "анализ данных",
+        1
+      ],
+      [
+        "прогнозирование",
+        1
+      ],
+      [
+        "парсер",
+        1
+      ],
+      [
+        "рекомендательная система",
+        1
+      ],
+      [
+        "анализ",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ECommerce/EdTech/FinTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/Logistics/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "машинное обучение",
+        1
+      ],
+      [
+        "картографические данные",
+        1
+      ],
+      [
+        "навигация",
+        1
+      ],
+      [
+        "логистика",
+        1
+      ],
+      [
+        "анализ территорий",
+        1
+      ],
+      [
+        "оптимизация маршрутов",
+        1
+      ],
+      [
+        "локация",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EdTech/HRTech/SaaS": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "React",
+        1
+      ],
+      [
+        "TypeScript",
+        1
+      ],
+      [
+        "Node.js",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AgriTech/CV": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "обработка изображения",
+        1
+      ],
+      [
+        "цветовая сегментация",
+        1
+      ],
+      [
+        "алгоритмы пространственной фильтрации",
+        1
+      ],
+      [
+        "цветовой тон",
+        1
+      ],
+      [
+        "насыщенность",
+        1
+      ],
+      [
+        "интенсивность",
+        1
+      ],
+      [
+        "машинное обучение",
+        1
+      ],
+      [
+        "нейронная сеть",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "HealthTech/ERP": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Python",
+        1
+      ],
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "CSS",
+        1
+      ],
+      [
+        "HTML",
+        1
+      ],
+      [
+        "React",
+        1
+      ],
+      [
+        "Git",
+        1
+      ],
+      [
+        "Scrum",
+        1
+      ],
+      [
+        "Odoo",
+        1
+      ],
+      [
+        "N/A",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ChatBots/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "typescript",
+        1
+      ],
+      [
+        "docker",
+        1
+      ],
+      [
+        "c#",
+        1
+      ],
+      [
+        "react",
+        1
+      ],
+      [
+        "postgresql",
+        1
+      ],
+      [
+        "Revit",
+        1
+      ],
+      [
+        "BIM",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/EdTech/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "HTML",
+        1
+      ],
+      [
+        "Javascript",
+        1
+      ],
+      [
+        "PHP",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "GameDev/HealthTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Программная инженерия",
+        1
+      ],
+      [
+        "шейдеры",
+        1
+      ],
+      [
+        "динамически-изменяющиеся анимации",
+        1
+      ],
+      [
+        "практики современной индустрии по созданию программных эффектов атак",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/EdTech/TravelTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "языки программирования",
+        1
+      ],
+      [
+        "фреймворки",
+        1
+      ],
+      [
+        "базы данных",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/BrowserExtensions/ProjectManagement": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "React",
+        1
+      ],
+      [
+        "TypeScript",
+        1
+      ],
+      [
+        "Atlassian Stact",
+        1
+      ],
+      [
+        "Confluence",
+        1
+      ],
+      [
+        "Jira",
+        1
+      ],
+      [
+        "Bitbucket",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Cybersecurity": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "C#",
+        2
+      ],
+      [
+        "MVP",
+        2
+      ],
+      [
+        "git",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "Robotics": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "3D-модель",
+        1
+      ],
+      [
+        "визуализация",
+        1
+      ],
+      [
+        "робототехника",
+        1
+      ],
+      [
+        "инженерия",
+        1
+      ],
+      [
+        "моделирование",
+        1
+      ],
+      [
+        "анализ",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Automation/ChatBot": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Telegram",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "Regular expressions",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "разработка чат-ботов",
+        3
+      ],
+      [
+        "разработка онлайн-курсов",
+        3
+      ],
+      [
+        "Power BI",
+        3
+      ],
+      [
+        "A/B-тестирование",
+        3
+      ],
+      [
+        "языки программирования",
+        2
+      ],
+      [
+        "фреймворки",
+        2
+      ],
+      [
+        "базы данных",
+        2
+      ],
+      [
+        "разработка веб-приложения",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "построение ML-моделей",
+        1
+      ],
+      [
+        "построение NLP-моделей",
+        1
+      ],
+      [
+        "построение LLM-модели",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "MarTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "webflow",
+        1
+      ],
+      [
+        "taptop",
+        1
+      ],
+      [
+        "Figma",
+        1
+      ],
+      [
+        "web-дизайнер",
+        1
+      ],
+      [
+        "аналитик",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "ECommerce/FinTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "интуитивный конструктор",
+        1
+      ],
+      [
+        "встроенные маркетинг-инструменты",
+        1
+      ],
+      [
+        "мультивалютные платежи",
+        1
+      ],
+      [
+        "адаптивный дизайн",
+        1
+      ],
+      [
+        "защита данных",
+        1
+      ],
+      [
+        "СЕО продвижение",
+        1
+      ],
+      [
+        "админ панель",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "Project Management": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "YouTrack",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech": {
+    "top_industry_competencies": [
+      [
+        "ведение документации",
+        155
+      ],
+      [
+        "работа с детьми",
+        100
+      ],
+      [
+        "работа с клиентами",
+        75
+      ],
+      [
+        "проведение занятий",
+        50
+      ],
+      [
+        "классное руководство",
+        50
+      ],
+      [
+        "оценка успеваемости",
+        49
+      ],
+      [
+        "проведение уроков/занятий",
+        49
+      ],
+      [
+        "активные продажи",
+        42
+      ],
+      [
+        "консультирование",
+        40
+      ],
+      [
+        "работа с родителями",
+        38
+      ],
+      [
+        "планирование уроков",
+        28
+      ],
+      [
+        "ведение переговоров",
+        27
+      ],
+      [
+        "создание контента",
+        20
+      ],
+      [
+        "техническое обслуживание",
+        18
+      ],
+      [
+        "поддержание чистоты",
+        18
+      ],
+      [
+        "анализ рынка",
+        16
+      ],
+      [
+        "деловая коммуникация",
+        16
+      ],
+      [
+        "評価 достижений",
+        15
+      ],
+      [
+        "презентации",
+        12
+      ],
+      [
+        "ведение документооборота",
+        10
+      ]
+    ],
+    "top_project_competencies": [
+      [
+        "разработка чат-ботов",
+        7
+      ],
+      [
+        "Power BI",
+        7
+      ],
+      [
+        "A/B-тестирование",
+        7
+      ],
+      [
+        "языки программирования",
+        6
+      ],
+      [
+        "геймдизайн",
+        5
+      ],
+      [
+        "NLP",
+        5
+      ],
+      [
+        "LLM",
+        5
+      ],
+      [
+        "фреймворки",
+        5
+      ],
+      [
+        "разработка онлайн-курсов",
+        4
+      ],
+      [
+        "базы данных",
+        4
+      ],
+      [
+        "построение ML-моделей",
+        4
+      ],
+      [
+        "Kotlin",
+        2
+      ],
+      [
+        "C#",
+        2
+      ],
+      [
+        "Compose",
+        1
+      ],
+      [
+        "Figma",
+        1
+      ],
+      [
+        "Material design",
+        1
+      ],
+      [
+        "Avalonia",
+        1
+      ],
+      [
+        "Flutter",
+        1
+      ],
+      [
+        "Unity",
+        1
+      ],
+      [
+        "Web",
+        1
+      ]
+    ],
+    "gaps": [
+      {
+        "competency": "Jivo",
+        "demand": 1
+      },
+      {
+        "competency": "WhatsApp",
+        "demand": 2
+      },
+      {
+        "competency": "optimization",
+        "demand": 1
+      },
+      {
+        "competency": "Анализ продаж",
+        "demand": 1
+      },
+      {
+        "competency": "Ведение переговоров",
+        "demand": 1
+      },
+      {
+        "competency": "Заключение договоров",
+        "demand": 1
+      },
+      {
+        "competency": "Контроль выполнения планов",
+        "demand": 1
+      },
+      {
+        "competency": "Организация презентаций",
+        "demand": 1
+      },
+      {
+        "competency": "Работа с возражениями",
+        "demand": 1
+      },
+      {
+        "competency": "Развитие клиентской базы",
+        "demand": 1
+      },
+      {
+        "competency": "адаптация к клиентам",
+        "demand": 1
+      },
+      {
+        "competency": "администрирование",
+        "demand": 1
+      },
+      {
+        "competency": "администрирование сайта",
+        "demand": 1
+      },
+      {
+        "competency": "активные продажи",
+        "demand": 42
+      },
+      {
+        "competency": "активный поиск кандидатов",
+        "demand": 1
+      },
+      {
+        "competency": "анализ бизнес-процессов",
+        "demand": 1
+      },
+      {
+        "competency": "анализ выручки",
+        "demand": 1
+      },
+      {
+        "competency": "анализ потребностей",
+        "demand": 2
+      },
+      {
+        "competency": "анализ проблем",
+        "demand": 1
+      },
+      {
+        "competency": "анализ продаж",
+        "demand": 1
+      },
+      {
+        "competency": "анализ результатов",
+        "demand": 1
+      },
+      {
+        "competency": "анализ рынка",
+        "demand": 16
+      },
+      {
+        "competency": "анализ себестоимости",
+        "demand": 1
+      },
+      {
+        "competency": "анализ финансовых данных",
+        "demand": 2
+      },
+      {
+        "competency": "анализ эффективности",
+        "demand": 5
+      },
+      {
+        "competency": "аналитика эффективности",
+        "demand": 1
+      },
+      {
+        "competency": "аудит",
+        "demand": 1
+      },
+      {
+        "competency": "бухгалтерский учет",
+        "demand": 2
+      },
+      {
+        "competency": "бюджетирование",
+        "demand": 3
+      },
+      {
+        "competency": "ведение CRM",
+        "demand": 7
+      },
+      {
+        "competency": "ведение агентов",
+        "demand": 1
+      },
+      {
+        "competency": "ведение бухгалтерского учета",
+        "demand": 1
+      },
+      {
+        "competency": "ведение бухгалтерской книги",
+        "demand": 1
+      },
+      {
+        "competency": "ведение групп",
+        "demand": 1
+      },
+      {
+        "competency": "ведение документации",
+        "demand": 155
+      },
+      {
+        "competency": "ведение документации по охране труда",
+        "demand": 1
+      },
+      {
+        "competency": "ведение документооборота",
+        "demand": 10
+      },
+      {
+        "competency": "ведение записей",
+        "demand": 9
+      },
+      {
+        "competency": "ведение записи",
+        "demand": 3
+      },
+      {
+        "competency": "ведение записи присутствующих/отсутствующих",
+        "demand": 1
+      },
+      {
+        "competency": "ведение классной книги",
+        "demand": 4
+      },
+      {
+        "competency": "ведение команды",
+        "demand": 10
+      },
+      {
+        "competency": "ведение медицинской документации",
+        "demand": 3
+      },
+      {
+        "competency": "ведение метаданных",
+        "demand": 1
+      },
+      {
+        "competency": "ведение переговоров",
+        "demand": 27
+      },
+      {
+        "competency": "ведение переписки",
+        "demand": 2
+      },
+      {
+        "competency": "ведение проектов",
+        "demand": 1
+      },
+      {
+        "competency": "ведение рекордной книги",
+        "demand": 1
+      },
+      {
+        "competency": "ведение социальных сетей",
+        "demand": 1
+      },
+      {
+        "competency": "ведение статистики",
+        "demand": 1
+      },
+      {
+        "competency": "ведение учебной документации",
+        "demand": 3
+      },
+      {
+        "competency": "ведение чеков",
+        "demand": 8
+      },
+      {
+        "competency": "ведение череды продаж",
+        "demand": 2
+      },
+      {
+        "competency": "ведение электронного журнала",
+        "demand": 2
+      },
+      {
+        "competency": "ведение электронной документации",
+        "demand": 2
+      },
+      {
+        "competency": "взятие тяжестей",
+        "demand": 2
+      },
+      {
+        "competency": "визуализация данных",
+        "demand": 1
+      },
+      {
+        "competency": "влажная уборка",
+        "demand": 1
+      },
+      {
+        "competency": "водоснабжение",
+        "demand": 1
+      },
+      {
+        "competency": "вождение",
+        "demand": 3
+      },
+      {
+        "competency": "выездные работы",
+        "demand": 3
+      },
+      {
+        "competency": "выкладывание товара",
+        "demand": 2
+      },
+      {
+        "competency": "выплата вознаграждения",
+        "demand": 1
+      },
+      {
+        "competency": "выплата денежных средств",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение KPI",
+        "demand": 6
+      },
+      {
+        "competency": "выполнение ТЗ",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение задач",
+        "demand": 1
+      },
+      {
+        "competency": "выполнение медицинских протоколов",
+        "demand": 2
+      },
+      {
+        "competency": "выполнение медицинских стандартов",
+        "demand": 1
+      },
+      {
+        "competency": "выпуск контента",
+        "demand": 1
+      },
+      {
+        "competency": "выпуск медицинского образования",
+        "demand": 1
+      },
+      {
+        "competency": "выпуск пресс-релизов",
+        "demand": 1
+      },
+      {
+        "competency": "выставление счетов",
+        "demand": 1
+      },
+      {
+        "competency": "вычеты за медицинское обслуживание",
+        "demand": 1
+      },
+      {
+        "competency": "вычеты по законодательно установленным нормативам",
+        "demand": 1
+      },
+      {
+        "competency": "выявление неисправностей",
+        "demand": 1
+      },
+      {
+        "competency": "выявление причин ошибок",
+        "demand": 1
+      },
+      {
+        "competency": "дезинфекция",
+        "demand": 2
+      },
+      {
+        "competency": "деловая документация",
+        "demand": 1
+      },
+      {
+        "competency": "деловая коммуникация",
+        "demand": 16
+      },
+      {
+        "competency": "диагностика",
+        "demand": 1
+      },
+      {
+        "competency": "дизайн продукта",
+        "demand": 1
+      },
+      {
+        "competency": "документальное оформление",
+        "demand": 1
+      },
+      {
+        "competency": "документация",
+        "demand": 1
+      },
+      {
+        "competency": "документооборот",
+        "demand": 2
+      },
+      {
+        "competency": "древесный шпунг",
+        "demand": 8
+      },
+      {
+        "competency": "запись медицинской документации",
+        "demand": 1
+      },
+      {
+        "competency": "инвентаризация",
+        "demand": 1
+      },
+      {
+        "competency": "классное руководство",
+        "demand": 50
+      },
+      {
+        "competency": "коммуникации с прессой",
+        "demand": 1
+      },
+      {
+        "competency": "коммуникация",
+        "demand": 7
+      },
+      {
+        "competency": "коммуникация с командами",
+        "demand": 1
+      },
+      {
+        "competency": "коммуникация с командой",
+        "demand": 1
+      },
+      {
+        "competency": "коммуникация с родителями",
+        "demand": 9
+      },
+      {
+        "competency": "коммуникация с сотрудниками",
+        "demand": 1
+      },
+      {
+        "competency": "конкурентное анализ",
+        "demand": 1
+      },
+      {
+        "competency": "консультации",
+        "demand": 5
+      },
+      {
+        "competency": "консультации по вопросам ЖКУ",
+        "demand": 1
+      },
+      {
+        "competency": "консультации по налоговому законодательству",
+        "demand": 1
+      },
+      {
+        "competency": "консультации с другими специалистами",
+        "demand": 3
+      },
+      {
+        "competency": "консультации с пациентами",
+        "demand": 1
+      },
+      {
+        "competency": "консультация",
+        "demand": 9
+      },
+      {
+        "competency": "консультация клиентов",
+        "demand": 2
+      },
+      {
+        "competency": "консультация пользователей",
+        "demand": 2
+      },
+      {
+        "competency": "консультация с клиентами",
+        "demand": 5
+      },
+      {
+        "competency": "консультациям клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "консультирование",
+        "demand": 40
+      },
+      {
+        "competency": "консультирование клиентов",
+        "demand": 2
+      },
+      {
+        "competency": "консультирование по вопросам охраны труда",
+        "demand": 1
+      },
+      {
+        "competency": "контент-маркетинг",
+        "demand": 1
+      },
+      {
+        "competency": "контроль",
+        "demand": 1
+      },
+      {
+        "competency": "контроль за медицинским оборудованием",
+        "demand": 1
+      },
+      {
+        "competency": "контроль сроков",
+        "demand": 1
+      },
+      {
+        "competency": "конференц-связь",
+        "demand": 1
+      },
+      {
+        "competency": "конфликтология",
+        "demand": 4
+      },
+      {
+        "competency": "копирайтинг",
+        "demand": 7
+      },
+      {
+        "competency": "креативный подход",
+        "demand": 1
+      },
+      {
+        "competency": "лидерство",
+        "demand": 6
+      },
+      {
+        "competency": "лидинг",
+        "demand": 4
+      },
+      {
+        "competency": "манипуляции с детьми",
+        "demand": 1
+      },
+      {
+        "competency": "манипуляции с предметами",
+        "demand": 1
+      },
+      {
+        "competency": "маркетинг",
+        "demand": 3
+      },
+      {
+        "competency": "медиа-отчетирование",
+        "demand": 1
+      },
+      {
+        "competency": "медийакоммуникации",
+        "demand": 1
+      },
+      {
+        "competency": "медийатрис",
+        "demand": 1
+      },
+      {
+        "competency": "медийный образование",
+        "demand": 1
+      },
+      {
+        "competency": "медийный центр",
+        "demand": 3
+      },
+      {
+        "competency": "медицинские осмотры",
+        "demand": 1
+      },
+      {
+        "competency": "мелкий ремонт",
+        "demand": 8
+      },
+      {
+        "competency": "менеджмент",
+        "demand": 1
+      },
+      {
+        "competency": "механическая работа",
+        "demand": 1
+      },
+      {
+        "competency": "моделирование",
+        "demand": 1
+      },
+      {
+        "competency": "модерация контента",
+        "demand": 1
+      },
+      {
+        "competency": "мойка посуды",
+        "demand": 1
+      },
+      {
+        "competency": "мониторинг состояния пациентов",
+        "demand": 1
+      },
+      {
+        "competency": "монтаж",
+        "demand": 2
+      },
+      {
+        "competency": "монтаж видео",
+        "demand": 1
+      },
+      {
+        "competency": "монтаж оборудования",
+        "demand": 2
+      },
+      {
+        "competency": "мотивация",
+        "demand": 1
+      },
+      {
+        "competency": "наладка",
+        "demand": 1
+      },
+      {
+        "competency": "написание ТЗ",
+        "demand": 2
+      },
+      {
+        "competency": "написание инструкций",
+        "demand": 1
+      },
+      {
+        "competency": "настройка оборудования",
+        "demand": 4
+      },
+      {
+        "competency": "обработка входящих заявок",
+        "demand": 2
+      },
+      {
+        "competency": "обработка входящих телефонных звонков",
+        "demand": 1
+      },
+      {
+        "competency": "обработка заявок",
+        "demand": 6
+      },
+      {
+        "competency": "обслуживание клиентов",
+        "demand": 1
+      },
+      {
+        "competency": "организация мероприятий",
+        "demand": 4
+      },
+      {
+        "competency": "организация рабочего процесса",
+        "demand": 1
+      },
+      {
+        "competency": "осмотр автомобиля",
+        "demand": 1
+      },
+      {
+        "competency": "осмотр оборудования",
+        "demand": 6
+      },
+      {
+        "competency": "осмотр пациентов",
+        "demand": 2
+      },
+      {
+        "competency": "осмотр помещений",
+        "demand": 1
+      },
+      {
+        "competency": "осмотр рабочего места",
+        "demand": 1
+      },
+      {
+        "competency": "осмотр электрооборудования",
+        "demand": 1
+      },
+      {
+        "competency": "осознанное взаимодействие",
+        "demand": 1
+      },
+      {
+        "competency": "осуществление контроля",
+        "demand": 1
+      },
+      {
+        "competency": "осуществление контроля за соблюдением нормативных требований охраны труда",
+        "demand": 1
+      },
+      {
+        "competency": "осуществление уборки",
+        "demand": 1
+      },
+      {
+        "competency": "ответственность",
+        "demand": 1
+      },
+      {
+        "competency": "ответы на комментарии",
+        "demand": 1
+      },
+      {
+        "competency": "отчетность",
+        "demand": 4
+      },
+      {
+        "competency": "оценка результатов",
+        "demand": 7
+      },
+      {
+        "competency": "оценка успеваемости",
+        "demand": 49
+      },
+      {
+        "competency": "оценка учебных результатов",
+        "demand": 1
+      },
+      {
+        "competency": "оценка эффективности",
+        "demand": 1
+      },
+      {
+        "competency": "педagogical management",
+        "demand": 1
+      },
+      {
+        "competency": "педагогический контроль",
+        "demand": 2
+      },
+      {
+        "competency": "перемещение мебели",
+        "demand": 1
+      },
+      {
+        "competency": "перенос оборудования",
+        "demand": 2
+      },
+      {
+        "competency": "переписка с клиентами",
+        "demand": 1
+      },
+      {
+        "competency": "планирование",
+        "demand": 1
+      },
+      {
+        "competency": "планирование маркетинговых кампаний",
+        "demand": 1
+      },
+      {
+        "competency": "планирование уроков",
+        "demand": 28
+      },
+      {
+        "competency": "планирование учебного времени",
+        "demand": 2
+      },
+      {
+        "competency": "планирование учебного процесса",
+        "demand": 5
+      },
+      {
+        "competency": "подготовка блюд",
+        "demand": 1
+      },
+      {
+        "competency": "подготовка бухгалтерской отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "подготовка контрактов",
+        "demand": 1
+      },
+      {
+        "competency": "подготовка медицинских отчетов",
+        "demand": 1
+      },
+      {
+        "competency": "подготовка презентаций",
+        "demand": 1
+      },
+      {
+        "competency": "подготовка учебных материалов",
+        "demand": 2
+      },
+      {
+        "competency": "поддержание чистоты",
+        "demand": 18
+      },
+      {
+        "competency": "подключение услуг",
+        "demand": 2
+      },
+      {
+        "competency": "подметание площадей",
+        "demand": 1
+      },
+      {
+        "competency": "подметание территории",
+        "demand": 1
+      },
+      {
+        "competency": "поиск решений",
+        "demand": 1
+      },
+      {
+        "competency": "презентации",
+        "demand": 12
+      },
+      {
+        "competency": "презентация",
+        "demand": 1
+      },
+      {
+        "competency": "презентация продукта",
+        "demand": 1
+      },
+      {
+        "competency": "презентация продуктов",
+        "demand": 2
+      },
+      {
+        "competency": "преподавание",
+        "demand": 8
+      },
+      {
+        "competency": "преподавание бухгалтерского учета",
+        "demand": 1
+      },
+      {
+        "competency": "преподавание информатики",
+        "demand": 1
+      },
+      {
+        "competency": "преподавание русского языка",
+        "demand": 1
+      },
+      {
+        "competency": "преподавание русского языка и литературы",
+        "demand": 1
+      },
+      {
+        "competency": "преподавание школьной программы",
+        "demand": 1
+      },
+      {
+        "competency": "приготовление блюд",
+        "demand": 1
+      },
+      {
+        "competency": "приготовление пищи",
+        "demand": 1
+      },
+      {
+        "competency": "прием денежных средств",
+        "demand": 1
+      },
+      {
+        "competency": "прием и распределение корреспонденции",
+        "demand": 1
+      },
+      {
+        "competency": "проведение ЭКЗ/итоговых работ",
+        "demand": 1
+      },
+      {
+        "competency": "проведение амбулаторных осмотров",
+        "demand": 1
+      },
+      {
+        "competency": "проведение амбулаторных приемов",
+        "demand": 1
+      },
+      {
+        "competency": "проведение анализа",
+        "demand": 1
+      },
+      {
+        "competency": "проведение анализов",
+        "demand": 1
+      },
+      {
+        "competency": "проведение аудита",
+        "demand": 1
+      },
+      {
+        "competency": "проведение встреч",
+        "demand": 1
+      },
+      {
+        "competency": "проведение диагностик",
+        "demand": 1
+      },
+      {
+        "competency": "проведение домашней работы",
+        "demand": 2
+      },
+      {
+        "competency": "проведение занятий",
+        "demand": 50
+      },
+      {
+        "competency": "проведение занятий по физкультуре",
+        "demand": 1
+      },
+      {
+        "competency": "проведение инвентаризации",
+        "demand": 4
+      },
+      {
+        "competency": "проведение инвентаризаций",
+        "demand": 1
+      },
+      {
+        "competency": "проведение консультаций",
+        "demand": 1
+      },
+      {
+        "competency": "проведение контрольных и итоговых работ",
+        "demand": 1
+      },
+      {
+        "competency": "проведение контрольных/практических работ",
+        "demand": 2
+      },
+      {
+        "competency": "проведение контрольных/экзаменных работ",
+        "demand": 1
+      },
+      {
+        "competency": "проведение медицинских осмотров",
+        "demand": 1
+      },
+      {
+        "competency": "проведение медицинских осмотров, Консультации пациентов, Ведение медицинской документации, Регистрация пациентов, Обработка данных, Анализ эффективности, Управление командой",
+        "demand": 1
+      },
+      {
+        "competency": "проведение медицинских процедур",
+        "demand": 1
+      },
+      {
+        "competency": "проведение налоговой отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "проведение обучения и тренировок по охране труда",
+        "demand": 1
+      },
+      {
+        "competency": "проведение оценки",
+        "demand": 1
+      },
+      {
+        "competency": "проведение оценки достижений",
+        "demand": 1
+      },
+      {
+        "competency": "проведение оценки успеваемости",
+        "demand": 1
+      },
+      {
+        "competency": "проведение оценок",
+        "demand": 2
+      },
+      {
+        "competency": "проведение презентаций",
+        "demand": 1
+      },
+      {
+        "competency": "проведение профессиональной оценки условий труда",
+        "demand": 1
+      },
+      {
+        "competency": "проведение психологических сеансов",
+        "demand": 1
+      },
+      {
+        "competency": "проведение регистрации",
+        "demand": 1
+      },
+      {
+        "competency": "проведение собеседований",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков английского языка",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков для детей",
+        "demand": 2
+      },
+      {
+        "competency": "проведение уроков для разных возрастных групп",
+        "demand": 2
+      },
+      {
+        "competency": "проведение уроков для разных уровней обучения",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков для студентов",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков информатики",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков математики",
+        "demand": 4
+      },
+      {
+        "competency": "проведение уроков по математике",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков по предмету",
+        "demand": 3
+      },
+      {
+        "competency": "проведение уроков по программе",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков по психологии",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков по своей специальности",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков по физике",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков русского языка и литературы",
+        "demand": 3
+      },
+      {
+        "competency": "проведение уроков с учетом специфики преподавания в онлайн-режиме",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков физики",
+        "demand": 2
+      },
+      {
+        "competency": "проведение уроков физкультуры",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий",
+        "demand": 49
+      },
+      {
+        "competency": "проведение уроков/занятий онлайн",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий с детьми",
+        "demand": 8
+      },
+      {
+        "competency": "проведение уроков/занятий с учетом индивидуальных навыков и темпа обучения",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий с учетом психолого-физиологических особенностей обучающихся",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий с учетом различия в обучаемости и hızа",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий с учетом различия в обучаемости и обучении",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий с учетом специфики предмета",
+        "demand": 1
+      },
+      {
+        "competency": "проведение уроков/занятий с учетом специфики преподаваемого предмета",
+        "demand": 7
+      },
+      {
+        "competency": "проведение уроковой документации",
+        "demand": 1
+      },
+      {
+        "competency": "проведение эвакуации обучающихся",
+        "demand": 1
+      },
+      {
+        "competency": "проведение экзаменов/проверок",
+        "demand": 2
+      },
+      {
+        "competency": "проверка электрооборудования",
+        "demand": 1
+      },
+      {
+        "competency": "продакт-презентации",
+        "demand": 1
+      },
+      {
+        "competency": "продвижение в социальных сетях",
+        "demand": 1
+      },
+      {
+        "competency": "продвижение в соцсетях",
+        "demand": 1
+      },
+      {
+        "competency": "работа в 4 руки",
+        "demand": 1
+      },
+      {
+        "competency": "работа в MS Excel",
+        "demand": 1
+      },
+      {
+        "competency": "работа в команде",
+        "demand": 2
+      },
+      {
+        "competency": "работа с 1С",
+        "demand": 1
+      },
+      {
+        "competency": "работа с IT-системами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с ПК",
+        "demand": 2
+      },
+      {
+        "competency": "работа с базами данных",
+        "demand": 2
+      },
+      {
+        "competency": "работа с базой данных",
+        "demand": 2
+      },
+      {
+        "competency": "работа с бухгалтерским учетом",
+        "demand": 1
+      },
+      {
+        "competency": "работа с возражениями",
+        "demand": 5
+      },
+      {
+        "competency": "работа с входящими заявками",
+        "demand": 1
+      },
+      {
+        "competency": "работа с выкладкой",
+        "demand": 8
+      },
+      {
+        "competency": "работа с выписками",
+        "demand": 1
+      },
+      {
+        "competency": "работа с группами",
+        "demand": 6
+      },
+      {
+        "competency": "работа с даними",
+        "demand": 4
+      },
+      {
+        "competency": "работа с данными",
+        "demand": 2
+      },
+      {
+        "competency": "работа с дебиторской задолженностью",
+        "demand": 9
+      },
+      {
+        "competency": "работа с детьми",
+        "demand": 100
+      },
+      {
+        "competency": "работа с детьми/взращденными",
+        "demand": 1
+      },
+      {
+        "competency": "работа с документами",
+        "demand": 6
+      },
+      {
+        "competency": "работа с документацией",
+        "demand": 1
+      },
+      {
+        "competency": "работа с документооборотом",
+        "demand": 1
+      },
+      {
+        "competency": "работа с заказами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с инвентарем",
+        "demand": 3
+      },
+      {
+        "competency": "работа с инструментами аналитики",
+        "demand": 1
+      },
+      {
+        "competency": "работа с инструментом",
+        "demand": 8
+      },
+      {
+        "competency": "работа с кассовым аппаратом",
+        "demand": 10
+      },
+      {
+        "competency": "работа с клиентами",
+        "demand": 75
+      },
+      {
+        "competency": "работа с командами",
+        "demand": 7
+      },
+      {
+        "competency": "работа с конфликтами",
+        "demand": 2
+      },
+      {
+        "competency": "работа с кредиторской задолженностью",
+        "demand": 1
+      },
+      {
+        "competency": "работа с машинами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с моющими средствами",
+        "demand": 4
+      },
+      {
+        "competency": "работа с мультимедийным оборудованием",
+        "demand": 1
+      },
+      {
+        "competency": "работа с налоговой",
+        "demand": 1
+      },
+      {
+        "competency": "работа с налоговой отчетностью",
+        "demand": 1
+      },
+      {
+        "competency": "работа с оборудованием",
+        "demand": 3
+      },
+      {
+        "competency": "работа с обращениями",
+        "demand": 1
+      },
+      {
+        "competency": "работа с пациентами",
+        "demand": 6
+      },
+      {
+        "competency": "работа с персоналом",
+        "demand": 1
+      },
+      {
+        "competency": "работа с поставщиками",
+        "demand": 2
+      },
+      {
+        "competency": "работа с продажами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с продуктами",
+        "demand": 2
+      },
+      {
+        "competency": "работа с рецептурами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с родителями",
+        "demand": 38
+      },
+      {
+        "competency": "работа с сообществами",
+        "demand": 3
+      },
+      {
+        "competency": "работа с социальными сетями",
+        "demand": 6
+      },
+      {
+        "competency": "работа с средствами массовой информации",
+        "demand": 1
+      },
+      {
+        "competency": "работа с товаром",
+        "demand": 2
+      },
+      {
+        "competency": "работа с финансами",
+        "demand": 1
+      },
+      {
+        "competency": "работа с фотографированием",
+        "demand": 1
+      },
+      {
+        "competency": "работа с щеточным оборудованием",
+        "demand": 1
+      },
+      {
+        "competency": "работа с электронной почтой",
+        "demand": 1
+      },
+      {
+        "competency": "работа с электрооборудованием",
+        "demand": 1
+      },
+      {
+        "competency": "размещение заказов",
+        "demand": 1
+      },
+      {
+        "competency": "разработка ПО",
+        "demand": 1
+      },
+      {
+        "competency": "разработка и реализация безопасности",
+        "demand": 1
+      },
+      {
+        "competency": "разработка и реализация мероприятий по повышению уровня охраны труда",
+        "demand": 1
+      },
+      {
+        "competency": "разработка и реализация мероприятий, организация и проведение мероприятий, взаимодействие с прессой, подготовка и выдача пресс-релизов, размещение контента, социальные медиа, коммуникации с общественностью",
+        "demand": 1
+      },
+      {
+        "competency": "разработка и реализация образовательных программ",
+        "demand": 1
+      },
+      {
+        "competency": "разработка и реализация политики охраны труда",
+        "demand": 1
+      },
+      {
+        "competency": "разработка индивидуальных планов лечения",
+        "demand": 1
+      },
+      {
+        "competency": "разработка контента",
+        "demand": 5
+      },
+      {
+        "competency": "разработка на 1C",
+        "demand": 6
+      },
+      {
+        "competency": "разработка на 1С",
+        "demand": 5
+      },
+      {
+        "competency": "разработка на ТО",
+        "demand": 1
+      },
+      {
+        "competency": "разработка наставника",
+        "demand": 1
+      },
+      {
+        "competency": "разработка пользовательского опыта",
+        "demand": 1
+      },
+      {
+        "competency": "разработка предложений",
+        "demand": 1
+      },
+      {
+        "competency": "разработка продуктов питания",
+        "demand": 1
+      },
+      {
+        "competency": "разработка рецептур",
+        "demand": 1
+      },
+      {
+        "competency": "разработка сценариев",
+        "demand": 1
+      },
+      {
+        "competency": "разработка учебных планов",
+        "demand": 1
+      },
+      {
+        "competency": "разработка учебных планов-графиков",
+        "demand": 1
+      },
+      {
+        "competency": "разработка учебных программ",
+        "demand": 1
+      },
+      {
+        "competency": "рассмотрение заявок",
+        "demand": 1
+      },
+      {
+        "competency": "рассмотрение комментариев",
+        "demand": 1
+      },
+      {
+        "competency": "рассмотрение обратной связи",
+        "demand": 1
+      },
+      {
+        "competency": "расчет зарплаты",
+        "demand": 1
+      },
+      {
+        "competency": "реализация образовательных программ",
+        "demand": 1
+      },
+      {
+        "competency": "регистрация транзакций",
+        "demand": 1
+      },
+      {
+        "competency": "ремонт",
+        "demand": 5
+      },
+      {
+        "competency": "ремонт оборудования",
+        "demand": 1
+      },
+      {
+        "competency": "ремонт электрооборудования",
+        "demand": 1
+      },
+      {
+        "competency": "ресурсное планирование",
+        "demand": 2
+      },
+      {
+        "competency": "санитарная книжка",
+        "demand": 1
+      },
+      {
+        "competency": "санитарная обработка",
+        "demand": 2
+      },
+      {
+        "competency": "санитарная эксплуатация",
+        "demand": 1
+      },
+      {
+        "competency": "санитарный контроль",
+        "demand": 1
+      },
+      {
+        "competency": "сбережение воды",
+        "demand": 1
+      },
+      {
+        "competency": "сбор анамнеза",
+        "demand": 1
+      },
+      {
+        "competency": "сверка расчетов",
+        "demand": 1
+      },
+      {
+        "competency": "связь с клиентами",
+        "demand": 1
+      },
+      {
+        "competency": "связь с населением",
+        "demand": 1
+      },
+      {
+        "competency": "связь с персоналом",
+        "demand": 1
+      },
+      {
+        "competency": "сервис",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение Технических регламентов",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение правил безопасности",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение регламента",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение санитарно-гигиенических норм",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение санитарных норм",
+        "demand": 1
+      },
+      {
+        "competency": "соблюдение техники безопасности",
+        "demand": 3
+      },
+      {
+        "competency": "собране мусора",
+        "demand": 1
+      },
+      {
+        "competency": "содержание территории в чистоте",
+        "demand": 1
+      },
+      {
+        "competency": "создание бухгалтерской отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "создание инструкций",
+        "demand": 1
+      },
+      {
+        "competency": "создание контента",
+        "demand": 20
+      },
+      {
+        "competency": "сопровождение 1С",
+        "demand": 2
+      },
+      {
+        "competency": "составление ТЗ",
+        "demand": 1
+      },
+      {
+        "competency": "составление отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "статистический анализ",
+        "demand": 1
+      },
+      {
+        "competency": "стерилизация",
+        "demand": 1
+      },
+      {
+        "competency": "стрижка газонов",
+        "demand": 1
+      },
+      {
+        "competency": "сухая уборка",
+        "demand": 1
+      },
+      {
+        "competency": "счетоводство",
+        "demand": 2
+      },
+      {
+        "competency": "телевизия",
+        "demand": 3
+      },
+      {
+        "competency": "телеграмм",
+        "demand": 2
+      },
+      {
+        "competency": "телеграмм-боты",
+        "demand": 1
+      },
+      {
+        "competency": "телеграмм-работа",
+        "demand": 1
+      },
+      {
+        "competency": "телеграмм/мессенджеры",
+        "demand": 1
+      },
+      {
+        "competency": "телекоммуникации",
+        "demand": 1
+      },
+      {
+        "competency": "телемаркетинг",
+        "demand": 1
+      },
+      {
+        "competency": "телетерапия",
+        "demand": 3
+      },
+      {
+        "competency": "телефонные переговоры",
+        "demand": 6
+      },
+      {
+        "competency": "теплоснабжение",
+        "demand": 1
+      },
+      {
+        "competency": "тестирование",
+        "demand": 2
+      },
+      {
+        "competency": "тестирование доработок",
+        "demand": 1
+      },
+      {
+        "competency": "тестирование оборудования",
+        "demand": 1
+      },
+      {
+        "competency": "техническая поддержка",
+        "demand": 4
+      },
+      {
+        "competency": "техническое обслуживание",
+        "demand": 18
+      },
+      {
+        "competency": "технологический руководство",
+        "demand": 1
+      },
+      {
+        "competency": "трактование результатов",
+        "demand": 1
+      },
+      {
+        "competency": "тракторное хозяйство",
+        "demand": 1
+      },
+      {
+        "competency": "трансляции",
+        "demand": 1
+      },
+      {
+        "competency": "трудогонная подготовка",
+        "demand": 1
+      },
+      {
+        "competency": "уборка",
+        "demand": 1
+      },
+      {
+        "competency": "уборка дворников",
+        "demand": 1
+      },
+      {
+        "competency": "уборка кабинетов",
+        "demand": 1
+      },
+      {
+        "competency": "уборка листьев",
+        "demand": 2
+      },
+      {
+        "competency": "уборка мусора",
+        "demand": 3
+      },
+      {
+        "competency": "уборка помещений",
+        "demand": 4
+      },
+      {
+        "competency": "уборка рабочего места",
+        "demand": 1
+      },
+      {
+        "competency": "уборка снега",
+        "demand": 1
+      },
+      {
+        "competency": "уборка территории",
+        "demand": 4
+      },
+      {
+        "competency": "устранение неисправностей",
+        "demand": 2
+      },
+      {
+        "competency": "устранение неполадок",
+        "demand": 1
+      },
+      {
+        "competency": "устранение повреждений",
+        "demand": 2
+      },
+      {
+        "competency": "фиксация в журналах",
+        "demand": 1
+      },
+      {
+        "competency": "фиксация обратной связи",
+        "demand": 1
+      },
+      {
+        "competency": "финансовый анализ",
+        "demand": 6
+      },
+      {
+        "competency": "финансовый контроль",
+        "demand": 2
+      },
+      {
+        "competency": "эvaluация успеваемости",
+        "demand": 1
+      },
+      {
+        "competency": "экономические расчеты",
+        "demand": 2
+      },
+      {
+        "competency": "экономический анализ",
+        "demand": 2
+      },
+      {
+        "competency": "экономия времени",
+        "demand": 1
+      },
+      {
+        "competency": "экономия затрат",
+        "demand": 1
+      },
+      {
+        "competency": "экономия энергии",
+        "demand": 2
+      },
+      {
+        "competency": "экономия энергоресурсов",
+        "demand": 4
+      },
+      {
+        "competency": "экспертиза бухгалтерской отчетности",
+        "demand": 1
+      },
+      {
+        "competency": "эксплуатация",
+        "demand": 1
+      },
+      {
+        "competency": "электробезопасность",
+        "demand": 1
+      },
+      {
+        "competency": "評価 достижений",
+        "demand": 15
+      }
+    ]
+  },
+  "LegalTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "ML",
+        1
+      ],
+      [
+        "NLP",
+        1
+      ],
+      [
+        "LLM",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "SQL",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment/EdTech/EnterpriseSoftware/HRTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "использование веб-технологий",
+        1
+      ],
+      [
+        "поддержка REST API для интеграции с корпоративными системами",
+        1
+      ],
+      [
+        "возможность работы офлайн с последующей синхронизацией",
+        1
+      ],
+      [
+        "веб-разработка (frontend + backend)",
+        1
+      ],
+      [
+        "работа с базами данных и справочниками",
+        1
+      ],
+      [
+        "проектирование пользовательского интерфейса",
+        1
+      ],
+      [
+        "основы бережливого производства",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/AnalyticsBI/HRTech/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Java",
+        2
+      ],
+      [
+        "Python",
+        2
+      ],
+      [
+        "NodeJs",
+        2
+      ],
+      [
+        "Go",
+        2
+      ],
+      [
+        "React",
+        2
+      ],
+      [
+        "Angular",
+        2
+      ],
+      [
+        "Kotlin",
+        2
+      ],
+      [
+        "Swift",
+        2
+      ],
+      [
+        "СУБД",
+        2
+      ],
+      [
+        "ML",
+        2
+      ]
+    ],
+    "gaps": []
+  },
+  "VR/3D Modeling": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "C#",
+        1
+      ],
+      [
+        "Unity",
+        1
+      ],
+      [
+        "MetaXR Core",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/AnalyticsBI": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "C#",
+        1
+      ],
+      [
+        ".Net",
+        1
+      ],
+      [
+        "Directum RX",
+        1
+      ],
+      [
+        "FastReport",
+        1
+      ],
+      [
+        "XML/XSD",
+        1
+      ],
+      [
+        "testирование",
+        1
+      ],
+      [
+        "PHP",
+        1
+      ],
+      [
+        "Java",
+        1
+      ],
+      [
+        "JS",
+        1
+      ],
+      [
+        "LLM-модели",
+        1
+      ],
+      [
+        "API",
+        1
+      ],
+      [
+        "ТЗ",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EcoTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "разработка мобильных приложений",
+        1
+      ],
+      [
+        "разработка веб-платформ",
+        1
+      ],
+      [
+        "работа с базами данных",
+        1
+      ],
+      [
+        "разработка систем мониторинга",
+        1
+      ],
+      [
+        "разработка онлайн-курсов",
+        1
+      ],
+      [
+        "работа с Power BI",
+        1
+      ],
+      [
+        "разработка чат-ботов",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "WebDevelopment": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        3
+      ],
+      [
+        "PowerBuild",
+        2
+      ],
+      [
+        "Power.inpad.store",
+        2
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Power",
+        1
+      ],
+      [
+        "PowerBuild — это специализированный онлайн-сервис, реализованный на сайте power.inpad.store",
+        1
+      ],
+      [
+        "WebDevelopment",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "API",
+        1
+      ],
+      [
+        "JSON",
+        1
+      ],
+      [
+        "SQL",
+        1
+      ],
+      [
+        "Crossref",
+        1
+      ],
+      [
+        "OpenAlex",
+        1
+      ],
+      [
+        "Google Scholar",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "EdTech/PropTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "typescript",
+        2
+      ],
+      [
+        "docker",
+        2
+      ],
+      [
+        "c#",
+        2
+      ],
+      [
+        "react",
+        2
+      ],
+      [
+        "postgresql",
+        2
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "Cascade Haar",
+        1
+      ],
+      [
+        "PostgreSQL",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AnalyticsBI/ChatBots/EdTech/FinTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Telegram",
+        1
+      ],
+      [
+        "API",
+        1
+      ],
+      [
+        "платежные системы",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ],
+      [
+        "геймдизайн",
+        1
+      ],
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "TypeScript",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "React",
+        1
+      ],
+      [
+        "Vue",
+        1
+      ],
+      [
+        "Node.js",
+        1
+      ],
+      [
+        "Django",
+        1
+      ],
+      [
+        "Docker",
+        1
+      ],
+      [
+        "Postman",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "1CDevelopment/ChatBots/EnterpriseSoftware": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "1C",
+        1
+      ],
+      [
+        "Power BI",
+        1
+      ],
+      [
+        "Python",
+        1
+      ]
+    ],
+    "gaps": []
+  },
+  "AI/AnalyticsBI/EdTech": {
+    "top_industry_competencies": [],
+    "top_project_competencies": [
+      [
+        "Power BI",
+        2
+      ],
+      [
+        "NLP",
+        2
+      ],
+      [
+        "LLM",
+        2
+      ],
+      [
+        "Windows",
+        1
+      ],
+      [
+        "Astra Linux",
+        1
+      ],
+      [
+        "ML/AI",
+        1
+      ],
+      [
+        "OCR",
+        1
+      ],
+      [
+        "Python",
+        1
+      ],
+      [
+        "FastAPI",
+        1
+      ],
+      [
+        "ML",
+        1
+      ],
+      [
+        "A/B-тестирование",
+        1
+      ]
+    ],
+    "gaps": []
+  }
+}

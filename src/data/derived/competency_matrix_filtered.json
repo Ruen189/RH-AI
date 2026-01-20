@@ -1,17 +1,52 @@
 [
   {
     "industry": "1CDevelopment",
-    "competency": "Power BI",
+    "competency": "1C",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "1CDevelopment",
-    "competency": "SQL",
-    "demand": 1,
-    "supply": 0,
-    "status": "gap"
+    "competency": "1C:Документооборот",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "Excel",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "1CDevelopment",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
   },
   {
     "industry": "3D Modeling",
@@ -25,6 +60,20 @@
     "competency": "Unity",
     "demand": 0,
     "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "1C:Документооборот",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "Angular",
+    "demand": 0,
+    "supply": 2,
     "status": "redundant"
   },
   {
@@ -43,6 +92,13 @@
   },
   {
     "industry": "AI",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
     "competency": "HTML",
     "demand": 0,
     "supply": 1,
@@ -52,7 +108,7 @@
     "industry": "AI",
     "competency": "Java",
     "demand": 0,
-    "supply": 1,
+    "supply": 4,
     "status": "redundant"
   },
   {
@@ -64,16 +120,23 @@
   },
   {
     "industry": "AI",
-    "competency": "ML",
+    "competency": "Kotlin",
     "demand": 0,
     "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "AI",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 10,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
     "competency": "NLP",
     "demand": 0,
-    "supply": 7,
+    "supply": 11,
     "status": "redundant"
   },
   {
@@ -94,22 +157,64 @@
     "industry": "AI",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 4,
+    "supply": 7,
     "status": "redundant"
   },
   {
     "industry": "AI",
     "competency": "Python",
     "demand": 1,
-    "supply": 5,
+    "supply": 9,
     "status": "match"
   },
   {
     "industry": "AI",
+    "competency": "React",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
     "competency": "SQL",
-    "demand": 1,
+    "demand": 2,
     "supply": 0,
     "status": "gap"
+  },
+  {
+    "industry": "AI",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AI",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AgriTech",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AgriTech",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Angular",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
@@ -134,6 +239,13 @@
   },
   {
     "industry": "AnalyticsBI",
+    "competency": "Excel",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
     "competency": "FastAPI",
     "demand": 0,
     "supply": 1,
@@ -141,37 +253,65 @@
   },
   {
     "industry": "AnalyticsBI",
-    "competency": "Java",
+    "competency": "Go",
     "demand": 0,
     "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 5,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
     "competency": "JavaScript",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
     "competency": "Kotlin",
     "demand": 0,
-    "supply": 2,
+    "supply": 4,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
-    "competency": "NLP",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "MongoDB",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
+    "competency": "MySQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "AnalyticsBI",
     "competency": "Node.js",
     "demand": 0,
-    "supply": 2,
+    "supply": 3,
     "status": "redundant"
   },
   {
@@ -185,29 +325,29 @@
     "industry": "AnalyticsBI",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 9,
+    "supply": 20,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
     "competency": "Python",
     "demand": 0,
-    "supply": 4,
+    "supply": 12,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
     "competency": "React",
     "demand": 0,
-    "supply": 3,
+    "supply": 5,
     "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
-    "competency": "SQL",
-    "demand": 2,
-    "supply": 0,
-    "status": "gap"
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
   },
   {
     "industry": "AnalyticsBI",
@@ -224,6 +364,20 @@
     "status": "redundant"
   },
   {
+    "industry": "Automation",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Automation",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
     "industry": "BrowserExtensions",
     "competency": "JavaScript",
     "demand": 0,
@@ -231,15 +385,43 @@
     "status": "redundant"
   },
   {
-    "industry": "ChatBots",
-    "competency": "C#",
+    "industry": "BrowserExtensions",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "BrowserExtensions",
+    "competency": "TypeScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBot",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBot",
+    "competency": "Python",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "ChatBots",
-    "competency": "CSS",
+    "competency": "1C",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ChatBots",
+    "competency": "C#",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -260,21 +442,7 @@
   },
   {
     "industry": "ChatBots",
-    "competency": "Excel",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "ChatBots",
     "competency": "Figma",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "ChatBots",
-    "competency": "HTML",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -283,12 +451,12 @@
     "industry": "ChatBots",
     "competency": "JavaScript",
     "demand": 0,
-    "supply": 3,
+    "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "ChatBots",
-    "competency": "MySQL",
+    "competency": "ML",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -297,7 +465,7 @@
     "industry": "ChatBots",
     "competency": "NLP",
     "demand": 0,
-    "supply": 1,
+    "supply": 6,
     "status": "redundant"
   },
   {
@@ -311,14 +479,14 @@
     "industry": "ChatBots",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 4,
+    "supply": 9,
     "status": "redundant"
   },
   {
     "industry": "ChatBots",
     "competency": "Python",
     "demand": 0,
-    "supply": 4,
+    "supply": 6,
     "status": "redundant"
   },
   {
@@ -364,6 +532,34 @@
     "status": "redundant"
   },
   {
+    "industry": "Cybersecurity",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Decision Support",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Developer Tools",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Developer Tools",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
     "industry": "Digital Signage",
     "competency": ".NET",
     "demand": 0,
@@ -385,8 +581,8 @@
     "status": "redundant"
   },
   {
-    "industry": "ECommerce",
-    "competency": "Django",
+    "industry": "E-Commerce",
+    "competency": "Power BI",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -395,19 +591,12 @@
     "industry": "ECommerce",
     "competency": "NLP",
     "demand": 0,
-    "supply": 2,
+    "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "ECommerce",
     "competency": "Power BI",
-    "demand": 0,
-    "supply": 2,
-    "status": "redundant"
-  },
-  {
-    "industry": "ECommerce",
-    "competency": "React",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -458,12 +647,26 @@
     "industry": "EcoTech",
     "competency": "NLP",
     "demand": 0,
-    "supply": 1,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "EcoTech",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 4,
     "status": "redundant"
   },
   {
     "industry": "EdTech",
     "competency": ".NET",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "1C:Документооборот",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -477,13 +680,6 @@
   },
   {
     "industry": "EdTech",
-    "competency": "CSS",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "EdTech",
     "competency": "Django",
     "demand": 0,
     "supply": 2,
@@ -492,13 +688,6 @@
   {
     "industry": "EdTech",
     "competency": "Docker",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "EdTech",
-    "competency": "Excel",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -521,21 +710,21 @@
     "industry": "EdTech",
     "competency": "HTML",
     "demand": 0,
-    "supply": 2,
+    "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "EdTech",
     "competency": "Java",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "EdTech",
     "competency": "JavaScript",
     "demand": 0,
-    "supply": 2,
+    "supply": 3,
     "status": "redundant"
   },
   {
@@ -543,6 +732,20 @@
     "competency": "Kotlin",
     "demand": 0,
     "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 6,
+    "status": "redundant"
+  },
+  {
+    "industry": "EdTech",
+    "competency": "MongoDB",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
@@ -556,14 +759,14 @@
     "industry": "EdTech",
     "competency": "NLP",
     "demand": 0,
-    "supply": 3,
+    "supply": 20,
     "status": "redundant"
   },
   {
     "industry": "EdTech",
     "competency": "Node.js",
     "demand": 0,
-    "supply": 2,
+    "supply": 3,
     "status": "redundant"
   },
   {
@@ -584,14 +787,14 @@
     "industry": "EdTech",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 17,
+    "supply": 36,
     "status": "redundant"
   },
   {
     "industry": "EdTech",
     "competency": "Python",
     "demand": 0,
-    "supply": 5,
+    "supply": 11,
     "status": "redundant"
   },
   {
@@ -626,7 +829,7 @@
     "industry": "EdTech",
     "competency": "Unity",
     "demand": 0,
-    "supply": 7,
+    "supply": 8,
     "status": "redundant"
   },
   {
@@ -659,21 +862,21 @@
   },
   {
     "industry": "Enterprise",
-    "competency": "Figma",
+    "competency": "JavaScript",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "Enterprise",
-    "competency": "Power BI",
+    "competency": "MongoDB",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "Enterprise",
-    "competency": "Python",
+    "competency": "Node.js",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -682,21 +885,63 @@
     "industry": "Enterprise",
     "competency": "React",
     "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "1C",
+    "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "EnterpriseSoftware",
-    "competency": "Power BI",
+    "competency": "1C:Документооборот",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "Excel",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "ML",
     "demand": 0,
     "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "EnterpriseSoftware",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "EnterpriseSoftware",
     "competency": "Python",
     "demand": 0,
-    "supply": 1,
+    "supply": 4,
     "status": "redundant"
   },
   {
@@ -738,14 +983,14 @@
     "industry": "FinTech",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 3,
+    "supply": 4,
     "status": "redundant"
   },
   {
     "industry": "FinTech",
     "competency": "Python",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
@@ -778,6 +1023,20 @@
   },
   {
     "industry": "Game-based",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Game-based",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Game-based",
     "competency": "Unity",
     "demand": 0,
     "supply": 3,
@@ -785,51 +1044,72 @@
   },
   {
     "industry": "GameDev",
-    "competency": "C#",
+    "competency": "C",
     "demand": 0,
     "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "C#",
+    "demand": 0,
+    "supply": 4,
     "status": "redundant"
   },
   {
     "industry": "GameDev",
     "competency": "C++",
     "demand": 0,
-    "supply": 1,
+    "supply": 3,
     "status": "redundant"
   },
   {
     "industry": "GameDev",
     "competency": "Figma",
     "demand": 0,
-    "supply": 2,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "GameDev",
     "competency": "NLP",
     "demand": 0,
-    "supply": 2,
+    "supply": 6,
     "status": "redundant"
   },
   {
     "industry": "GameDev",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 10,
+    "supply": 18,
     "status": "redundant"
   },
   {
     "industry": "GameDev",
     "competency": "Python",
     "demand": 0,
-    "supply": 2,
+    "supply": 5,
+    "status": "redundant"
+  },
+  {
+    "industry": "GameDev",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "GameDev",
     "competency": "Unity",
     "demand": 0,
-    "supply": 8,
+    "supply": 14,
     "status": "redundant"
   },
   {
@@ -848,7 +1128,21 @@
   },
   {
     "industry": "HRTech",
+    "competency": "Angular",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
     "competency": "C#",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Django",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -862,9 +1156,51 @@
   },
   {
     "industry": "HRTech",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
     "competency": "HTML",
     "demand": 0,
     "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "MySQL",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 4,
     "status": "redundant"
   },
   {
@@ -885,21 +1221,28 @@
     "industry": "HRTech",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 6,
+    "supply": 8,
     "status": "redundant"
   },
   {
     "industry": "HRTech",
     "competency": "Python",
     "demand": 0,
-    "supply": 1,
+    "supply": 4,
     "status": "redundant"
   },
   {
     "industry": "HRTech",
     "competency": "React",
     "demand": 0,
-    "supply": 1,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "HRTech",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
     "status": "redundant"
   },
   {
@@ -948,7 +1291,7 @@
     "industry": "HealthTech",
     "competency": "NLP",
     "demand": 0,
-    "supply": 2,
+    "supply": 3,
     "status": "redundant"
   },
   {
@@ -974,21 +1317,28 @@
   },
   {
     "industry": "ITSM",
-    "competency": "Power BI",
+    "competency": "JavaScript",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
-    "industry": "Innovation",
-    "competency": "Figma",
+    "industry": "ITSM",
+    "competency": "MongoDB",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
-    "industry": "Innovation",
-    "competency": "Python",
+    "industry": "ITSM",
+    "competency": "Node.js",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ITSM",
+    "competency": "React",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -1003,6 +1353,34 @@
   {
     "industry": "LegalTech",
     "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "LegalTech",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "LegalTech",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "LegalTech",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "LegalTech",
+    "competency": "SQL",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -1023,23 +1401,44 @@
   },
   {
     "industry": "Logistics",
+    "competency": "JavaScript",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
     "competency": "NLP",
     "demand": 0,
-    "supply": 2,
+    "supply": 4,
     "status": "redundant"
   },
   {
     "industry": "Logistics",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 3,
+    "supply": 8,
     "status": "redundant"
   },
   {
     "industry": "Logistics",
     "competency": "Python",
     "demand": 0,
+    "supply": 3,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "React",
+    "demand": 0,
     "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Logistics",
+    "competency": "Unity",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
@@ -1057,20 +1456,6 @@
     "status": "redundant"
   },
   {
-    "industry": "MobileDevelopment",
-    "competency": "React",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "MobileDevelopment",
-    "competency": "TypeScript",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
     "industry": "Project Management",
     "competency": "JavaScript",
     "demand": 0,
@@ -1086,21 +1471,7 @@
   },
   {
     "industry": "ProjectManagement",
-    "competency": "Excel",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "ProjectManagement",
     "competency": "JavaScript",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "ProjectManagement",
-    "competency": "MySQL",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
@@ -1109,7 +1480,7 @@
     "industry": "ProjectManagement",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
@@ -1123,7 +1494,7 @@
     "industry": "ProjectManagement",
     "competency": "React",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
@@ -1137,14 +1508,14 @@
     "industry": "ProjectManagement",
     "competency": "TypeScript",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "PropTech",
     "competency": "Angular",
     "demand": 0,
-    "supply": 1,
+    "supply": 3,
     "status": "redundant"
   },
   {
@@ -1163,9 +1534,37 @@
   },
   {
     "industry": "PropTech",
-    "competency": "NLP",
+    "competency": "Go",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "JavaScript",
     "demand": 0,
     "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Kotlin",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 2,
     "status": "redundant"
   },
   {
@@ -1179,14 +1578,49 @@
     "industry": "PropTech",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 1,
+    "supply": 7,
     "status": "redundant"
   },
   {
     "industry": "PropTech",
     "competency": "Python",
     "demand": 0,
+    "supply": 6,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "React",
+    "demand": 0,
     "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "PropTech",
+    "competency": "Swift",
+    "demand": 0,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "Psychology",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ResearchTech",
+    "competency": "ML",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "ResearchTech",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
@@ -1198,6 +1632,13 @@
   },
   {
     "industry": "RetailHoReCa",
+    "competency": "Power BI",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "Robotics",
     "competency": "Power BI",
     "demand": 0,
     "supply": 1,
@@ -1221,7 +1662,14 @@
     "industry": "SaaS",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 4,
+    "supply": 2,
+    "status": "redundant"
+  },
+  {
+    "industry": "SaaS",
+    "competency": "Python",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
@@ -1247,23 +1695,16 @@
   },
   {
     "industry": "SoftwareDevelopment",
-    "competency": "CSS",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "SoftwareDevelopment",
-    "competency": "HTML",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "SoftwareDevelopment",
     "competency": "JavaScript",
     "demand": 0,
     "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "competency": "NLP",
+    "demand": 0,
+    "supply": 3,
     "status": "redundant"
   },
   {
@@ -1277,14 +1718,21 @@
     "industry": "SoftwareDevelopment",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 2,
+    "supply": 6,
     "status": "redundant"
   },
   {
     "industry": "SoftwareDevelopment",
     "competency": "Python",
     "demand": 0,
-    "supply": 3,
+    "supply": 4,
+    "status": "redundant"
+  },
+  {
+    "industry": "SoftwareDevelopment",
+    "competency": "React",
+    "demand": 0,
+    "supply": 1,
     "status": "redundant"
   },
   {
@@ -1317,37 +1765,30 @@
   },
   {
     "industry": "SportTech",
-    "competency": "MySQL",
-    "demand": 0,
-    "supply": 1,
-    "status": "redundant"
-  },
-  {
-    "industry": "SportTech",
     "competency": "NLP",
     "demand": 0,
-    "supply": 1,
+    "supply": 2,
     "status": "redundant"
   },
   {
     "industry": "SportTech",
     "competency": "PostgreSQL",
     "demand": 0,
-    "supply": 2,
+    "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "SportTech",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 6,
+    "supply": 9,
     "status": "redundant"
   },
   {
     "industry": "SportTech",
     "competency": "Python",
     "demand": 0,
-    "supply": 2,
+    "supply": 4,
     "status": "redundant"
   },
   {
@@ -1361,7 +1802,7 @@
     "industry": "SportTech",
     "competency": "Redis",
     "demand": 0,
-    "supply": 2,
+    "supply": 1,
     "status": "redundant"
   },
   {
@@ -1373,23 +1814,44 @@
   },
   {
     "industry": "TravelTech",
+    "competency": "C",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "TravelTech",
+    "competency": "C++",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "TravelTech",
+    "competency": "Java",
+    "demand": 0,
+    "supply": 1,
+    "status": "redundant"
+  },
+  {
+    "industry": "TravelTech",
     "competency": "NLP",
     "demand": 0,
-    "supply": 4,
+    "supply": 10,
     "status": "redundant"
   },
   {
     "industry": "TravelTech",
     "competency": "Power BI",
     "demand": 0,
-    "supply": 5,
+    "supply": 11,
     "status": "redundant"
   },
   {
     "industry": "TravelTech",
     "competency": "Unity",
     "demand": 0,
-    "supply": 2,
+    "supply": 4,
     "status": "redundant"
   },
   {
@@ -1435,22 +1897,22 @@
     "status": "redundant"
   },
   {
-    "industry": "Web3",
-    "competency": "NLP",
+    "industry": "WebDevelopment",
+    "competency": "Power BI",
     "demand": 0,
-    "supply": 1,
+    "supply": 3,
     "status": "redundant"
   },
   {
-    "industry": "Web3",
-    "competency": "Power BI",
+    "industry": "WebDevelopment",
+    "competency": "Python",
     "demand": 0,
     "supply": 1,
     "status": "redundant"
   },
   {
     "industry": "WebDevelopment",
-    "competency": "Power BI",
+    "competency": "SQL",
     "demand": 0,
     "supply": 1,
     "status": "redundant"

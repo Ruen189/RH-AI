@@ -123,15 +123,7 @@ def compute_stats(
         plt.close()
 
     if global_industry_counter:
-        whitelist_path = "data/whitelist_competencies.json"
-        with open(whitelist_path, "r", encoding="utf-8") as f:
-            whitelist = set(json.load(f))
-
-        filtered_global_industry = {
-            skill: count for skill, count in global_industry_counter.items()
-            if skill in whitelist
-        }
-        top_ind_global = Counter(filtered_global_industry).most_common(30)
+        top_ind_global = global_industry_counter.most_common(30)
 
         skills, counts = zip(*top_ind_global)
         plt.figure(figsize=(12, 6))
@@ -174,7 +166,7 @@ def compute_stats(
             plt.title("Компетенции со статусом MATCH (есть в обоих случаях)", fontsize=30, pad=20)
             plt.grid(True, linestyle="--", alpha=0.3)
             plt.tight_layout()
-            plt.savefig(os.path.join(viz_dir, "match_scatter.png"))
+            plt.savefig(os.path.join(viz_dir, "demand_vs_supply_matches.png"))
             plt.close()
 
     return stats
@@ -199,7 +191,7 @@ def generate_recommendations(
         entries = gaps_info
     else:
         entries = [{"industry": k, **v} for k, v in gaps_info.items()]
-
+    from typing import List
     prompts: List[str] = []
     industries: List[str] = []
     ready_text: dict = {}
